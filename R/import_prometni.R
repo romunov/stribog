@@ -37,19 +37,19 @@ importTrafficData <- function (leto) {
 # name columns os OSEBE table 
 # NOTE: valid for year 2013!
 nameOsebeColumns <- function(data) {
-  colnames(data) <- c("StevilkaZadeve",
+  colnames(data) <- c("stevilkaZadeve",
                       "unknown",
-                      "VlogaOsebe",
-                      "Starost",
-                      "Spol",
-                      "Obcina",
-                      "Drzavljanstvo",
-                      "Poskodba",
-                      "VrstaUdelezenca",
-                      "UporabaPasuCelade",
-                      "VozniskiStaz",
-                      "VrednostAlkotesta",
-                      "VrednostStrokovnegaPregleda",
+                      "vlogaOsebe",
+                      "starost",
+                      "spol",
+                      "obcina",
+                      "drzavljanstvo",
+                      "poskodba",
+                      "vrstaUdelezenca",
+                      "uporabaPasuCelade",
+                      "vozniskiStaz",
+                      "vrednostAlkotesta",
+                      "vrednostStrokovnegaPregleda",
                       "empty"
   )
   return(data)
@@ -58,25 +58,25 @@ nameOsebeColumns <- function(data) {
 # name columns of DOGODKI table 
 # NOTE: valid for year 2013!
 nameDogodkiColumns <- function(data) {
-  colnames(data) <- c("StevilkaZadeve",
-                      "KlasifikacijaNesrece",
-                      "UpravnaEnotaDogodka",
-                      "DatumNesrece",
-                      "UraNesrece",
-                      "NaseljeAliIzven",
-                      "KategorijaCeste",
-                      "OznakaCestaAliNaselja?",
-                      "OznakaCestaAliNaselja?",
-                      "TekstCesteAliNaselja",
-                      "TekstOdsekaAliUlice",
-                      "StacionazaAliHisnaStevilka",
-                      "OpisPrizorisca",
-                      "GlavniVzrok",
-                      "TipNesrece",
-                      "VremenskeOkoliscine",
-                      "StanjePrometa",
-                      "StanjeVozisca",
-                      "StanjePovrsineVozisca"
+  colnames(data) <- c("stevilkaZadeve",
+                      "klasifikacijaNesrece",
+                      "upravnaEnotaDogodka",
+                      "datumNesrece",
+                      "uraNesrece",
+                      "naseljeAliIzven",
+                      "kategorijaCeste",
+                      "oznakaCestaAliNaselja?",
+                      "oznakaCestaAliNaselja?",
+                      "tekstCesteAliNaselja",
+                      "tekstOdsekaAliUlice",
+                      "stacionazaAliHisnaStevilka",
+                      "opisPrizorisca",
+                      "glavniVzrok",
+                      "tipNesrece",
+                      "vremenskeOkoliscine",
+                      "stanjePrometa",
+                      "stanjeVozisca",
+                      "stanjePovrsineVozisca"
   )
   return(data)
 }

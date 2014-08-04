@@ -1,0 +1,1175 @@
+Results of decoding first line of SIFRANTI.TXT from pn2013.zip; first column contains
+the name of the encoding tried.
+===========================================================================================
+"","V1","V2"
+"1026","«ñãê +è<!!â«ñãê +èí&ê î+ñ{á+!èñ+ëè êñ{!âHñ+","â +!îñFñ"
+"1046","│IFRANT  LOOB  │IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"1047","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"10646-1:1993",NA,NA
+"437","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"500","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"500V1","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"850","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"851","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"852","ŐIFRANT  LOOB  ŐIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIĂI"
+"855","іIFRANT  LOOB  іIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIкI"
+"856","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN",NA
+"857","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"860","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"861","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"862","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"863","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"864","├IFRANT  LOOB  ├IFRANT UPRAVNIH ENOT IN STARIH OBﺑIN","1601           BANOVIﺋI"
+"865","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"866","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"866NAV","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"869","¦IFRANT  LOOB  ¦IFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"874",NA,"1601           BANOVIฦI"
+"8859_1","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"8859_2","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"8859_3","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"8859_4","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"8859_5","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"8859_6","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"8859_7","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"8859_8",NA,NA
+"8859_9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"904",NA,NA
+"ANSI_X3.110","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ANSI_X3.110-1983","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ANSI_X3.4",NA,NA
+"ANSI_X3.4-1968",NA,NA
+"ANSI_X3.4-1986",NA,NA
+"ARABIC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"ARABIC7",NA,NA
+"ARMSCII-8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBԼIN","1601           BANOVIԻI"
+"ASCII",NA,NA
+"ASMO_449",NA,NA
+"ASMO-708","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"BALTIC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"BIG5",NA,"1601           BANOVI顰"
+"BIG-5",NA,"1601           BANOVI顰"
+"BIG5HKSCS","𠍁FRANT  LOOB  𠍁FRANT UPRAVNIH ENOT IN STARIH OBФN","1601           BANOVI顰"
+"BIG5-HKSCS","𠍁FRANT  LOOB  𠍁FRANT UPRAVNIH ENOT IN STARIH OBФN","1601           BANOVI顰"
+"BIGFIVE",NA,"1601           BANOVI顰"
+"BIG-FIVE",NA,"1601           BANOVI顰"
+"BRF",NA,NA
+"BS_4730",NA,NA
+"CA",NA,NA
+"CN",NA,NA
+"CN-BIG5",NA,"1601           BANOVI顰"
+"CN-GB",NA,NA
+"CP037","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CP038",NA,NA
+"CP10007","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"CP1004","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CP1008","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBﺡIN","1601           BANOVIﺝI"
+"CP1025","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"CP1026","«ñãê +è<!!â«ñãê +èí&ê î+ñ{á+!èñ+ëè êñ{!âHñ+","â +!îñFñ"
+"CP1046","│IFRANT  LOOB  │IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"CP1047","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CP1070","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CP1079","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"CP1081","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"CP1084","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1089","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"CP1097","«ﺃ +<||،«ﺃ +ﺅ&ﺃ ﺋ+ﺎﺂ+|+ﺄ ﺃﺎ|،H+","، +|ﺋF"
+"CP1112","«žūę +č<||š«žūę +čų&ę „+žēį+|čž+ėč ęžē|šHž+","š +|„žFž"
+"CP1122","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1123","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"CP1124","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"CP1125","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP1129","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CP1130","«ñăê +è<!!â«ñăê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1132",NA,"ກ +|ທ[F["
+"CP1133","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBູIN","1601           BANOVIືI"
+"CP1137","धउआऌ +ऎ<||ँधउआऌ +ऎए&ऌ ऐ+उईअ+|ऎउ+ऍऎ ऌउई|ँHउ+","ँ +|ऐउFउ"
+"CP1140","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CP1141","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1142","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1143","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1144","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"CP1145","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"CP1146","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CP1147","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"CP1148","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1149","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1153","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"CP1154","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"CP1155","«ñãê +è<!!â«ñãê +èí&ê î+ñ{á+!èñ+ëè êñ{!âHñ+","â +!îñFñ"
+"CP1156","«žūę +č<||š«žūę +čų&ę „+žēį+|čž+ėč ęžē|šHž+","š +|„žFž"
+"CP1157","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1158","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"CP1160","ฝ[ฅจ +ช<||กฝ[ฅจ +ชซ&จ ฌ+[งค+|ช[+ฉช จ[ง|กH[+","ก +|ฌ[F["
+"CP1161",NA,"1601           BANOVIฦI"
+"CP1162","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"CP1163","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CP1164","«ñăê +è<!!â«ñăê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP1166","дјѕө +ү<!!әдјѕө +үў&ө һ+јқє+!үј+ұү өјқ!әHј+","ә +!һјFј"
+"CP1167","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"CP1250","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"CP1251","ЉIFRANT  LOOB  ЉIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"CP1252","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CP1253",NA,"1601           BANOVIΖI"
+"CP1254","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CP1255",NA,"1601           BANOVIֶI"
+"CP1256","ٹIFRANT  LOOB  ٹIFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"CP1257",NA,"1601           BANOVIĘI"
+"CP1258",NA,"1601           BANOVIÆ"
+"CP12712","«טוךא+ל<||ב«טוךא+לם&ךאמ+טחה+|לט+כלאךטח|בHט+","בא+|מטFט"
+"CP1282","äIFRANT  LOOB  äIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"CP1361",NA,"1601           BANOVI쾰"
+"CP1364",NA,NA
+"CP1371",NA,NA
+"CP1388",NA,NA
+"CP1390","ｺｩｦｫ｡+ｭ<||｢ｺｩｦｫ｡+ｭｮ&ｫ｡ｯ+ｩｨ･+|ｭｩ+ｬｭ｡ｫｩｨ|｢Hｩ+","｢｡+|ｯｩFｩ"
+"CP1399","ﾃｨ･ｪ+ｬ<||｡ﾃｨ･ｪ+ｬｭ&ｪｮ+ｨｧ､+|ｬｨ+ｫｬｪｨｧ|｡Hｨ+","｡+|ｮｨFｨ"
+"CP16804",NA,"ّ +|اأFأ"
+"CP273","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP274",NA,NA
+"CP275",NA,NA
+"CP278","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP280","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"CP281",NA,NA
+"CP282","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CP284","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"CP285","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CP290","コゥヲォ。+ュ<||「コゥヲォ。+ュョ&ォ。ッ+ゥィ・+|ュゥ+ャュ。ォゥィ|「Hゥ+","「。+|ッゥFゥ"
+"CP297","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"CP367",NA,NA
+"CP420",NA,"ّ +|اأFأ"
+"CP423","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"CP424","«טוךא+ל<||ב«טוךא+לם&ךאמ+טחה+|לט+כלאךטח|בHט+","בא+|מטFט"
+"CP437","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP4517",NA,"ﹼ +!ﺍﺃFﺃ"
+"CP4899",NA,NA
+"CP4909","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"CP4971","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"CP500","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP5347","ЉIFRANT  LOOB  ЉIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"CP737","ΛIFRANT  LOOB  ΛIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP770","ęIFRANT  LOOB  ęIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP771","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP772","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIŲI"
+"CP773","ŖIFRANT  LOOB  ŖIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP774","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIŲI"
+"CP775","ŖIFRANT  LOOB  ŖIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIŲI"
+"CP803",NA,NA
+"CP813","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"CP819","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CP850","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"CP851","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"CP852","ŐIFRANT  LOOB  ŐIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIĂI"
+"CP855","іIFRANT  LOOB  іIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIкI"
+"CP856","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN",NA
+"CP857","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"CP860","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP861","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP862","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP863","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP864","├IFRANT  LOOB  ├IFRANT UPRAVNIH ENOT IN STARIH OBﺑIN","1601           BANOVIﺋI"
+"CP865","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP866","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP866NAV","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CP868","،IFRANT  LOOB  ،IFRANT UPRAVNIH ENOT IN STARIH OBﻊIN","1601           BANOVI─I"
+"CP869","¦IFRANT  LOOB  ¦IFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"CP870","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"CP871","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CP874",NA,"1601           BANOVIฦI"
+"CP875","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"CP880",NA,NA
+"CP891",NA,NA
+"CP901","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"CP902","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CP903",NA,NA
+"CP9030","ฝ[ฅจ +ช<||กฝ[ฅจ +ชซ&จ ฌ+[งค+|ช[+ฉช จ[ง|กH[+","ก +|ฌ[F["
+"CP904",NA,NA
+"CP905",NA,NA
+"CP9066",NA,"1601           BANOVIฦI"
+"CP912","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"CP915","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"CP916",NA,NA
+"CP918",NA,"، +!ﺗبFب"
+"CP920","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CP921","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"CP922","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CP930","ｺｩｦｫ｡+ｭ<||｢ｺｩｦｫ｡+ｭｮ&ｫ｡ｯ+ｩｨ･+|ｭｩ+ｬｭ｡ｫｩｨ|｢Hｩ+","｢｡+|ｯｩFｩ"
+"CP932","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"CP933",NA,NA
+"CP935",NA,NA
+"CP936","奍FRANT  LOOB  奍FRANT UPRAVNIH ENOT IN STARIH OB菼N","1601           BANOVI艻"
+"CP937",NA,NA
+"CP939",NA,NA
+"CP9448","ٹIFRANT  LOOB  ٹIFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"CP949",NA,"1601           BANOVI힖"
+"CP950",NA,"1601           BANOVI顰"
+"CP-AR","،IFRANT  LOOB  ،IFRANT UPRAVNIH ENOT IN STARIH OBﻊIN","1601           BANOVI─I"
+"CP-GR","¦IFRANT  LOOB  ¦IFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"CP-HU","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CPIBM861","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CSA7-1",NA,NA
+"CSA7-2",NA,NA
+"CSASCII",NA,NA
+"CSA_T500","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"CSA_T500-1983","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"CSA_Z243.419851",NA,NA
+"CSA_Z243.4-1985-1",NA,NA
+"CSA_Z243.419852",NA,NA
+"CSA_Z243.4-1985-2",NA,NA
+"CSDECMCS","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CSEBCDICATDE",NA,NA
+"CSEBCDICATDEA",NA,NA
+"CSEBCDICCAFR",NA,NA
+"CSEBCDICDKNO",NA,NA
+"CSEBCDICDKNOA",NA,NA
+"CSEBCDICES",NA,NA
+"CSEBCDICESA",NA,NA
+"CSEBCDICESS",NA,NA
+"CSEBCDICFISE",NA,NA
+"CSEBCDICFISEA",NA,NA
+"CSEBCDICFR",NA,NA
+"CSEBCDICIT",NA,NA
+"CSEBCDICPT",NA,NA
+"CSEBCDICUK",NA,NA
+"CSEBCDICUS",NA,NA
+"CSEUCKR",NA,NA
+"CSEUCPKDFMTJAPANESE",NA,NA
+"CSGB2312",NA,NA
+"CSHPROMAN8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"CSIBM037","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CSIBM038",NA,NA
+"CSIBM1008","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBﺡIN","1601           BANOVIﺝI"
+"CSIBM1025","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"CSIBM1026","«ñãê +è<!!â«ñãê +èí&ê î+ñ{á+!èñ+ëè êñ{!âHñ+","â +!îñFñ"
+"CSIBM1097","«ﺃ +<||،«ﺃ +ﺅ&ﺃ ﺋ+ﺎﺂ+|+ﺄ ﺃﺎ|،H+","، +|ﺋF"
+"CSIBM1112","«žūę +č<||š«žūę +čų&ę „+žēį+|čž+ėč ęžē|šHž+","š +|„žFž"
+"CSIBM1122","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM1123","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"CSIBM1124","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"CSIBM1129","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CSIBM1130","«ñăê +è<!!â«ñăê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM1132",NA,"ກ +|ທ[F["
+"CSIBM1133","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBູIN","1601           BANOVIືI"
+"CSIBM1137","धउआऌ +ऎ<||ँधउआऌ +ऎए&ऌ ऐ+उईअ+|ऎउ+ऍऎ ऌउई|ँHउ+","ँ +|ऐउFउ"
+"CSIBM1140","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CSIBM1141","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM1142","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM1143","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM1144","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"CSIBM1145","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"CSIBM1146","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CSIBM1147","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"CSIBM1148","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM1149","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM1153","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"CSIBM1154","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"CSIBM1155","«ñãê +è<!!â«ñãê +èí&ê î+ñ{á+!èñ+ëè êñ{!âHñ+","â +!îñFñ"
+"CSIBM1156","«žūę +č<||š«žūę +čų&ę „+žēį+|čž+ėč ęžē|šHž+","š +|„žFž"
+"CSIBM1157","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM1158","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"CSIBM1160","ฝ[ฅจ +ช<||กฝ[ฅจ +ชซ&จ ฌ+[งค+|ช[+ฉช จ[ง|กH[+","ก +|ฌ[F["
+"CSIBM1161",NA,"1601           BANOVIฦI"
+"CSIBM11621162","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"CSIBM1163","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CSIBM1164","«ñăê +è<!!â«ñăê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM1166","дјѕө +ү<!!әдјѕө +үў&ө һ+јқє+!үј+ұү өјқ!әHј+","ә +!һјFј"
+"CSIBM1167","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"CSIBM12712","«טוךא+ל<||ב«טוךא+לם&ךאמ+טחה+|לט+כלאךטח|בHט+","בא+|מטFט"
+"CSIBM1364",NA,NA
+"CSIBM1371",NA,NA
+"CSIBM1388",NA,NA
+"CSIBM1390","ｺｩｦｫ｡+ｭ<||｢ｺｩｦｫ｡+ｭｮ&ｫ｡ｯ+ｩｨ･+|ｭｩ+ｬｭ｡ｫｩｨ|｢Hｩ+","｢｡+|ｯｩFｩ"
+"CSIBM1399","ﾃｨ･ｪ+ｬ<||｡ﾃｨ･ｪ+ｬｭ&ｪｮ+ｨｧ､+|ｬｨ+ｫｬｪｨｧ|｡Hｨ+","｡+|ｮｨFｨ"
+"CSIBM16804",NA,"ّ +|اأFأ"
+"CSIBM273","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM274",NA,NA
+"CSIBM275",NA,NA
+"CSIBM277","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM278","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM280","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"CSIBM281",NA,NA
+"CSIBM284","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"CSIBM285","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"CSIBM290","コゥヲォ。+ュ<||「コゥヲォ。+ュョ&ォ。ッ+ゥィ・+|ュゥ+ャュ。ォゥィ|「Hゥ+","「。+|ッゥFゥ"
+"CSIBM297","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"CSIBM420",NA,"ّ +|اأFأ"
+"CSIBM423","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"CSIBM424","«טוךא+ל<||ב«טוךא+לם&ךאמ+טחה+|לט+כלאךטח|בHט+","בא+|מטFט"
+"CSIBM4517",NA,"ﹼ +!ﺍﺃFﺃ"
+"CSIBM4899",NA,NA
+"CSIBM4909","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"CSIBM4971","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"CSIBM500","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM5347","ЉIFRANT  LOOB  ЉIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"CSIBM803",NA,NA
+"CSIBM851","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"CSIBM855","іIFRANT  LOOB  іIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIкI"
+"CSIBM856","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN",NA
+"CSIBM857","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"CSIBM860","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CSIBM863","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CSIBM864","├IFRANT  LOOB  ├IFRANT UPRAVNIH ENOT IN STARIH OBﺑIN","1601           BANOVIﺋI"
+"CSIBM865","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CSIBM866","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CSIBM868","،IFRANT  LOOB  ،IFRANT UPRAVNIH ENOT IN STARIH OBﻊIN","1601           BANOVI─I"
+"CSIBM869","¦IFRANT  LOOB  ¦IFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"CSIBM870","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"CSIBM871","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"CSIBM880",NA,NA
+"CSIBM891",NA,NA
+"CSIBM901","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"CSIBM902","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CSIBM903",NA,NA
+"CSIBM9030","ฝ[ฅจ +ช<||กฝ[ฅจ +ชซ&จ ฌ+[งค+|ช[+ฉช จ[ง|กH[+","ก +|ฌ[F["
+"CSIBM904",NA,NA
+"CSIBM905",NA,NA
+"CSIBM9066",NA,"1601           BANOVIฦI"
+"CSIBM918",NA,"، +!ﺗبFب"
+"CSIBM921","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"CSIBM922","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CSIBM930","ｺｩｦｫ｡+ｭ<||｢ｺｩｦｫ｡+ｭｮ&ｫ｡ｯ+ｩｨ･+|ｭｩ+ｬｭ｡ｫｩｨ|｢Hｩ+","｢｡+|ｯｩFｩ"
+"CSIBM932","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"CSIBM933",NA,NA
+"CSIBM935",NA,NA
+"CSIBM937",NA,NA
+"CSIBM939",NA,NA
+"CSIBM943","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"CSIBM9448","ٹIFRANT  LOOB  ٹIFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"CSISO10367BOX","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OB╦IN","1601           BANOVI╠I"
+"CSISO103T618BIT","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"CSISO10SWEDISH",NA,NA
+"CSISO111ECMACYRILLIC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"CSISO11SWEDISHFORNAMES",NA,NA
+"CSISO121CANADIAN1",NA,NA
+"CSISO122CANADIAN2",NA,NA
+"CSISO139CSN369103","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"CSISO141JUSIB1002",NA,NA
+"CSISO143IECP271","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVI∠I"
+"CSISO14JISC6220RO",NA,NA
+"CSISO150",NA,NA
+"CSISO150GREEKCCITT",NA,NA
+"CSISO151CUBA",NA,NA
+"CSISO153GOST1976874","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"CSISO15ITALIAN",NA,NA
+"CSISO16PORTUGESE",NA,NA
+"CSISO17SPANISH",NA,NA
+"CSISO18GREEK7OLD",NA,NA
+"CSISO19LATINGREEK",NA,NA
+"CSISO2022CN",NA,NA
+"CSISO2022JP",NA,NA
+"CSISO2022JP2",NA,NA
+"CSISO2022KR",NA,NA
+"CSISO2033",NA,NA
+"CSISO21GERMAN",NA,NA
+"CSISO25FRENCH",NA,NA
+"CSISO27LATINGREEK1",NA,NA
+"CSISO49INIS",NA,NA
+"CSISO4UNITEDKINGDOM",NA,NA
+"CSISO50INIS8",NA,NA
+"CSISO51INISCYRILLIC",NA,NA
+"CSISO5427CYRILLIC",NA,NA
+"CSISO5427CYRILLIC1981",NA,NA
+"CSISO5428GREEK",NA,NA
+"CSISO58GB1988",NA,NA
+"CSISO60DANISHNORWEGIAN",NA,NA
+"CSISO60NORWEGIAN1",NA,NA
+"CSISO61NORWEGIAN2",NA,NA
+"CSISO646DANISH",NA,NA
+"CSISO69FRENCH",NA,NA
+"CSISO84PORTUGUESE2",NA,NA
+"CSISO85SPANISH2",NA,NA
+"CSISO86HUNGARIAN",NA,NA
+"CSISO88GREEK7",NA,NA
+"CSISO89ASMO449",NA,NA
+"CSISO90","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"CSISO92JISC62991984B",NA,NA
+"CSISO99NAPLPS","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"CSISOLATIN1","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CSISOLATIN2","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"CSISOLATIN3","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"CSISOLATIN4","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"CSISOLATIN5","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"CSISOLATIN6","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"CSISOLATINARABIC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"CSISOLATINCYRILLIC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"CSISOLATINGREEK","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"CSISOLATINHEBREW",NA,NA
+"CSKOI8R","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"CSKSC5636",NA,NA
+"CSMACINTOSH","äIFRANT  LOOB  äIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVIΔI"
+"CSN_369103","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"CSNATSDANO",NA,NA
+"CSNATSSEFI",NA,NA
+"CSPC775BALTIC","ŖIFRANT  LOOB  ŖIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIŲI"
+"CSPC850MULTILINGUAL","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"CSPC862LATINHEBREW","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CSPC8CODEPAGE437","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CSPCP852","ŐIFRANT  LOOB  ŐIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIĂI"
+"CSSHIFTJIS","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"CSUCS4",NA,NA
+"CSUNICODE","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"CSWINDOWS31J","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"CUBA",NA,NA
+"CWI","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CWI-2","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"CYRILLIC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"DE",NA,NA
+"DEC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"DECMCS","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"DEC-MCS","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"DIN_66003",NA,NA
+"DK",NA,NA
+"DS2089",NA,NA
+"DS_2089",NA,NA
+"E13B",NA,NA
+"EBCDICATDE",NA,NA
+"EBCDIC-AT-DE",NA,NA
+"EBCDICATDEA",NA,NA
+"EBCDIC-AT-DE-A",NA,NA
+"EBCDIC-BE",NA,NA
+"EBCDIC-BR",NA,NA
+"EBCDICCAFR",NA,NA
+"EBCDIC-CA-FR",NA,NA
+"EBCDIC-CP-AR1",NA,"ّ +|اأFأ"
+"EBCDIC-CP-AR2",NA,"، +!ﺗبFب"
+"EBCDIC-CP-BE","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"EBCDIC-CP-CA","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"EBCDIC-CP-CH","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"EBCDIC-CP-DK","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"EBCDIC-CP-ES","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"EBCDIC-CP-FI","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"EBCDIC-CP-FR","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"EBCDIC-CP-GB","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"EBCDIC-CP-GR","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"EBCDIC-CP-HE","«טוךא+ל<||ב«טוךא+לם&ךאמ+טחה+|לט+כלאךטח|בHט+","בא+|מטFט"
+"EBCDIC-CP-IS","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"EBCDIC-CP-IT","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"EBCDIC-CP-NL","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"EBCDIC-CP-NO","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"EBCDIC-CP-ROECE","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"EBCDIC-CP-SE","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"EBCDIC-CP-TR",NA,NA
+"EBCDIC-CP-US","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"EBCDIC-CP-WT","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"EBCDIC-CP-YU","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"EBCDIC-CYRILLIC",NA,NA
+"EBCDICDKNO",NA,NA
+"EBCDIC-DK-NO",NA,NA
+"EBCDICDKNOA",NA,NA
+"EBCDIC-DK-NO-A",NA,NA
+"EBCDICES",NA,NA
+"EBCDIC-ES",NA,NA
+"EBCDICESA",NA,NA
+"EBCDIC-ES-A",NA,NA
+"EBCDICESS",NA,NA
+"EBCDIC-ES-S",NA,NA
+"EBCDICFISE",NA,NA
+"EBCDIC-FI-SE",NA,NA
+"EBCDICFISEA",NA,NA
+"EBCDIC-FI-SE-A",NA,NA
+"EBCDICFR",NA,NA
+"EBCDIC-FR",NA,NA
+"EBCDIC-GREEK","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"EBCDIC-INT",NA,NA
+"EBCDIC-INT1","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"EBCDICISFRISS",NA,NA
+"EBCDIC-IS-FRISS",NA,NA
+"EBCDICIT",NA,NA
+"EBCDIC-IT",NA,NA
+"EBCDIC-JP-E",NA,NA
+"EBCDIC-JP-KANA","コゥヲォ。+ュ<||「コゥヲォ。+ュョ&ォ。ッ+ゥィ・+|ュゥ+ャュ。ォゥィ|「Hゥ+","「。+|ッゥFゥ"
+"EBCDICPT",NA,NA
+"EBCDIC-PT",NA,NA
+"EBCDICUK",NA,NA
+"EBCDIC-UK",NA,NA
+"EBCDICUS",NA,NA
+"EBCDIC-US",NA,NA
+"ECMA-114","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"ECMA-118","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"ECMA-128","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ECMACYRILLIC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"ECMA-CYRILLIC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"ELOT_928","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"ES",NA,NA
+"ES2",NA,NA
+"EUCCN",NA,NA
+"EUC-CN",NA,NA
+"EUC-JISX0213",NA,NA
+"EUCJP",NA,NA
+"EUC-JP",NA,NA
+"EUC-JP-MS",NA,NA
+"EUCJP-MS",NA,NA
+"EUCJP-OPEN",NA,NA
+"EUCJP-WIN",NA,NA
+"EUCKR",NA,NA
+"EUC-KR",NA,NA
+"EUCTW",NA,NA
+"EUC-TW",NA,NA
+"FI",NA,NA
+"FR",NA,NA
+"GB",NA,NA
+"GB13000","奍FRANT  LOOB  奍FRANT UPRAVNIH ENOT IN STARIH OB菼N","1601           BANOVI艻"
+"GB18030","奍FRANT  LOOB  奍FRANT UPRAVNIH ENOT IN STARIH OB菼N","1601           BANOVI艻"
+"GB_198880",NA,NA
+"GB_1988-80",NA,NA
+"GB2312",NA,NA
+"GBK","奍FRANT  LOOB  奍FRANT UPRAVNIH ENOT IN STARIH OB菼N","1601           BANOVI艻"
+"GEORGIAN-ACADEMY","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBიIN","1601           BANOVIზI"
+"GEORGIAN-PS","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBთIN","1601           BANOVIზI"
+"GOST_19768","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"GOST_1976874","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"GOST_19768-74","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"GREEK","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"GREEK7",NA,NA
+"GREEK7OLD",NA,NA
+"GREEK7-OLD",NA,NA
+"GREEK8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"GREEKCCITT",NA,NA
+"GREEK-CCITT",NA,NA
+"HEBREW",NA,NA
+"HPGREEK8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"HP-GREEK8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"HPROMAN8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"HP-ROMAN8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"HPROMAN9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"HP-ROMAN9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"HPTHAI8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"HP-THAI8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"HPTURKISH8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"HP-TURKISH8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"HU",NA,NA
+"IBM037","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"IBM038",NA,NA
+"IBM1004","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM1008","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBﺡIN","1601           BANOVIﺝI"
+"IBM-1008","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBﺡIN","1601           BANOVIﺝI"
+"IBM1025","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"IBM-1025","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"IBM1026","«ñãê +è<!!â«ñãê +èí&ê î+ñ{á+!èñ+ëè êñ{!âHñ+","â +!îñFñ"
+"IBM1046","│IFRANT  LOOB  │IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"IBM-1046","│IFRANT  LOOB  │IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"IBM1047","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"IBM-1047","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"IBM1089","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"IBM1097","«ﺃ +<||،«ﺃ +ﺅ&ﺃ ﺋ+ﺎﺂ+|+ﺄ ﺃﺎ|،H+","، +|ﺋF"
+"IBM-1097","«ﺃ +<||،«ﺃ +ﺅ&ﺃ ﺋ+ﺎﺂ+|+ﺄ ﺃﺎ|،H+","، +|ﺋF"
+"IBM1112","«žūę +č<||š«žūę +čų&ę „+žēį+|čž+ėč ęžē|šHž+","š +|„žFž"
+"IBM-1112","«žūę +č<||š«žūę +čų&ę „+žēį+|čž+ėč ęžē|šHž+","š +|„žFž"
+"IBM1122","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM-1122","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM1123","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"IBM-1123","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"IBM1124","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"IBM-1124","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"IBM1129","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM-1129","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM1130","«ñăê +è<!!â«ñăê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM-1130","«ñăê +è<!!â«ñăê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM1132",NA,"ກ +|ທ[F["
+"IBM-1132",NA,"ກ +|ທ[F["
+"IBM1133","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBູIN","1601           BANOVIືI"
+"IBM-1133","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBູIN","1601           BANOVIືI"
+"IBM1137","धउआऌ +ऎ<||ँधउआऌ +ऎए&ऌ ऐ+उईअ+|ऎउ+ऍऎ ऌउई|ँHउ+","ँ +|ऐउFउ"
+"IBM-1137","धउआऌ +ऎ<||ँधउआऌ +ऎए&ऌ ऐ+उईअ+|ऎउ+ऍऎ ऌउई|ँHउ+","ँ +|ऐउFउ"
+"IBM1140","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"IBM-1140","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"IBM1141","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM-1141","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM1142","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM-1142","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM1143","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM-1143","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM1144","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"IBM-1144","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"IBM1145","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"IBM-1145","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"IBM1146","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"IBM-1146","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"IBM1147","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"IBM-1147","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"IBM1148","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM-1148","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM1149","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM-1149","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM1153","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"IBM-1153","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"IBM1154","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"IBM-1154","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"IBM1155","«ñãê +è<!!â«ñãê +èí&ê î+ñ{á+!èñ+ëè êñ{!âHñ+","â +!îñFñ"
+"IBM-1155","«ñãê +è<!!â«ñãê +èí&ê î+ñ{á+!èñ+ëè êñ{!âHñ+","â +!îñFñ"
+"IBM1156","«žūę +č<||š«žūę +čų&ę „+žēį+|čž+ėč ęžē|šHž+","š +|„žFž"
+"IBM-1156","«žūę +č<||š«žūę +čų&ę „+žēį+|čž+ėč ęžē|šHž+","š +|„žFž"
+"IBM1157","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM-1157","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM1158","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"IBM-1158","дјѕњ +ќ<!!ђдјѕњ +ќў&њ џ+јїє+!ќј+ћќ њјї!ђHј+","ђ +!џјFј"
+"IBM1160","ฝ[ฅจ +ช<||กฝ[ฅจ +ชซ&จ ฌ+[งค+|ช[+ฉช จ[ง|กH[+","ก +|ฌ[F["
+"IBM-1160","ฝ[ฅจ +ช<||กฝ[ฅจ +ชซ&จ ฌ+[งค+|ช[+ฉช จ[ง|กH[+","ก +|ฌ[F["
+"IBM1161",NA,"1601           BANOVIฦI"
+"IBM-1161",NA,"1601           BANOVIฦI"
+"IBM1162","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"IBM-1162","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"IBM1163","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM-1163","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM1164","«ñăê +è<!!â«ñăê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM-1164","«ñăê +è<!!â«ñăê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM1166","дјѕө +ү<!!әдјѕө +үў&ө һ+јқє+!үј+ұү өјқ!әHј+","ә +!һјFј"
+"IBM-1166","дјѕө +ү<!!әдјѕө +үў&ө һ+јқє+!үј+ұү өјқ!әHј+","ә +!һјFј"
+"IBM1167","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"IBM-1167","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"IBM12712","«טוךא+ל<||ב«טוךא+לם&ךאמ+טחה+|לט+כלאךטח|בHט+","בא+|מטFט"
+"IBM-12712","«טוךא+ל<||ב«טוךא+לם&ךאמ+טחה+|לט+כלאךטח|בHט+","בא+|מטFט"
+"IBM1364",NA,NA
+"IBM-1364",NA,NA
+"IBM1371",NA,NA
+"IBM-1371",NA,NA
+"IBM1388",NA,NA
+"IBM-1388",NA,NA
+"IBM1390","ｺｩｦｫ｡+ｭ<||｢ｺｩｦｫ｡+ｭｮ&ｫ｡ｯ+ｩｨ･+|ｭｩ+ｬｭ｡ｫｩｨ|｢Hｩ+","｢｡+|ｯｩFｩ"
+"IBM-1390","ｺｩｦｫ｡+ｭ<||｢ｺｩｦｫ｡+ｭｮ&ｫ｡ｯ+ｩｨ･+|ｭｩ+ｬｭ｡ｫｩｨ|｢Hｩ+","｢｡+|ｯｩFｩ"
+"IBM1399","ﾃｨ･ｪ+ｬ<||｡ﾃｨ･ｪ+ｬｭ&ｪｮ+ｨｧ､+|ｬｨ+ｫｬｪｨｧ|｡Hｨ+","｡+|ｮｨFｨ"
+"IBM-1399","ﾃｨ･ｪ+ｬ<||｡ﾃｨ･ｪ+ｬｭ&ｪｮ+ｨｧ､+|ｬｨ+ｫｬｪｨｧ|｡Hｨ+","｡+|ｮｨFｨ"
+"IBM16804",NA,"ّ +|اأFأ"
+"IBM-16804",NA,"ّ +|اأFأ"
+"IBM256","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM273","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM274",NA,NA
+"IBM275",NA,NA
+"IBM277","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM278","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM280","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"IBM281",NA,NA
+"IBM284","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"IBM285","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"IBM290","コゥヲォ。+ュ<||「コゥヲォ。+ュョ&ォ。ッ+ゥィ・+|ュゥ+ャュ。ォゥィ|「Hゥ+","「。+|ッゥFゥ"
+"IBM297","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"IBM367",NA,NA
+"IBM420",NA,"ّ +|اأFأ"
+"IBM423","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"IBM424","«טוךא+ל<||ב«טוךא+לם&ךאמ+טחה+|לט+כלאךטח|בHט+","בא+|מטFט"
+"IBM437","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"IBM4517",NA,"ﹼ +!ﺍﺃFﺃ"
+"IBM-4517",NA,"ﹼ +!ﺍﺃFﺃ"
+"IBM4899",NA,NA
+"IBM-4899",NA,NA
+"IBM4909","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"IBM-4909","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"IBM4971","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"IBM-4971","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"IBM500","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM5347","ЉIFRANT  LOOB  ЉIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"IBM-5347","ЉIFRANT  LOOB  ЉIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"IBM775","ŖIFRANT  LOOB  ŖIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIŲI"
+"IBM803",NA,NA
+"IBM-803",NA,NA
+"IBM813","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"IBM819","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM848","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"IBM850","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"IBM851","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"IBM852","ŐIFRANT  LOOB  ŐIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIĂI"
+"IBM855","іIFRANT  LOOB  іIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIкI"
+"IBM856","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN",NA
+"IBM-856","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN",NA
+"IBM857","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"IBM860","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"IBM861","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"IBM862","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"IBM863","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"IBM864","├IFRANT  LOOB  ├IFRANT UPRAVNIH ENOT IN STARIH OBﺑIN","1601           BANOVIﺋI"
+"IBM865","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"IBM866","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"IBM866NAV","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"IBM868","،IFRANT  LOOB  ،IFRANT UPRAVNIH ENOT IN STARIH OBﻊIN","1601           BANOVI─I"
+"IBM869","¦IFRANT  LOOB  ¦IFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"IBM870","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"IBM871","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"IBM874",NA,"1601           BANOVIฦI"
+"IBM875","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"IBM880",NA,NA
+"IBM891",NA,NA
+"IBM901","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"IBM-901","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"IBM902","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM-902","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM903",NA,NA
+"IBM9030","ฝ[ฅจ +ช<||กฝ[ฅจ +ชซ&จ ฌ+[งค+|ช[+ฉช จ[ง|กH[+","ก +|ฌ[F["
+"IBM-9030","ฝ[ฅจ +ช<||กฝ[ฅจ +ชซ&จ ฌ+[งค+|ช[+ฉช จ[ง|กH[+","ก +|ฌ[F["
+"IBM904",NA,NA
+"IBM905",NA,NA
+"IBM9066",NA,"1601           BANOVIฦI"
+"IBM-9066",NA,"1601           BANOVIฦI"
+"IBM912","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"IBM915","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"IBM916",NA,NA
+"IBM918",NA,"، +!ﺗبFب"
+"IBM920","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM921","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"IBM-921","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"IBM922","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM-922","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"IBM930","ｺｩｦｫ｡+ｭ<||｢ｺｩｦｫ｡+ｭｮ&ｫ｡ｯ+ｩｨ･+|ｭｩ+ｬｭ｡ｫｩｨ|｢Hｩ+","｢｡+|ｯｩFｩ"
+"IBM-930","ｺｩｦｫ｡+ｭ<||｢ｺｩｦｫ｡+ｭｮ&ｫ｡ｯ+ｩｨ･+|ｭｩ+ｬｭ｡ｫｩｨ|｢Hｩ+","｢｡+|ｯｩFｩ"
+"IBM932","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"IBM-932","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"IBM933",NA,NA
+"IBM-933",NA,NA
+"IBM935",NA,NA
+"IBM-935",NA,NA
+"IBM937",NA,NA
+"IBM-937",NA,NA
+"IBM939",NA,NA
+"IBM-939",NA,NA
+"IBM943","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"IBM-943","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"IBM9448","ٹIFRANT  LOOB  ٹIFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"IBM-9448","ٹIFRANT  LOOB  ٹIFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"IEC_P271","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVI∠I"
+"IEC_P27-1","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVI∠I"
+"INIS",NA,NA
+"INIS8",NA,NA
+"INIS-8",NA,NA
+"INISCYRILLIC",NA,NA
+"INIS-CYRILLIC",NA,NA
+"ISIRI3342","
+IFRANT  LOOB  
+IFRANT UPRAVNIH ENOT IN STARIH OBچIN","1601           BANOVIثI"
+"ISIRI-3342","
+IFRANT  LOOB  
+IFRANT UPRAVNIH ENOT IN STARIH OBچIN","1601           BANOVIثI"
+"ISO_10367BOX","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OB╦IN","1601           BANOVI╠I"
+"ISO_10367-BOX","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OB╦IN","1601           BANOVI╠I"
+"ISO-10646",NA,NA
+"ISO_11548-1","⢊⡉⡆⡒⡁⡎⡔⠠⠠⡌⡏⡏⡂⠠⠠⢊⡉⡆⡒⡁⡎⡔⠠⡕⡐⡒⡁⡖⡎⡉⡈⠠⡅⡎⡏⡔⠠⡉⡎⠠⡓⡔⡁⡒⡉⡈⠠⡏⡂⣈⡉⡎","⠱⠶⠰⠱⠠⠠⠠⠠⠠⠠⠠⠠⠠⠠⠠⡂⡁⡎⡏⡖⡉⣆⡉"
+"ISO11548-1","⢊⡉⡆⡒⡁⡎⡔⠠⠠⡌⡏⡏⡂⠠⠠⢊⡉⡆⡒⡁⡎⡔⠠⡕⡐⡒⡁⡖⡎⡉⡈⠠⡅⡎⡏⡔⠠⡉⡎⠠⡓⡔⡁⡒⡉⡈⠠⡏⡂⣈⡉⡎","⠱⠶⠰⠱⠠⠠⠠⠠⠠⠠⠠⠠⠠⠠⠠⡂⡁⡎⡏⡖⡉⣆⡉"
+"ISO2022CN",NA,NA
+"ISO-2022-CN",NA,NA
+"ISO2022CNEXT",NA,NA
+"ISO-2022-CN-EXT",NA,NA
+"ISO2022JP",NA,NA
+"ISO-2022-JP",NA,NA
+"ISO2022JP2",NA,NA
+"ISO-2022-JP-2",NA,NA
+"ISO-2022-JP-3",NA,NA
+"ISO2022KR",NA,NA
+"ISO-2022-KR",NA,NA
+"ISO_2033",NA,NA
+"ISO_2033-1983",NA,NA
+"ISO_5427",NA,NA
+"ISO_5427:1981",NA,NA
+"ISO_5427EXT",NA,NA
+"ISO_5427-EXT",NA,NA
+"ISO_5428",NA,NA
+"ISO_5428:1980",NA,NA
+"ISO646-CA",NA,NA
+"ISO646-CA2",NA,NA
+"ISO646-CN",NA,NA
+"ISO646-CU",NA,NA
+"ISO646-DE",NA,NA
+"ISO646-DK",NA,NA
+"ISO646-ES",NA,NA
+"ISO646-ES2",NA,NA
+"ISO646-FI",NA,NA
+"ISO646-FR",NA,NA
+"ISO646-FR1",NA,NA
+"ISO646-GB",NA,NA
+"ISO646-HU",NA,NA
+"ISO_646.IRV:1991",NA,NA
+"ISO646-IT",NA,NA
+"ISO646-JP",NA,NA
+"ISO646-JP-OCR-B",NA,NA
+"ISO646-KR",NA,NA
+"ISO646-NO",NA,NA
+"ISO646-NO2",NA,NA
+"ISO646-PT",NA,NA
+"ISO646-PT2",NA,NA
+"ISO646-SE",NA,NA
+"ISO646-SE2",NA,NA
+"ISO646-US",NA,NA
+"ISO646-YU",NA,NA
+"ISO6937","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ISO_6937","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ISO_6937:1992","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ISO_69372","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ISO_6937-2","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ISO_6937-2:1983","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ISO88591","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO_8859-1","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-8859-1","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO8859-1","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO885910","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO_8859-10","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO-8859-10","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO8859-10","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO_8859-10:1992","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO885911","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"ISO-8859-11","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"ISO8859-11","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"ISO_8859-1:1987","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO885913","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"ISO-8859-13","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"ISO8859-13","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"ISO885914","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO_8859-14","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-8859-14","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO8859-14","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO_8859-14:1998","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO885915","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO_8859-15","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-8859-15","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO8859-15","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO_8859-15:1998","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO885916","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO_8859-16","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-8859-16","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO8859-16","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO_8859-16:2001","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO88592","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"ISO_8859-2","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"ISO-8859-2","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"ISO8859-2","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"ISO_8859-2:1987","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"ISO88593","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"ISO_8859-3","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"ISO-8859-3","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"ISO8859-3","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"ISO_8859-3:1988","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"ISO88594","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO_8859-4","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO-8859-4","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO8859-4","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO_8859-4:1988","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO88595","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"ISO_8859-5","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"ISO-8859-5","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"ISO8859-5","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"ISO_8859-5:1988","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"ISO88596","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"ISO_8859-6","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"ISO-8859-6","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"ISO8859-6","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"ISO_8859-6:1987","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"ISO88597","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"ISO_8859-7","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"ISO-8859-7","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"ISO8859-7","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"ISO_8859-7:1987","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"ISO_8859-7:2003","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"ISO88598",NA,NA
+"ISO_8859-8",NA,NA
+"ISO-8859-8",NA,NA
+"ISO8859-8",NA,NA
+"ISO_8859-8:1988",NA,NA
+"ISO88599","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO_8859-9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-8859-9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO8859-9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO_8859-9:1989","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO88599E","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIƏI"
+"ISO_8859-9E","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIƏI"
+"ISO-8859-9E","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIƏI"
+"ISO8859-9E","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIƏI"
+"ISO_9036",NA,NA
+"ISO-CELTIC","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-IR-10",NA,NA
+"ISO-IR-100","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-IR-101","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"ISO-IR-103","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ISO-IR-109","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"ISO-IR-11",NA,NA
+"ISO-IR-110","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO-IR-111","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"ISO-IR-121",NA,NA
+"ISO-IR-122",NA,NA
+"ISO-IR-126","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"ISO-IR-127","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"ISO-IR-138",NA,NA
+"ISO-IR-139","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"ISO-IR-14",NA,NA
+"ISO-IR-141",NA,NA
+"ISO-IR-143","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVI∠I"
+"ISO-IR-144","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"ISO-IR-148","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-IR-15",NA,NA
+"ISO-IR-150",NA,NA
+"ISO-IR-151",NA,NA
+"ISO-IR-153","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"ISO-IR-155","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OB╦IN","1601           BANOVI╠I"
+"ISO-IR-156","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ISO-IR-157","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"ISO-IR-16",NA,NA
+"ISO-IR-166",NA,"1601           BANOVIฦI"
+"ISO-IR-17",NA,NA
+"ISO-IR-179","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"ISO-IR-18",NA,NA
+"ISO-IR-19",NA,NA
+"ISO-IR-193",NA,NA
+"ISO-IR-197","¿IFRANT  LOOB  ¿IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-IR-199","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-IR-203","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-IR-209","¿IFRANT  LOOB  ¿IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-IR-21",NA,NA
+"ISO-IR-226","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"ISO-IR-25",NA,NA
+"ISO-IR-27",NA,NA
+"ISO-IR-37",NA,NA
+"ISO-IR-4",NA,NA
+"ISO-IR-49",NA,NA
+"ISO-IR-50",NA,NA
+"ISO-IR-51",NA,NA
+"ISO-IR-54",NA,NA
+"ISO-IR-55",NA,NA
+"ISO-IR-57",NA,NA
+"ISO-IR-6",NA,NA
+"ISO-IR-60",NA,NA
+"ISO-IR-61",NA,NA
+"ISO-IR-69",NA,NA
+"ISO-IR-8-1",NA,NA
+"ISO-IR-84",NA,NA
+"ISO-IR-85",NA,NA
+"ISO-IR-86",NA,NA
+"ISO-IR-88",NA,NA
+"ISO-IR-89",NA,NA
+"ISO-IR-90","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"ISO-IR-9-1",NA,NA
+"ISO-IR-92",NA,NA
+"ISO-IR-98",NA,NA
+"ISO-IR-99","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"IT",NA,NA
+"JIS_C62201969RO",NA,NA
+"JIS_C6220-1969-RO",NA,NA
+"JIS_C62291984B",NA,NA
+"JIS_C6229-1984-B",NA,NA
+"JOHAB",NA,"1601           BANOVI쾰"
+"JP",NA,NA
+"JP-OCR-B",NA,NA
+"JS",NA,NA
+"JUS_I.B1.002",NA,NA
+"KOI-7",NA,NA
+"KOI8",NA,"1601           BANOVIфI"
+"KOI-8",NA,"1601           BANOVIфI"
+"KOI8R","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"KOI8-R","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"KOI8-RU","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"KOI8-T","ҳIFRANT  LOOB  ҳIFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"KOI8U","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"KOI8-U","┼IFRANT  LOOB  ┼IFRANT UPRAVNIH ENOT IN STARIH OBхIN","1601           BANOVIфI"
+"KSC5636",NA,NA
+"L1","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"L10","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"L2","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"L3","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"L4","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"L5","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"L6","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"L7","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"L8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"LATIN1","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"LATIN10","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"LATIN2","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"LATIN3","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"LATIN4","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"LATIN5","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"LATIN6","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"LATIN7","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĘI"
+"LATIN8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"LATIN9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"LATIN-9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"LATINGREEK",NA,NA
+"LATIN-GREEK",NA,NA
+"LATINGREEK1",NA,NA
+"LATIN-GREEK-1",NA,NA
+"MAC","äIFRANT  LOOB  äIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVIΔI"
+"MAC-CENTRALEUROPE","äIFRANT  LOOB  äIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"MACCYRILLIC","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"MAC-CYRILLIC","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"MACINTOSH","äIFRANT  LOOB  äIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVIΔI"
+"MACIS","äIFRANT  LOOB  äIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVIΔI"
+"MAC-IS","äIFRANT  LOOB  äIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVIΔI"
+"MAC-SAMI","äIFRANT  LOOB  äIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"MACUK","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"MAC-UK","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"MACUKRAINIAN","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"MIK","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╣I"
+"MS932","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"MS936","奍FRANT  LOOB  奍FRANT UPRAVNIH ENOT IN STARIH OB菼N","1601           BANOVI艻"
+"MS-ANSI","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"MS-ARAB","ٹIFRANT  LOOB  ٹIFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"MSCP1361",NA,"1601           BANOVI쾰"
+"MSCP949",NA,"1601           BANOVI힖"
+"MS-CYRL","ЉIFRANT  LOOB  ЉIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"MS-EE","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"MS-GREEK",NA,"1601           BANOVIΖI"
+"MS-HEBR",NA,"1601           BANOVIֶI"
+"MS_KANJI","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"MSMACCYRILLIC","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"MS-MAC-CYRILLIC","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB»IN","1601           BANOVI∆I"
+"MS-TURK","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"MSZ_7795.3",NA,NA
+"NAPLPS","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"NATSDANO",NA,NA
+"NATS-DANO",NA,NA
+"NATSSEFI",NA,NA
+"NATS-SEFI",NA,NA
+"NC_NC0010",NA,NA
+"NC_NC00-10",NA,NA
+"NC_NC00-10:81",NA,NA
+"NF_Z_62010",NA,NA
+"NF_Z_62-010",NA,NA
+"NF_Z_62-010_1973",NA,NA
+"NF_Z_62-010_(1973)",NA,NA
+"NF_Z_62010_1973",NA,NA
+"NO",NA,NA
+"NO2",NA,NA
+"NS_45511",NA,NA
+"NS_4551-1",NA,NA
+"NS_45512",NA,NA
+"NS_4551-2",NA,NA
+"OS2LATIN1","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"OSF00010001","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"OSF00010002","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"OSF00010003","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIĈI"
+"OSF00010004","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"OSF00010005","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"OSF00010006","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"OSF00010007","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"OSF00010008",NA,NA
+"OSF00010009","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"OSF0001000A","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIÆI"
+"OSF00010020",NA,NA
+"OSF00010100","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"OSF00010101","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"OSF00010102","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"OSF00010104",NA,NA
+"OSF00010105",NA,NA
+"OSF00010106",NA,NA
+"OSF00030010",NA,NA
+"OSF0004000A",NA,NA
+"OSF0005000A",NA,NA
+"OSF05010001",NA,NA
+"OSF10010001","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"OSF10010004","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBΘIN","1601           BANOVIΖI"
+"OSF10010006","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"OSF10020025","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"OSF10020111","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"OSF10020115","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"OSF10020116","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"OSF10020118","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"OSF1002011C","«¦ãê +è<||â«¦ãê +èí&ê î+¦çá+|è¦+ëè ê¦ç|âH¦+","â +|î¦F¦"
+"OSF1002011D","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"OSF10020122","コゥヲォ。+ュ<||「コゥヲォ。+ュョ&ォ。ッ+ゥィ・+|ュゥ+ャュ。ォゥィ|「Hゥ+","「。+|ッゥFゥ"
+"OSF10020129","«ñãê +}<!!â«ñãê +}í&ê î+ñ\á+!}ñ+ë} êñ\!âHñ+","â +!îñFñ"
+"OSF100201A4",NA,"ّ +|اأFأ"
+"OSF100201A8","«טוךא+ל<||ב«טוךא+לם&ךאמ+טחה+|לט+כלאךטח|בHט+","בא+|מטFט"
+"OSF100201B5","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"OSF100201F4","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"OSF10020352","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"OSF10020354","ŐIFRANT  LOOB  ŐIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIĂI"
+"OSF10020357","іIFRANT  LOOB  іIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIкI"
+"OSF10020359","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIãI"
+"OSF1002035D","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"OSF1002035E","ךIFRANT  LOOB  ךIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"OSF1002035F","èIFRANT  LOOB  èIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"OSF10020360","├IFRANT  LOOB  ├IFRANT UPRAVNIH ENOT IN STARIH OBﺑIN","1601           BANOVIﺋI"
+"OSF10020364","،IFRANT  LOOB  ،IFRANT UPRAVNIH ENOT IN STARIH OBﻊIN","1601           BANOVI─I"
+"OSF10020365","¦IFRANT  LOOB  ¦IFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVIΠI"
+"OSF10020366","śćăę +ů<!!âśćăę +ůí&ę î+ćçá+!ůć+ëů ęćç!âHć+","â +!îćFć"
+"OSF10020367","«ñãê +è<!!â«ñãê +èí&ê î+ñçá+!èñ+ëè êñç!âHñ+","â +!îñFñ"
+"OSF1002036B","αΙΖΛΑ+Ν<!!ΒαΙΖΛΑ+ΝΞ&ΛΑΟ+ΙΘΕ+!ΝΙ+ΜΝΑΛΙΘ!ΒHΙ+","ΒΑ+!ΟΙFΙ"
+"OSF10020370",NA,NA
+"OSF1002037B",NA,NA
+"OSF10020387",NA,NA
+"OSF10020388",NA,NA
+"OSF10020396",NA,"، +!ﺗبFب"
+"OSF100203B5",NA,"1601           BANOVI힖"
+"OSF10020402","«ñãê +è<!!â«ñãê +èí&ê î+ñ{á+!èñ+ëè êñ{!âHñ+","â +!îñFñ"
+"OSF10020417","«ñãê +è<||â«ñãê +èí&ê î+ñçá+|èñ+ëè êñç|âHñ+","â +|îñFñ"
+"PT",NA,NA
+"PT154","ҠIFRANT  LOOB  ҠIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"PT2",NA,NA
+"R8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"R9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"RK1048","ЉIFRANT  LOOB  ЉIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"ROMAN8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"ROMAN9","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"RUSCII","КIFRANT  LOOB  КIFRANT UPRAVNIH ENOT IN STARIH OB╚IN","1601           BANOVI╞I"
+"SE",NA,NA
+"SE2",NA,NA
+"SEN_850200_B",NA,NA
+"SEN_850200_C",NA,NA
+"SHIFT_JIS","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"SHIFT-JIS","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"SHIFT_JISX0213","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"SJIS","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"SJIS-OPEN","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"SJIS-WIN","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"SS636127",NA,NA
+"STRK1048-2002","ЉIFRANT  LOOB  ЉIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"ST_SEV_358-88","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBШIN","1601           BANOVIЦI"
+"T.61","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"T.618BIT","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"T.61-8BIT","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÏN",NA
+"TCVN","ÉIFRANT  LOOB  ÉIFRANT UPRAVNIH ENOT IN STARIH OBẩI","N1601           BANOVIặ"
+"TCVN-5712","ÉIFRANT  LOOB  ÉIFRANT UPRAVNIH ENOT IN STARIH OBẩI","N1601           BANOVIặ"
+"TCVN5712-1","ÉIFRANT  LOOB  ÉIFRANT UPRAVNIH ENOT IN STARIH OBẩI","N1601           BANOVIặ"
+"TCVN5712-1:1993","ÉIFRANT  LOOB  ÉIFRANT UPRAVNIH ENOT IN STARIH OBẩI","N1601           BANOVIặ"
+"THAI8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBศIN","1601           BANOVIฦI"
+"TIS620",NA,"1601           BANOVIฦI"
+"TIS-620",NA,"1601           BANOVIฦI"
+"TIS620-0",NA,"1601           BANOVIฦI"
+"TIS620.2529-1",NA,"1601           BANOVIฦI"
+"TIS620.2533-0",NA,"1601           BANOVIฦI"
+"TS-5881","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"TSCII","ஸ்IFRANT  LOOB  ஸ்IFRANT UPRAVNIH ENOT IN STARIH OBறIN","1601           BANOVIழI"
+"TURKISH8","IFRANT  LOOB  IFRANT UPRAVNIH ENOT IN STARIH OBàIN","1601           BANOVIóI"
+"UCS2","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"UCS-2","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"UCS-2BE","詉䙒䅎吠⁌住䈠₊䥆剁乔⁕偒䅖义䠠䕎佔⁉丠協䅒䥈⁏䋈䥎",NA
+"UCS-2LE","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"UCS4",NA,NA
+"UCS-4",NA,NA
+"UCS-4BE",NA,NA
+"UCS-4LE",NA,NA
+"UHC",NA,"1601           BANOVI힖"
+"UJIS",NA,NA
+"UK",NA,NA
+"UNICODE","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"UNICODEBIG","詉䙒䅎吠⁌住䈠₊䥆剁乔⁕偒䅖义䠠䕎佔⁉丠協䅒䥈⁏䋈䥎",NA
+"UNICODELITTLE","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"US",NA,NA
+"US-ASCII",NA,NA
+"UTF16","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"UTF-16","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"UTF16BE","詉䙒䅎吠⁌住䈠₊䥆剁乔⁕偒䅖义䠠䕎佔⁉丠協䅒䥈⁏䋈䥎",NA
+"UTF-16BE","詉䙒䅎吠⁌住䈠₊䥆剁乔⁕偒䅖义䠠䕎佔⁉丠協䅒䥈⁏䋈䥎",NA
+"UTF16LE","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"UTF-16LE","䦊剆乁⁔䰠住⁂訠䙉䅒呎唠剐噁䥎⁈久呏䤠⁎呓剁䡉传졂义",NA
+"UTF32",NA,NA
+"UTF-32",NA,NA
+"UTF32BE",NA,NA
+"UTF-32BE",NA,NA
+"UTF32LE",NA,NA
+"UTF-32LE",NA,NA
+"UTF7",NA,NA
+"UTF-7",NA,NA
+"UTF8",NA,NA
+"UTF-8",NA,NA
+"VISCII","ẾIFRANT  LOOB  ẾIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIẳI"
+"WCHAR_T",NA,NA
+"WINBALTRIM",NA,"1601           BANOVIĘI"
+"WINDOWS-1250","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBČIN","1601           BANOVIĆI"
+"WINDOWS-1251","ЉIFRANT  LOOB  ЉIFRANT UPRAVNIH ENOT IN STARIH OBИIN","1601           BANOVIЖI"
+"WINDOWS-1252","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"WINDOWS-1253",NA,"1601           BANOVIΖI"
+"WINDOWS-1254","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"WINDOWS-1255",NA,"1601           BANOVIֶI"
+"WINDOWS-1256","ٹIFRANT  LOOB  ٹIFRANT UPRAVNIH ENOT IN STARIH OBبIN","1601           BANOVIئI"
+"WINDOWS-1257",NA,"1601           BANOVIĘI"
+"WINDOWS-1258",NA,"1601           BANOVIÆ"
+"WINDOWS-31J","蟹FRANT  LOOB  蟹FRANT UPRAVNIH ENOT IN STARIH OBﾈIN","1601           BANOVIﾆI"
+"WINDOWS-874",NA,"1601           BANOVIฦI"
+"WINDOWS-936","奍FRANT  LOOB  奍FRANT UPRAVNIH ENOT IN STARIH OB菼N","1601           BANOVI艻"
+"WINSAMI2","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"WIN-SAMI-2","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"WS2","ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN","1601           BANOVIÆI"
+"YU",NA,NA

@@ -1,0 +1,683 @@
+ŠIFRANT  LOOB  ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN
+1601           BANOVIÆI
+1602           BANJA LUKA
+1603           BIHAÆ
+1604           BIJELJINA
+1605           BILEÆA
+1606           BOSANSKA DUBICA
+1607           BOSANSKA GRADIŠKA
+1608           BOSANSKA KRUPA
+1609           BOSANSKI BROD
+1610           BOSANSKI NOVI
+1611           BOSANSKI PETROVAC
+1612           BOSANSKI ŠAMAC
+1613           BOSANSKO GRAHOVO
+1614           BRATUNAC
+1615           BRÈKO
+1616           BREZA
+1617           BUGOJNO
+1618           BUSOVAÈA
+1619           CAZIN
+1620           ÈAJNIÈE
+1621           ÈAPLJINA
+1622           ÈELINAC
+1623           ÈITLUK
+1624           DERVENTA
+1625           DOBOJ
+1626           DONJI VAKUF
+1627           DRVAR
+1628           DUVNO
+1629           FOÈA
+1630           FOJNICA
+1631           GACKO
+1632           GLAMOÈ
+1633           GORAŽDE
+1634           GORNJI VAKUF
+1635           GRAÈANICA
+1636           GRADAÈAC
+1637           GRUDE
+1638           HADŽIÆI
+1639           HAN PIJESAK
+1640           ILIJAŠ
+1641           JABLANICA
+1642           JAJCE
+1643           KAKANJ
+1644           KALESIJA
+1645           KALINOVNIK
+1646           KISELJAK
+1647           KLADANJ
+1648           KLJUÈ
+1649           KONJIC
+1650           KOTOR VAROŠ
+1651           KREŠEVO
+1652           KUPRES
+1653           LAKTAŠI
+1654           LIŠTICA
+1655           LIVNO
+1656           LOPARE
+1657           LUKAVAC
+1658           LJUBINJE
+1659           LJUBUŠKI
+1660           MAGLAJ
+1661           MODRIÈA
+1662           MOSTAR
+1663           MRKONJIÆ GRAD
+1664           NEVESINJE
+1665           PUCAREVO
+1666           ODŽAK
+1667           OLOVO
+1668           ORAŠJE
+1669           PALE
+1670           POSUŠJE
+1671           PRIJEDOR
+1672           PRNJAVOR
+1673           PROZOR
+1674           ROGATICA
+1675           RUDO
+1676           SANSKI MOST
+1677           SARAJEVO CENTAR
+1678           SARAJEVO ILIDŽA
+1679           SARAJEVO NOVO
+1680           SARAJEVO VOGOŠÆA
+1681           SKENDER VAKUF
+1682           SOKOLAC
+1683           SRBAC
+1684           SREBRENICA
+1685           SREBRENIK
+1686           STOLAC
+1687           ŠEKOVIÆI
+1688           ŠIPOVO
+1689           TESLIÆ
+1690           TEŠANJ
+1691           TRAVNIK
+1692           TREBINJE
+1693           TRNOVO
+1694           TUZLA
+1695           UGLJEVIK
+1696           VAREŠ
+1697           VELIKA KLADUŠA
+1698           VISOKO
+1699           VIŠEGRAD
+1700           VITEZ
+1701           VLASENICA
+1702           ZAVIDOVIÆI
+1703           ZENICA
+1704           ZVORNIK
+1705           ŽEPÈE
+1706           ŽIVINICE
+1707           NEUM
+1708           SARAJEVO-NOVI GRAD SARAJE
+1709           STARI GRAD SARAJEVO
+2901           BAR
+2902           BIJELO POLJE
+2903           BUDVA
+2904           DANILOVGRAD
+2905           ŽABLJAK
+2906           IVANGRAD
+2907           KOLAŠIN
+2908           KOTOR
+2909           MOJKOVAC
+2910           NIKŠIÆ
+2911           PLAV
+2912           PLUŽINE
+2913           PLJEVLJA
+2914           ROŽAJ
+2915           TIVAT
+2916           TITOGRAD
+2917           ULCINJ
+2918           HERCEG NOVI
+2919           CETINJE
+2920           ŠAVNIK
+3301           BELI MANASTIR
+3302           BENKOVAC
+3303           BIOGRAD
+3304           BJELOVAR
+3305           BRAÈ
+3306           BUJE
+3307           BUZET
+3308           CRIKVENICA
+3309           ÈABAR
+3310           ÈAKOVEC
+3311           ÈAZMA
+3312           DARUVAR
+3313           DELNICE
+3314           DONJA STUBICA
+3315           DONJI LAPAC
+3316           DONJI MIHOLJAC
+3317           DRNIŠ
+3318           DUBROVNIK
+3319           DUGA RESA
+3320           DUGO SELO
+3321           DVOR
+3322           DJAKOVO
+3323           DJURDJEVAC
+3324           GAREŠNICA
+3325           GLINA
+3326           GOSPIÆ
+3327           GRAÈAC
+3328           GRUBIŠNO POLJE
+3329           HVAR
+3330           IMOTSKI
+3331           IVANEC
+3332           IVANIÆ GRAD
+3333           JASTREBARSKO
+3334           KARLOVAC
+3335           KLANJEC
+3336           KNIN
+3337           KOPRIVNICA
+3338           KORÈULA
+3339           KOSTAJNICA
+3340           KRAPINA
+3341           KRIŽEVCI
+3342           KRK
+3343           KUTINA
+3344           LABIN
+3345           LASTOVO
+3346           LUDBREG
+3347           MAKARSKA
+3349           METKOVIÆ
+3350           NAŠICE
+3351           NOVA GRADIŠKA
+3353           NOVI MAROF
+3354           NOVSKA
+3355           OBROVAC
+3356           OGULIN
+3357           OMIŠ
+3358           OPATIJA
+3359           ORAHOVICA
+3360           OSIJEK
+3361           OTOÈAC
+3362           OZALJ
+3363           PAG
+3364           PAKRAC
+3365           PAZIN
+3366           PETRINJA
+3368           PODRAVSKA SLATINA
+3369           POREÈ
+3370           PULA
+3371           RAB
+3372           RIJEKA
+3373           ROVINJ
+3374           SAMOBOR
+3375           SENJ
+3376           SESVETE
+3377           SINJ
+3378           SISAK
+3379           SLAVONSKA POŽEGA
+3380           SLAVONSKI BROD
+3381           SLUNJ
+3383           ŠIBENIK
+3384           TITOVA KORENICA
+3385           TROGIR
+3387           VALPOVO
+3388           VARAŽDIN
+3389           VELIKA GORICA
+3390           VINKOVCI
+3391           VIROVITICA
+3392           VIS
+3393           VOJNIÆ
+3394           VRBOVEC
+3395           VRBOVSKO
+3396           VRGINMOST
+3397           VRGORAC
+3398           VUKOVAR
+3399           ZABOK
+3400           ZADAR
+3402           ZAGREB CENTER
+3403           ZAGREB ÈRNOMEREC
+3404           ZAGREB DUBRAVA
+3405           ZAGREB MAKSIMIR
+3406           ZAGREB MEDVEŠÈAK
+3407           ZAGREB NOVI ZAGREB
+3408           ZAGREB PEŠÈENICA
+3409           ZAGREB SUSEDGRAD
+3410           ZAGREB TREŠNJEVKA
+3411           ZAGREB TRNJE
+3412           ZAPREŠIÆ
+3413           ZELINA
+3414           ZLATAR BISTRICA
+3415           ŽUPANJA
+3416           CRES LOŠINJ
+3417           PREGRADA
+3418           KARDELJEVO
+3419           KAŠTELA
+3420           SOLIN
+3421           SPLIT
+4801           BEROVO
+4802           BITOLA
+4803           BROD
+4804           VALANDOVO
+4805           VINICA
+4806           GEVGELIJA
+4807           GOSTIVAR
+4808           DEBAR
+4809           DELÈEVO
+4810           DEMIR HISAR
+4811           KAVADARCI
+4812           KIÈEVO
+4813           KOÈANI
+4814           KRATOVO
+4815           KRIVA PALANKA
+4816           KRUŠEVO
+4817           KUMANOVO
+4818           NEGOTINO
+4819           OHRID
+4820           PRILEP
+4821           PROBIŠTIP
+4822           RADOVIŠ
+4823           RESEN
+4824           SVETI NIKOLE
+4828           STRUGA
+4829           STRUMICA
+4830           TETOVO
+4831           TITOV VELES
+4832           ŠTIP
+4833           SKOPJE GAZI BABA
+4834           SKOPJE KARPOŠ
+4835           SKOPJE KISELA VODA
+4836           SKOPJE CENTER
+4837           SKOPJE ÈAIR
+5501           AJDOVŠÈINA
+5502           BREŽICE
+5503           CELJE
+5504           CERKNICA
+5505           ÈRNOMELJ
+5506           DOMŽALE
+5507           DRAVOGRAD
+5508           GORNJA RADGONA
+5509           GROSUPLJE
+5510           HRASTNIK
+5511           IDRIJA
+5512           ILIRSKA BISTRICA
+5513           IZOLA
+5514           JESENICE
+5515           KAMNIK
+5516           KOÈEVJE
+5517           KOPER
+5518           KRANJ
+5519           KRŠKO
+5520           LAŠKO
+5521           LENART
+5522           LENDAVA
+5523           LITIJA
+5524           LJUBLJANA
+5525           LJUBLJANA CENTER
+5526           LJUBLJANA MOSTE POLJE
+5527           LJUBLJANA ŠIŠKA
+5528           LJUBLJANA VIÈ RUDNIK
+5529           LJUTOMER
+5530           LOGATEC
+5531           MARIBOR
+5534           METLIKA
+5535           MOZIRJE
+5536           MURSKA SOBOTA
+5537           NOVA GORICA
+5538           NOVO MESTO
+5539           ORMOŽ
+5540           PIRAN
+5541           POSTOJNA
+5542           PTUJ
+5543           RADLJE OB DRAVI
+5544           RADOVLJICA
+5545           RAVNE NA KOROŠKEM
+5546           RIBNICA
+5547           SEVNICA
+5548           SEŽANA
+5549           SLOVENJ GRADEC
+5550           SLOVENSKA BISTRICA
+5551           SLOVENSKE KONJICE
+5552           ŠENTJUR PRI CELJU
+5553           ŠKOFJA LOKA
+5554           ŠMARJE PRI JELŠAH
+5555           TOLMIN
+5556           TRBOVLJE
+5557           TREBNJE
+5558           TRŽIÈ
+5559           VELENJE
+5560           VRHNIKA
+5561           ZAGORJE OB SAVI
+5562           ŽALEC
+5564           MARIBOR
+5565           PESNICA
+5566           MARIBOR - POBREŽJE
+5567           MARIBOR - ROTOVŽ
+5568           RUŠE
+5569           MARIBOR - TABOR
+5570           MARIBOR - TEZNO
+5580           IZDANO V DRUGI DRŽAVI
+5598           MNZ
+5599           NEZNANA OBÈ
+7001           BARAJEVO
+7002           VOŽDOVAC
+7003           VRAÈAR
+7004           GROCKA
+7005           ZVEZDARA
+7006           ZEMUN
+7007           LAZAREVAC
+7008           MLADENOVAC
+7009           NOVI BEOGRAD
+7010           OBRENOVAC
+7011           PALILULA
+7012           SAVSKI VENAC
+7013           SOPOT
+7014           STARI GRAD
+7015           ÈUKARICA
+7016           RAKOVICA
+7101           ALEKSANDROVAC
+7102           ALEKSINAC
+7103           ARANDJELOVAC
+7104           ARILJE
+7105           BABUŠNICA
+7106           BAJINA BAŠTA
+7107           BATOÈINA
+7108           BELA PALANKA
+7109           BLACE
+7110           BOGATIÆ
+7111           BOJNIK
+7112           BOLJEVAC
+7113           BOR
+7114           BOSILEGRAD
+7115           BRUS
+7116           BUJANOVAC
+7117           VALJEVO
+7118           VARVARIN
+7119           VELIKA PLANA
+7120           VELIKO GRADIŠTE
+7121           VLADIMIRCI
+7122           VLADIÈIN HAN
+7123           VLASOTINCE
+7124           VRANJE
+7125           VRNJAÈKA BANJA
+7126           GADŽIN HAN
+7127           GOLUBAC
+7128           GORNJI MILANOVAC
+7129           DESPOTOVAC
+7130           DIMITROVGRAD
+7131           DOLJEVAC
+7132           ŽABARI
+7133           ŽAGUBICA
+7134           ŽITORADJA
+7135           ZAJEÈAR
+7136           IVANJICA
+7137           KLADOVO
+7138           KNIÆ
+7139           KNJAŽEVAC
+7140           KOSJERIÆ
+7141           KOCELJEVO
+7142           KRAGUJEVAC
+7143           KRALJEVO
+7144           KRUPANJ
+7145           KRUŠEVAC
+7146           KURŠUMLIJA
+7147           KUÈEVO
+7148           LAJKOVAC
+7149           LEBANE
+7150           LESKOVAC
+7151           LOZNICA
+7152           LUÈANI
+7153           LJIG
+7154           LJUBOVIJA
+7155           MAJDANPEK
+7156           MALI ZVORNIK
+7157           MALO CRNIÆE
+7158           MEDVEDJA
+7159           MEROŠINA
+7160           MIONICA
+7161           NEGOTIN
+7162           NIŠ
+7163           NOVA VAROŠ
+7164           NOVI PAZAR
+7165           OSEÈINA
+7166           PARAÆIN
+7167           PETROVAC
+7168           PIROT
+7169           POŽAREVAC
+7170           POŽEGA
+7171           PREŠEVO
+7172           PRIBOJ
+7173           PRIJEPOLJE
+7174           PROKUPLJE
+7175           RAŽANJ
+7176           RAÈA
+7177           RAŠKA
+7178           REKOVAC
+7179           SVETOZAREVO
+7180           SVILAJNAC
+7181           SVRLJIG
+7182           SJENICA
+7183           SMEDEREVO
+7184           SMEDEREVSKA PALANKA
+7185           SOKOBANJA
+7186           SURDULICA
+7187           TITOVO UŽICE
+7188           TOPOLA
+7189           TRGOVIŠTE
+7190           TRSTENIK
+7191           TUTIN
+7192           ÆIÆEVAC
+7193           ÆUPRIJA
+7194           UB
+7195           CRNA TRAVA
+7196           ÈAJETINA
+7197           ÈAÈAK
+7198           ŠABAC
+8201           ADA
+8202           ALIBUNAR
+8203           APATIN
+8204           BAÈ
+8205           BAÈKA PALANKA
+8206           BAÈKA TOPOLA
+8207           BAÈKI PETROVAC
+8208           BELA CRKVA
+8209           BEOÈIN
+8210           BEÈEJ
+8212           VRŠAC
+8213           ŽABALJ
+8214           ŽITIŠTE
+8215           ZRENJANIN
+8216           INDJIJA
+8217           IRIG
+8218           KANJIŽA
+8219           KIKINDA
+8220           KOVAÈICA
+8221           KOVIN
+8222           KULA
+8223           MALI IDJOŠ
+8224           NOVA CRNJA
+8225           NOVI BEÈEJ
+8226           NOVI KNEŽEVAC
+8228           OPOVO
+8229           ODŽACI
+8230           PANÈEVO
+8231           PEÆINCI
+8232           PLANDIŠTE
+8233           RUMA
+8234           SENTA
+8235           SEÈANJ
+8236           SOMBOR
+8237           SRBOBRAN
+8238           SREMSKA MITROVICA
+8239           STARA PAZOVA
+8240           SUBOTICA
+8241           TEMERIN
+8242           TITEL
+8243           ÈOKA
+8244           ŠID
+8245           TITOV VRBAS
+8286           NOVI SAD-SREMSKI KARLOVCI
+8288           NOVI SAD
+9251           VITINA
+9252           VUÈITRN
+9253           GLOGOVAC
+9254           GNJILANE
+9255           DEÈANI
+9256           DRAGAŠ
+9257           DJAKOVICA
+9258           ISTOK
+9259           KAÈANIK
+9260           KLINA
+9261           KOSOVSKA KAMENICA
+9262           KOSOVSKA MITROVICA
+9263           LEPOSAVIÆ
+9264           LIPLJAN
+9265           ORAHOVAC
+9266           PEÆ
+9267           PODUJEVO
+9268           PRIZREN
+9269           PRIŠTINA
+9270           SRBICA
+9271           SUVA REKA
+9272           UROŠEVAC
+9273           MALIŠEVO
+9274           ZUBIN POTOK
+9275           ŠTIMLJE
+9276           ŠTRPCE
+9277           KOSOVO POLJE
+9278           NOVO BRDO
+9279           OBILIÆ
+9999           TUJINA
+
+
+ŠIFRANT  LOVC  KATEGORIJA CESTE, NASELJA
+A              AVTOCESTA - STARA
+H              HITRA CESTA
+L              LOKALNA CESTA
+M              MAGISTRALNA CESTA - STARA
+N              NASELJE Z ULIÈNIM SISTEMOM
+R              REGIONALNA CESTA - STARA
+T              TURISTIÈNA CESTA
+V              NASELJE BREZ ULIÈNEGA SISTEMA
+0              AVTOCESTA
+1              GLAVNA CESTA I. REDA
+2              GLAVNA CESTA II. REDA
+3              REGIONALNA CESTA I. REDA
+4              REGIONALNA CESTA II. REDA
+5              REGIONALNA CESTA III. REDA
+
+
+ŠIFRANT  PRKD  OPIS KRAJA DOGODKA
+Ž              ŽELEZNIŠKI PREHOD
+A              AVTOBUSNA POSTAJA
+C              CESTA
+E              ŽELEZNIŠKO POSTAJALIŠÈE
+K              KOLESAR. ST. ALI PLOÈNIK
+M              KROŽNO KRIŽIŠÈE
+N              NARAVNO OKOLJE
+O              NARAVOVARSTVENO OBMOÈJE
+P              PARKIRNI PROSTOR
+R              KRIŽIŠÈE
+T              PREDOR
+V              VLAK
+Z              PREHOD ZA PEŠCE
+
+
+ŠIFRANT  PRPO  POŠKODBA OSEBE IN KLASIFIKACIJA NESREÈE
+B              BREZ POŠKODBE
+H              HUDA TELESNA POŠKODBA
+L              LAŽJA TELESNA POŠKODBA
+P              SLED POŠKODBE
+S              SMRT
+U              BREZ POŠKODBE-UZ
+
+
+ŠIFRANT  PRPV  STANJE VOZIŠÈA V ÈASU PROMETNE NESREÈE
+BL             BLATNO
+MO             MOKRO
+OS             OSTALO
+PN             POLEDENELO - NEPOSIPANO
+PP             POLEDENELO - POSIPANO
+SL             SNEŽENO - PLUŽENO
+SN             SNEŽENO - NEPLUŽENO
+SP             SPOLZKO
+SU             SUHO
+
+
+ŠIFRANT  PRSP  STANJE PROMETA V ÈASU PROMETNE NESREÈE
+E              NEZNANO
+G              GOST
+N              NORMALEN
+R              REDEK
+Z              ZASTOJI
+
+
+ŠIFRANT  PRSV  VRSTA VOZIŠÈA  V ÈASU PROMETNE NESREÈE
+AH             HRAPAV  ASFALT / BETON
+AN             NERAVEN ASFALT / BETON
+AZ             ZGLAJEN ASFALT / BETON
+MA             MAKADAM
+OS             OSTALO
+
+
+ŠIFRANT  PRTN  TIP PROMETNE NESREÈE
+ÈT             ÈELNO TRÈENJE
+BT             BOÈNO TRÈENJE
+NT             NALETNO TRÈENJE
+OP             OPLAŽENJE
+OS             OSTALO
+PP             POVOŽENJE PEŠCA
+PR             PREVRNITEV VOZILA
+PZ             POVOŽENJE ŽIVALI
+TO             TRÈENJE V OBJEKT
+TV             TRÈENJE V STOJEÈE / PARKIRANO VOZILO
+
+
+ŠIFRANT  PRUG  REŠENOST UGOVORA PRI PLAÈILNEM NALOGU/ODLOÈBI ZP1
+I              INSOLVENTNOST - ODGOVOR CURS
+N              IZDAN NOV PLAÈILNI NALOG/ODLOÈBA
+S              ODSTOP ZADEVE SODIŠÈU
+U              USTAVITEV POSTOPKA - ODLOÈBA (ZADEVA SE USTAVI)
+Z              ZAVRŽENJE ZAHTEVE ZA SODNO VARSTVO - POSTOPKI TEÈEJO DALJE
+
+
+ŠIFRANT  PRVR  VREMENSKE OKOLIŠÈINE
+D              DEŽEVNO
+J              JASNO
+M              MEGLA
+N              NEZNANO
+O              OBLAÈNO
+S              SNEG
+T              TOÈA
+V              VETER
+
+
+ŠIFRANT  PRVU  ŠIFRANT VRSTE UDELEŽENCA V PROMETU
+AV             VOZNIK AVTOBUSA
+DS             VOZNIK DELOVNEGA STROJA
+KM             VOZNIK KOLESA Z MOTORJEM
+KO             KOLESAR
+KR             X-KRŠITELJ - JRM
+KV             VOZNIK KOMBINIRANEGA VOZILA
+LK             VOZNIK LAHKEGA ŠTIRIKOLESA
+LV             LASTNIK VOZILA
+MK             VOZNIK MOTORNEGA KOLESA
+MO             VOZNIK MOPEDA
+OA             VOZNIK OSEBNEGA AVTOMOBILA
+OD             ODGOVORNA OSEBA
+OS             OSTALO
+PE             PEŠEC
+PO             PRAVNA OSEBA
+PT             POTNIK
+SD             POSAMEZNIK, S.P., KI SAMOSTOJNO OPRAVLJA DEJAVNOST IN ZAPOSLUJE DRUGE
+SK             VOZNIK ŠTIRIKOLESA
+SM             SKRBNIK MLADOLETNIKA
+SP             SAMOSTOJNI PODJETNIK
+SV             VOZNIK SPECIALNEGA VOZILA
+TK             VOZNIK TRIKOLESA
+TR             VOZNIK TRAKTORJA
+TV             VOZNIK TOVORNEGA VOZILA
+
+
+ŠIFRANT  PRVZ  VZROK PROMETNE NESREÈE
+CE             NEPRAVILNOSTI NA CESTI
+HI             NEPRILAGOJENA HITROST
+NP             NEPRAVILNOSTI PEŠCA
+OS             OSTALO
+PD             NEUPOŠTEVANJE PRAVIL O PREDNOSTI
+PR             NEPRAVILNO PREHITEVANJE
+PV             PREMIKI Z VOZILOM
+SV             NEPRAVILNA STRAN / SMER VOŽNJE
+TO             NEPRAVILNOSTI NA TOVORU
+VO             NEPRAVILNOSTI NA VOZILU
+VR             NEUSTREZNA VARNOSTNA RAZDALJA
+
+

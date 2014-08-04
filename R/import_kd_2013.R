@@ -1,7 +1,11 @@
 # Uvoz podatkov kriminalitete iz leta 2001
 
 setwd("./stribog/rawdata")
-require(zoo)
+require(zoo) # za handlanje month-year datumov
+
+# podatki so dostopni tule:
+# http://policija.si/baza/kd2013.zip
+# sicer pa so bili downloadani s strani policije 31.7.2014
 
 leto <- "2013"
 fn <- paste("kd", leto, sep = "")

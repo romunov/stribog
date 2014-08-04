@@ -13,6 +13,9 @@ leto2013 <- importTrafficData("2013")
 leto2013[[1]] <- nameOsebeColumns(leto2013[[1]])
 leto2013[[2]] <- nameDogodkiColumns(leto2013[[2]]) 
 
+# save data to see what happens encoding wise
+write.csv(leto2013[[1]], file="OsebeExport.csv")
+write.csv(leto2013[[2]], file="DogodkiExport.csv")
 
 # generic function to import traffic data
 # NOTE: valid for year 2013!

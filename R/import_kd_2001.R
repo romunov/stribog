@@ -17,8 +17,13 @@ kdo <- read.table(infiles[grepl("KDINTKDO\\.txt", infiles)], header = FALSE, sep
 sif <- read.table(infiles[grepl("ifranti\\.txt", infiles)], header = FALSE, sep = "$")
 
 # takole sem jaz probal na silo, pa ni vrglo ven pravega
+sif2 <- readLines("./pn2013/SIFRANTI.TXT")
 mm <- sapply(iconvlist(), FUN = function(x) {
       out <- tryCatch(
-         iconv(sif, from = x, to = "UTF8"), error = function(e) "fak")
+         iconv(sif2, from = x, to = "UTF8"), error = function(e) "fak")
       out[1:2]
    })
+write.csv(t(mm), file="possibleEncodings.txt")
+# Crt: sem probal še sam iz firbca in (na SIFRANTI.TXT v folderju /rawdata/pn2013) in sem dobil dva kandidata:
+# "MS-EE"
+# "WINDOWS-1250"

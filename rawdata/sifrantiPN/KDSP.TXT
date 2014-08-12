@@ -1,0 +1,434 @@
+   KDSP                   KD - UPORABLJENO SREDSTVO - PREDMET KD
+
+   001                    ALEATORNI PREDMETI
+   002                    ALKOHOLNA PIJAČA
+   003                    AMFETAMIN
+   004                    ANESTETIKI
+   005                    APARATI
+   006                    AVDIOVIZUALNI APARATI IN OPREMA
+   007                    AVTOBUS
+   008                    AVTOMATSKA PIŠTOLA
+   009                    AVTOMATSKA PUŠKA
+   010                    AVTOMATSKO OROŽJE
+   011                    AVTOMOBILSKA SVEČKA
+   012                    AVTORADIO
+   013                    BANČNA GARANCIJA
+   014                    BARVE
+   015                    BELA RIBA
+   016                    BELGIJEC
+   017                    BENCIN
+   018                    BENZODIAZEPINI
+   019                    BETA KLJUČ
+   020                    BIANCO LISTINE
+   021                    BILANCA
+   022                    BILTEN
+   023                    BIOLOŠKI STRUP
+   024                    BIOLOŠKO OROŽJE
+   025                    BLAGAJNIŠKI ZAPIS
+   026                    BLAGOVNA ZNAMKA
+   027                    BOJNA SREDSTVA IN OPREMA
+   028                    BON
+   029                    BREZALKOHOLNA PIJAČA
+   030                    BRZOJAVKA
+   031                    CD PLAYER
+   032                    CERTIFIKAT
+   033                    CIGARETNI OGOREK
+   034                    ČASOPIS
+   035                    ČEKI
+   036                    ČISTILNE NAPRAVE
+   037                    ČLANEK
+   038                    ČLOVEŠKI ORGANI IN TKIVO
+   039                    ČLOVEŠKO TELO (SKRIVANJE MAMILA)
+   040                    ČOLN
+   041                    ČOLN Z MOTORJEM
+   042                    DARILO
+   043                    DELI OROŽJA
+   044                    DELNICE
+   045                    DELOVNI KOMBINEZON
+   046                    DELOVNI NALOG
+   047                    DELOVNI STROJI
+   048                    DENAR
+   049                    DENAR DOMAČI
+   050                    DENAR TUJI
+   051                    DIKTAFON
+   052                    DIVJE ŽIVALI
+   053                    DOKUMENTI
+   054                    DOKUMENTI IN JAVNE LISTINE
+   055                    DOMAČE ŽIVALI
+   056                    DOVOLILNICA ZA PROST IZHOD
+   057                    DRAGI KAMNI
+   058                    DUŠILEC
+   059                    ECSTASY
+   060                    EKSTRAKTI IN TINKTURE KANABISA
+   061                    ELEKTRIČNI VOD
+   062                    ELEKTRIČNO ORODJE IN APARATI
+   063                    ELEKTRIKA
+   064                    ELEKTRONSKA POŠTA
+   065                    ELEKTROŠOKER
+   066                    ELEKTROTEHNIČNI MATERIAL
+   067                    ENERGIJA
+   068                    EROTIČNI PREDMETI
+   069                    FAKTURE
+   070                    FARMACEVTSKA SREDSTVA OPREMA IN PRIPOMOČKI
+   071                    FIRMA
+   072                    FORMULARJI
+   073                    FOTOAPARAT
+   074                    FOTOKOPIRNI STROJ
+   075                    FRANCOSKI KLJUČ
+   076                    GABLJIVE IN KUŽNE SNOVI
+   077                    GARANCIJSKI LIST
+   078                    GLASBENI INŠTRUMENTI
+   079                    GLASBENO DELO
+   080                    GLASOVALNA SKRINJICA
+   081                    GLAVNIK
+   082                    GLISER
+   083                    GOSPODINJSKI APARATI STROJI PREDMETI
+   084                    GRADBENI DNEVNIK
+   085                    GRADBENI MATERIAL
+   086                    GUMIJASTI ČOLN
+   087                    HELIKOPTER
+   088                    HEROIN
+   089                    HIPNOZA
+   090                    HLAČNI PAS
+   091                    HLADNO OROŽJE
+   092                    HRANA
+   093                    IGRAČE
+   094                    IGRALNIŠKI ŽETONI
+   095                    INDUSTRIJSKE RASTLINE
+   096                    INTERNET
+   097                    INTRANET
+   098                    IZKAZNICA
+   099                    IZVIJAČ
+   100                    JADRALNA DESKA
+   101                    JADRNICA
+   102                    JADRNICA S POMOŽNIM MOTORJEM
+   103                    JAHTA
+   104                    JAVNE LISTINE
+   105                    JEDKE SNOVI
+   106                    JEDRSKO OROŽJE
+   107                    JEKLENI KLJUČ
+   108                    KANABIS RASTLINA (BILKA)
+   109                    KANABIS RASTLINA (MARIHUANA)
+   110                    KANALIZACIJA
+   111                    KASETOFON
+   112                    KATALOG
+   113                    KATASTRSKI DOHODEK
+   114                    KEMIČNE SNOVI IN PROIZVODI
+   115                    KEMIČNO OROŽJE
+   116                    KIPARSKO DELO
+   117                    KISLINE
+   118                    KLADIVO
+   119                    KLASIČNE LAMELE
+   120                    KLEŠČE
+   121                    KLJUČ
+   122                    KLJUČAVNICE IN BLAGAJNE
+   123                    KMETIJSKI PROIZVODI
+   124                    KMETIJSKO ORODJE STROJI
+   126                    KNJIGA
+   127                    KOCKA
+   128                    KOKAIN
+   129                    KOLO
+   130                    KOLO S POMOŽNIM MOTORJEM
+   131                    KOLO Z MOTORJEM
+   132                    KOMBINIRANO VOZILO
+   133                    KOMERCIALNI ZAPIS
+   134                    KONDOM
+   135                    KOVANCI
+   136                    KOZMETIČNA SREDSTVA IN PROIZVODI
+   137                    KRAMP
+   138                    KREDIT
+   139                    KREDITNE KARTICE
+   140                    KULTURNI PREDMETI
+   141                    KURILNO OLJE
+   142                    LADJA
+   143                    LAŽNA LISTINA
+   144                    LEDVICE
+   145                    LEPILNI TRAK
+   146                    LETAKI
+   147                    LETALO
+   148                    LISTEK Z NOMINALNO VREDNOSTJO ZA PLAČILO STORITEV
+   149                    LISTIČ ZA GLASOVANJE
+   150                    LISTINA O REZULTATIH GLASOVANJA
+   151                    LISTINA O REZULTATIH VOLITEV
+   152                    LISTINE
+   153                    LOK
+   154                    LOVSKA PUŠKA
+   155                    LOVSKO OROŽJE
+   156                    LSD
+   157                    MALOKALIBRSKA PIŠTOLA
+   158                    MALOKALIBRSKA PUŠKA
+   159                    MALOKALIBRSKO OROŽJE
+   160                    MASKA
+   161                    MASKIRNA KAPA
+   162                    MEDICINSKI PRIBOR IN OPREMA
+   163                    MEDNARODNA ZNAMENJA
+   164                    MEHKUŽCI
+   165                    MEJNIK
+   166                    MENICE
+   167                    MERILNI INSTRUMENTI IN NAPRAVE
+   168                    MESEČNE VOZOVNICE
+   169                    METADON
+   170                    METAMFETAMIN
+   171                    MOBILNI TELEFON
+   172                    MODEM
+   173                    MODRA RIBA
+   174                    MORFIN
+   175                    MORSKE ŽIVALI
+   176                    MORSKI RAK
+   177                    MOTORNA ŽAGA
+   178                    MOTORNI ZMAJ
+   179                    MOTORNO KOLO
+   180                    MREŽA
+   181                    MUZEJSKI PREDMETI
+   182                    NAFTA
+   183                    NAFTNI DERIVATI
+   184                    NAFTOVOD
+   185                    NAKIT
+   186                    NAPENJALA
+   187                    NAPRAVE
+   188                    NAPRAVE IN PRIPRAVE
+   189                    NAPRAVE NAMENJENEMU SISTEMU ZVEZ
+   190                    NARAVNA SNOV IN TVORBA (LED VODA KAMEN)
+   191                    NARAVNI STRUP
+   192                    NATIČNI KLJUČ
+   193                    NAVIGACIJSKE NAPRAVE
+   194                    NEKONVENCIONALNO OROŽJE
+   195                    NEPREMIČNINE
+   196                    NEPREMOŽENJSKA KORIST
+   197                    NEVARNE SNOVI
+   198                    NEVARNI ODPADKI
+   199                    NI PREDMETA
+   200                    NOGAVICE
+   201                    NOŽ
+   202                    NOŽ METULJČEK
+   203                    NOŽ NA VZMET
+   204                    NUKLEARNI STROJI
+   205                    OBLAČILA
+   206                    OBRAČUNSKI LISTI
+   207                    OBUTEV
+   208                    OBVEZNICE
+   209                    OFFSET OPREMA
+   210                    OGOREK
+   211                    OKSIDIRAJOČE SNOVI
+   212                    OLJE
+   213                    OMAMNA SREDSTVA
+   214                    OPIJ
+   215                    OPOROKA
+   216                    OPTIKA IN FOTOGRAFSKI PRIPOMOČKI
+   217                    ORGANSKI PEROKSIDI
+   218                    ORIGINAL KLJUČ
+   219                    ORODJE
+   220                    ORODJE IN PRIBOR
+   221                    OROŽJE
+   222                    OROŽJE S TETIVO
+   223                    OSEBNI AVTOMOBIL
+   224                    OSEBNI DNEVNIK
+   225                    OSNOVNA SREDSTVA
+   226                    OSTALE PREPOVEDANE DROGE - NEUPORABA V MEDICINI
+   227                    OSTALE PREPOVEDANE DROGE - UPORABA V MEDICINI
+   228                    PAS
+   229                    PAST
+   230                    PEČAT
+   231                    PERUTNINA
+   232                    PETROLEJ
+   233                    PIJAČA
+   234                    PISEMSKE POŠILJKE
+   235                    PISMO
+   236                    PIŠTOLA
+   237                    PIŠTOLA Z DUŠILCEM
+   238                    PITNA VODA
+   239                    PLAČILNE KARTICE
+   240                    PLAKAT
+   241                    PLASTIČNA ZATEGA
+   242                    PLEMENITE KOVINE
+   243                    PLINOVOD
+   244                    PLINSKO OROŽJE IN SREDSTVA
+   245                    PLOVILA
+   246                    PODMORSKI KABEL
+   247                    POGODBE
+   248                    POHIŠTVO
+   249                    POLAVTOMATSKA PUŠKA
+   250                    POLJŠČINE
+   251                    POLOŽNICA
+   252                    POMIČNI KLJUČ
+   253                    PONAREJEN KLJUČ
+   254                    PONAREJENE LISTINE
+   255                    PONAREJENE LISTINE IN DOKUMENTI
+   256                    PONAREJENI DOKUMENTI
+   257                    PORNOGRAFSKO GRADIVO
+   258                    POSLOVNA BILANCA
+   259                    POSLOVNE LISTINE
+   260                    POŠILJKA
+   261                    POŠTNA VREDNOTNICA (ZNAMKA)
+   262                    POŠTNE POŠILJKE
+   263                    PREDELANO OROŽJE
+   264                    PREDHODNE SESTAVINE - PREKURZORJI
+   265                    PREDMETI DOMAČE OBRTI
+   266                    PREDMETI IZ GUME
+   267                    PREDMETI IZ KOVINE
+   268                    PREDMETI IZ LESA
+   269                    PREDMETI IZ PAPIRJA
+   270                    PREDMETI IZ PLASTIKE
+   271                    PREDMETI IZ STEKLA
+   272                    PREDMETI POLNJENI Z EKSPLOZIVNIMI SNOVMI
+   273                    PREDMETI ZA DETEKCIJO
+   274                    PREMIČNINE
+   275                    PREPARAT
+   276                    PREPOVEDANE DROGE
+   277                    PREVOZNA SREDSTVA
+   278                    PRIBOR IN OPREMA
+   279                    PRIKOLICA
+   280                    PRIPOMOČKI ZA UŽIVANJE DROG
+   281                    PRIREJEN SKRITI PROSTOR
+   282                    PROGRAMSKA OPREMA
+   283                    PROJEKTNI DOKUMENTI
+   284                    PROJEKTOR
+   285                    PROMETNO DOVOLJENJE
+   286                    PROMETNO SREDSTVO
+   287                    PROSPEKT
+   288                    PRTLJAGA
+   289                    PUŠKA
+   290                    PUŠKA Z DUŠILCEM
+   291                    RAČUNALNIŠKA OPREMA IN SREDSTVA
+   292                    RAČUNALNIŠKI PROGRAM
+   293                    RAČUNALNIŠKO OMREŽJE
+   294                    RADIJSKA ODDAJA
+   295                    RADIJSKE ZVEZE
+   296                    RADIO
+   297                    RADIOAKTIVNE SNOVI
+   298                    RADIOKASETOFON
+   299                    RADIOTELEGRAFSKE NAPRAVE
+   300                    RAKI
+   301                    RASTLINE
+   302                    RAZPRŠILCI
+   303                    RAZSTRELILNE SNOVI
+   304                    RECEPT
+   305                    RELIGIOZNI PREDMETI
+   306                    RENTGENSKI APARATI
+   307                    REVIJA
+   308                    RIBJE IKRE
+   309                    RISBA
+   310                    ROČNA BOMBA
+   311                    ROČNO ORODJE
+   312                    ROKAVICE
+   313                    ROKOPIS
+   314                    SADNA DREVESA
+   315                    SAKRALNI PREDMETI
+   316                    SAMOSTREL
+   317                    SAMOVNETLJIVE SNOVI
+   318                    SEKIRA
+   319                    SERVER
+   320                    SINTETIČNI STRUP
+   321                    SLADKOVODNE ŽIVALI
+   322                    SLIKA
+   323                    SLIKARSKO DELO
+   324                    SLUŽBENA IZKAZNICA
+   325                    SMOLA KANABISA (HAŠIŠ)
+   326                    SNEŽNI PLAZ
+   327                    SNOVI KI RAZVIJAJO V STIKU Z VODO VNETLJIVE PLINE
+   328                    SOLZILEC
+   329                    SPECIALNA SREDSTVA ZA ODPIRANJE IN BRANJE
+   330                    SPECIALNA SREDSTVA ZA ODPIRANJE PISEM
+   331                    SPECIALNA SREDSTVA ZA PRISLUŠKOVANJE
+   332                    SPECIALNO SREDSTVO ZA SLIKOVNO SNEMANJE
+   333                    SPECIALNO VLOMILSKO ORODJE
+   334                    SPIS
+   335                    SRCE
+   336                    SREDSTVA JAVNEGA OBVEŠČANJA
+   337                    SREDSTVA ZA VEZANJE IN VKLEPANJE
+   338                    STAVBNO POHIŠTVO
+   339                    STISNJENI PLINI UTEKOČINJENI PLINI IN POD TLAKOM RAZTOPLJENI PLINI
+   340                    STRELIVO
+   341                    STRELNO OROŽJE
+   342                    STROJI
+   343                    STRUPENE SNOVI
+   344                    STRUPI
+   345                    SUROVINE
+   346                    SVEČA
+   347                    SVETLOBNA TELESA IN ZNAMENJA
+   348                    ŠKOLJKE
+   349                    ŠPORTNA OBLAČILA IN OBUTEV
+   350                    ŠPORTNO OROŽJE
+   351                    ŠTAMPILJKA
+   352                    TAKSNA VREDNOTNICA (KOLEK)
+   353                    TAXI
+   354                    TEKSTILNI PROIZVODI
+   355                    TELEFON
+   356                    TELEKOMUNIKACIJSKA SREDSTVA IN NAPRAVE
+   357                    TELEVIZIJA
+   358                    TELEVIZIJSKA ODDAJA
+   359                    TISKARSKI STROJI IN OPREMA
+   360                    TISKOVINE
+   361                    TOBAČNI IZDELKI IN PROIZVODI
+   362                    TOP
+   363                    TOPLOVOD
+   364                    TOVORNE PRIKOLICE
+   365                    TOVORNO VOZILO
+   366                    TRAKTOR
+   367                    UMETNIŠKI PREDMETI
+   368                    UMETNIŠKO DELO
+   369                    UNIFORME
+   370                    USNJENI IZDELKI
+   371                    VERIGA
+   372                    VETERINARSKA OPREMA IN PRIPOMOČKI
+   373                    VIDEOKAMERA
+   374                    VIDEOREKORDER
+   375                    VILIČASTI KLJUČ
+   376                    VIRMAN
+   377                    VLAK
+   378                    VLOMILSKA IGLA
+   379                    VLOMILSKO ORODJE
+   380                    VNETLJIVE SNOVI
+   381                    VNETLJIVE TEKOČINE
+   382                    VNETLJIVE TRDNE SNOVI
+   383                    VODA
+   384                    VODNE ŽIVALI
+   385                    VODOINSTALACIJSKI MATERIAL
+   386                    VODOVOD
+   387                    VOJAŠKA IZKAZNICA
+   388                    VOJAŠKA VOZILA
+   389                    VOJAŠKO OROŽJE
+   390                    VOLILNA SKRINJICA
+   391                    VOLILNI IMENIK
+   392                    VOLILNI LISTIČ
+   393                    VOZILA
+   394                    VOZILA IN PLOVILA
+   395                    VOZNIŠKO DOVOLJENJE
+   396                    VREDNOSTI PAPIRJI
+   397                    VREDNOTNICE
+   398                    VRV VRVICA
+   399                    VŽIGALICE
+   400                    VŽIGALNA SREDSTVA OGNJEMETNI PREDMETI IN DRUGI PREDMETI
+   401                    VŽIGALNI IN GOREČI PREDMETI
+   402                    VŽIGALNIK
+   403                    ZALIVKA
+   404                    ZANKA
+   405                    ZAPISNIK
+   406                    ZASEBNA LISTINA
+   407                    ZASEBNA PISANJA
+   408                    ZASTAVA OZN
+   409                    ZASTAVA RDEČEGA KRIŽA
+   410                    ZAVAROVALNA POLICA
+   411                    ZDRAVILA
+   412                    ZDRAVNIŠKA POTRDILA
+   413                    ZDRAVSTVENA DOKUMENTACIJA
+   414                    ZEMELJSKI PLAZ
+   415                    ZEMLJA
+   416                    ZEMLJEMERSKO ZNAMENJE NA NEPREMIČNINI
+   417                    ZEMLJEVID
+   418                    ZGIBANKE
+   419                    ZNAMENJE OZN
+   420                    ZNAMENJE RDEČEGA KRIŽA
+   421                    ZNANSTVENO DELO
+   422                    ŽABE
+   423                    ŽICA
+   424                    ŽIČNE LAMELE
+   425                    ŽIG
+   426                    ŽIG PEČAT
+   427                    ŽIGI PEČATI ŠTAMPILJKA
+   428                    ŽIVALI
+   429                    ŽIVINA
+   430                    STROJNA OPREMA
+   431                    DELI VOZILA
+   433                    POTNI LIST
+   434                    ŠPORTNA OPREMA (PRIPOMOČKI, REKVIZITI)

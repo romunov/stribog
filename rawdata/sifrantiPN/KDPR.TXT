@@ -1,0 +1,117 @@
+   KDPR                   KD - PODROBEN OPIS PRIZORIŠČA
+
+   ŽE                     ŽELEZNIŠKA PROGA (VKLJUČ. Z MOSTOVI, PREDORI, ZEMLJIŠČEM OB PROGI IPD)
+   ŽP                     ŽELEZNIŠKO, PRISTANIŠKO ALI LATALIŠKO SKLADIŠČE
+   ŠD                     ŠPORTNA DVORANA, STADION
+   ŠI                     ŠPORTNO IGRIŠČE, UREJENO KOPALIŠČE, SMUČIŠČE
+   ŠS                     ŠPORTNO STRELIŠČE
+   AP                     AGENCIJA ZA PLAČILNI PROMET
+   AV                     AVTOBUS. ALI ŽELEZ. POST. (RAZEN UPR., GOST.,TRGOV. IN SKLAD. PROST.)
+   BH                     BANKA, HRANILNICA
+   BO                     BOLNIŠNICA (RAZEN LEKARNE)
+   BP                     BORZNA HIŠA, POOBLAŠČENA INVESTICIJSKA DRUŽBA
+   BS                     BENCINSKI SERVIS
+   CŽ                     CERKEV, ŽUPNIŠČE
+   CA                     CARINSKO SKLADIŠČE
+   CE                     CESTA ZUNAJ NASELJA(VKLJUČ. Z MOST., PREDORI, POSTJAL. CESTN.POS. IPD)
+   CS                     CESTNO VOZILO
+   CV                     CESTA, ULICA ALI TRG V NASELJU (VKLJUČ. S POSTAJAL., MOST., POLČ. IPD)
+   DŠ                     DRUŠTVO
+   DD                     DIPLOMATSKO-KONZULARNO PREDSTAVNIŠTVO
+   DI                     DIJAŠKI, ŠTUDENTSKI ALI SAMSKI DOM
+   DM                     DRŽAVNA MEJA ZUNAJ MEJNEGA PREHODA
+   DS                     DISKOTEKA, PLESIŠČE, NOČNI KLUB
+   DZ                     DOM ZA STAREJŠE, OTROKE, TELESNO ALI DUŠEVNO PRIZADETE
+   EO                     ENERGETSKI OBJEKT (ELEKTRARNA,TOPLARNA,PLINARNA IPD.)
+   GA                     GALERIJA, RAZSTAVNI PROSTOR UMETNIŠKIH DEL
+   GD                     GRADBIŠČE DRUGEGA GOSPODARSKEGA ALI NEGOSPODARSKEGA OBJEKTA
+   GH                     GLEDALIŠČE, OPERNA HIŠA, KONCERTNA DVORANA
+   GI                     GRADBIŠČE INFRASTRUKTURNEGA OBJEKTA(CESTA,ŽELEZNICA,HIDROGRADNJA...)
+   GL                     GOSTINSKI LOKAL (GOSTILNA,BIFE,OKREPČEVALNICA,SKLAŠČIČARNA...)
+   GO                     GOZD
+   GP                     GRADBENO PODJETJE
+   GS                     GRADBIŠČE STANOVANJSKEGA OBJEKTA
+   GT                     GOSTINSKO ALI TURISTIČNO PODJETJE
+   HO                     HOTEL, MOTEL (RAZEN UPRAV., GOSTINS. IN TRGOV. PROSTOROV TER IGRALNIC)
+   IG                     IGRALNICA
+   IN                     INDUSTRIJSKO SKLADIŠČA
+   IR                     INDUSTRIJSKO ALI RUDARSKO PODJETJE
+   KA                     KNJIŽNICA, ARHIV
+   KE                     KAPELICA
+   KG                     KMETIJSKO ALI GOZDARSKO PODJETJE
+   KI                     KINEMATOGRAF
+   KO                     KMETIJSKI OBJEKT (HLEV, FARMA, RASTLINJAK IPD.)
+   KP                     KLASIČNA PRODAJALNA Z MEŠANIM BLAGOM
+   LE                     LETALIŠČE (RAZEN UPRAVNIH, GOSTINSKIH, TRGOVSKIH IN SKLADIŠČ. PROST.)
+   LI                     LETALO
+   LK                     LEKARNA (SAMOSTOJNA ALI V OKVIRU BOLNIŠNICE)
+   LU                     PRISTANIŠČE, LUKA
+   ME                     MEJNI PREHOD
+   MN                     MENJALNICA
+   MP                     MESTNI PARK
+   MU                     MUZEJ
+   NO                     NOTARSKA ALI ODVETNIŠKA PISARNA
+   NP                     NARODNI PARK
+   OŠ                     OSNOVNA ŠOLA
+   OD                     OBRTNA DELAVNICA, SERVIS ALI SALON
+   OK                     OBJEKT KULTURNE DEDIŠČINE (GRAD,DVOREC,SPOMINSKA HIŠA IPD.)
+   OL                     ORGAN LOKALNE SKUPNOSTI(KRAJEVNA SKUPNOST,OBČINA,POKRAJINA)
+   PČ                     POČITNIŠKA HIŠA (VIKEND), BUNGALOV, BIVALNA PRIKOLICA
+   PŠ                     POŠTA
+   PA                     PARKIRIŠČE
+   PB                     PODJETJE S PODROČJA OBRTI ALI OSEBNIH STORITEV
+   PD                     PREHODNI DOM ZA TUJCE, BEGUNSKI CENTER
+   PF                     PODJETJE S PODROČJA FINANC IN DRUGIH POSLOVNIH STORITEV
+   PH                     PARKIRNA HIŠA
+   PI                     POLITIČNA STRANKA
+   PK                     POKOPALIŠČE
+   PL                     POKLICNA ALI SREDNJA ŠOLA
+   PM                     PARLAMENT
+   PN                     PLOVILO
+   PO                     POLJE, SADOVJAK, VINOGRAD, ARBORETUM
+   PP                     POČITNIŠKI ALI PLANINSKI DOM
+   PR                     PRISTANIŠČE, MARINA (RAZEN UPRAVNIH, GOST.,TRGO.,SKLAD.PROSTOROV)
+   PS                     PRODAJNI KIOSK, STOJNICA
+   PT                     PROTOKOLARNO OBMOČJE
+   PV                     POSLOVNO ZDRUŽENJE ALI SKLAD
+   PZ                     PODJETJE S PODROČJA PROMETA ALI ZVEZ
+   RU                     RUDNIK
+   SA                     SAMOSTAN
+   SE                     SVETOVALNA, PROJEKRANTSKA ALI REVIZIJSKA ORGANIZACIJA
+   SG                     SKLADIŠČE GRADBENEGA MATERIALA
+   SK                     SKLADIŠČE KMETIJSKIH PRIDELKOV IN KRMIL
+   SM                     SMETIŠČE
+   SN                     STANOVANJSKO-KOMUNALNO PODJETJE
+   SO                     SINDIKALNA ORGANIZ.,DELODAJALSKO ALI STROK.ZDRUŽENJE(ZBORNICA)
+   SP                     SAMOPOSTREŽNA TRGOVINA
+   SR                     SAMOSTOJNI RAZVOJNO-RAZISKOVALNI INŠTITUT
+   ST                     STANOVANJSKA HIŠA ZUNAJ NASELJA
+   SV                     STANOVANJSKA HIŠA V NASELJU
+   TG                     TRGOVINSKO SKLADIŠČE
+   TH                     TOVARNIŠKA HALA
+   TK                     TABOR, KAMP
+   TO                     TOŽILSTVO, SODIŠČE
+   TP                     TRGOVSKO PODJETJE
+   TR                     TRAVNIK, PAŠNIK, GRMIČEVJE, NEPORAŠČEN SVET
+   TS                     TRŽNICA, SEJEMSKI PROSTOR
+   UE                     UPRAVNA ENOTA, IZPOSTAVA UPRAVNE ENOTE
+   VČ                     VEČSTANOVANJSKA HIŠA (BLOK)
+   VA                     VISOKA STROKOVNA ŠOLA, AKADEMIJA, FAKULTETA
+   VE                     VELEBLAGOVNICA
+   VI                     VZGOJNOVARSTVENA,IZOBRAŽEVALNA,KULTURNA ALI TELESNOKULTURNA ORGANIZACI
+   VJ                     VOJAŠKO ALI POLICIJSKO SKLADIŠČE
+   VL                     VLAK
+   VM                     VLADNA SLUŽBA,MINISTRSTVO,ORGAN V SEST.MINISTRSTVA(TUDI PROST.POLICIJE
+   VO                     VODNA ALI OBVODNA POVRŠINA (OBREŽJE REKE, JEZERA, MORJA)
+   VP                     VOJAŠKO ALI POLICIJSKO OBMOČJE (VOJAŠNICA, VADBIŠČE, STRELIŠČE IPD.)
+   VR                     VRTEC
+   VS                     VISOKA STROKOVNA ŠOLA, AKADEMIJA, FAKULTETA
+   VZ                     VZGOJNO POPRAVNI DOM
+   XX                     OSTALO
+   ZA                     ZAPOR
+   ZD                     ZDRAVSTVENI DOM, SANOSTOJNA AMBULANTA
+   ZE                     ZASEBNOVARNOSTNA ALI DETEKTIVSKA AGENCIJA
+   ZL                     ZLATARNA
+   ZP                     ZABAVIŠČNI PARK, CIRKUS, ŽIVALSKI VRT
+   ZS                     ZDRAVSTVENA ALI SOCIALNOVARSTVENA ORGANIZACIJA
+   ZV                     ZAVAROVALNICA

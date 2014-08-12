@@ -1,0 +1,17 @@
+
+ ŠIFRANT   LOPM         ŠIFRANT POLICIJSKIH UPRAV
+
+  A00                    PU KRŠKO
+  C00                    PU POSTOJNA
+  D00                    PU SLOVENJ GRADEC
+  100                    PU CELJE
+  200                    PU NOVA GORICA
+  300                    PU KOPER
+  400                    PU KRANJ
+  500                    PU LJUBLJANA
+  600                    PU MARIBOR
+  700                    PU MURSKA SOBOTA
+  800                    PU NOVO MESTO
+  900                    MNZ (ZA STATISTIKO R SLOVENIJA)
+  998                    TUJI VARNOSTNI ORGANI
+  999                    NEZNANO

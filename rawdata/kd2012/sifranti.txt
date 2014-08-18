@@ -1,0 +1,2510 @@
+  ŠIFRANT   LOOB         ŠIFRANT UPRAVNIH ENOT IN STARIH OBÈIN
+  5501                   AJDOVŠÈINA
+  5502                   BREŽICE
+  5503                   CELJE
+  5504                   CERKNICA
+  5505                   ÈRNOMELJ
+  5506                   DOMŽALE
+  5507                   DRAVOGRAD
+  5508                   GORNJA RADGONA
+  5509                   GROSUPLJE
+  5510                   HRASTNIK
+  5511                   IDRIJA
+  5512                   ILIRSKA BISTRICA
+  5513                   IZOLA
+  5514                   JESENICE
+  5515                   KAMNIK
+  5516                   KOÈEVJE
+  5517                   KOPER
+  5518                   KRANJ
+  5519                   KRŠKO
+  5520                   LAŠKO
+  5521                   LENART
+  5522                   LENDAVA
+  5523                   LITIJA
+  5524                   LJUBLJANA BEŽIGRAD
+  5525                   LJUBLJANA CENTER
+  5526                   LJUBLJANA MOSTE POLJE
+  5527                   LJUBLJANA ŠIŠKA
+  5528                   LJUBLJANA VIÈ RUDNIK
+  5529                   LJUTOMER
+  5530                   LOGATEC
+  5534                   METLIKA
+  5535                   MOZIRJE
+  5536                   MURSKA SOBOTA
+  5537                   NOVA GORICA
+  5538                   NOVO MESTO
+  5539                   ORMOŽ
+  5540                   PIRAN
+  5541                   POSTOJNA
+  5542                   PTUJ
+  5543                   RADLJE OB DRAVI
+  5544                   RADOVLJICA
+  5545                   RAVNE NA KOROŠKEM
+  5546                   RIBNICA
+  5547                   SEVNICA
+  5548                   SEŽANA
+  5549                   SLOVENJ GRADEC
+  5550                   SLOVENSKA BISTRICA
+  5551                   SLOVENSKE KONJICE
+  5552                   ŠENTJUR PRI CELJU
+  5553                   ŠKOFJA LOKA
+  5554                   ŠMARJE PRI JELŠAH
+  5555                   TOLMIN
+  5556                   TRBOVLJE
+  5557                   TREBNJE
+  5558                   TRŽIÈ
+  5559                   VELENJE
+  5560                   VRHNIKA
+  5561                   ZAGORJE OB SAVI
+  5562                   ŽALEC
+  5564                   MARIBOR
+  5565                   PESNICA
+  5568                   RUŠE
+  5598                   MNZ
+  5599                   NEZNANA OBÈ
+    
+  ŠIFRANT   LOPM         ŠIFRANT POLICIJSKIH UPRAV
+  A00                    PU KRŠKO
+  C00                    PU POSTOJNA
+  D00                    PU SLOVENJ GRADEC
+  100                    PU CELJE
+  200                    PU NOVA GORICA
+  300                    PU KOPER
+  400                    PU KRANJ
+  500                    PU LJUBLJANA
+  600                    PU MARIBOR
+  700                    PU MURSKA SOBOTA
+  800                    PU NOVO MESTO
+  900                    MNZ (ZA STATISTIKO R SLOVENIJA)
+  998                    TUJI VARNOSTNI ORGANI
+  999                    NEZNANO
+
+  ŠIFRANT  KDPR          PODROBEN OPIS PRIZORIŠÈA
+  ŽE                     ŽELEZNIŠKA PROGA (VKLJUÈ. Z MOSTOVI, PREDORI, ZEMLJIŠÈEM OB PROGI IPD)
+  ŽP                     ŽELEZNIŠKO, PRISTANIŠKO ALI LATALIŠKO SKLADIŠÈE
+  ŠD                     ŠPORTNA DVORANA, STADION
+  ŠI                     ŠPORTNO IGRIŠÈE, UREJENO KOPALIŠÈE, SMUÈIŠÈE
+  ŠS                     ŠPORTNO STRELIŠÈE
+  AP                     AGENCIJA ZA PLAÈILNI PROMET
+  AV                     AVTOBUS. ALI ŽELEZ. POST. (RAZEN UPR., GOST.,TRGOV. IN SKLAD. PROST.)
+  BH                     BANKA, HRANILNICA
+  BO                     BOLNIŠNICA (RAZEN LEKARNE)
+  BP                     BORZNA HIŠA, POOBLAŠÈENA INVESTICIJSKA DRUŽBA
+  BS                     BENCINSKI SERVIS
+  CŽ                     CERKEV, ŽUPNIŠÈE
+  CA                     CARINSKO SKLADIŠÈE
+  CE                     CESTA ZUNAJ NASELJA(VKLJUÈ. Z MOST., PREDORI, POSTJAL. CESTN.POS. IPD)
+  CS                     CESTNO VOZILO
+  CV                     CESTA, ULICA ALI TRG V NASELJU (VKLJUÈ. S POSTAJAL., MOST., POLÈ. IPD)
+  DŠ                     DRUŠTVO
+  DD                     DIPLOMATSKO KONZULARNO PREDSTAVNIŠTVO
+  DI                     DIJAŠKI, ŠTUDENTSKI ALI SAMSKI DOM
+  DM                     DRŽAVNA MEJA ZUNAJ MEJNEGA PREHODA
+  DS                     DISKOTEKA, PLESIŠÈE, NOÈNI KLUB
+  DZ                     DOM ZA STAREJŠE, OTROKE, TELESNO ALI DUŠEVNO PRIZADETE
+  EO                     ENERGETSKI OBJEKT (ELEKTRARNA,TOPLARNA,PLINARNA IPD.)
+  GA                     GALERIJA, RAZSTAVNI PROSTOR UMETNIŠKIH DEL
+  GD                     GRADBIŠÈE DRUGEGA GOSPODARSKEGA ALI NEGOSPODARSKEGA OBJEKTA
+  GH                     GLEDALIŠÈE, OPERNA HIŠA, KONCERTNA DVORANA
+  GI                     GRADBIŠÈE INFRASTRUKTURNEGA OBJEKTA(CESTA,ŽELEZNICA,HIDROGRADNJA...)
+  GL                     GOSTINSKI LOKAL (GOSTILNA,BIFE,OKREPÈEVALNICA,SLAŠÈIÈARNA...)
+  GO                     GOZD
+  GP                     GRADBENO PODJETJE
+  GS                     GRADBIŠÈE STANOVANJSKEGA OBJEKTA
+  GT                     GOSTINSKO ALI TURISTIÈNO PODJETJE
+  HO                     HOTEL, MOTEL (RAZEN UPRAV., GOSTINS. IN TRGOV. PROSTOROV TER IGRALNIC)
+  IG                     IGRALNICA
+  IN                     INDUSTRIJSKO SKLADIŠÈA
+  IR                     INDUSTRIJSKO ALI RUDARSKO PODJETJE
+  KA                     KNJIŽNICA, ARHIV
+  KE                     KAPELICA
+  KG                     KMETIJSKO ALI GOZDARSKO PODJETJE
+  KI                     KINEMATOGRAF
+  KO                     KMETIJSKI OBJEKT (HLEV, FARMA, RASTLINJAK IPD.)
+  KP                     KLASIÈNA PRODAJALNA Z MEŠANIM BLAGOM
+  LE                     LETALIŠÈE (RAZEN UPRAVNIH, GOSTINSKIH, TRGOVSKIH IN SKLADIŠÈ. PROST.)
+  LI                     LETALO
+  LK                     LEKARNA (SAMOSTOJNA ALI V OKVIRU BOLNIŠNICE)
+  LU                     PRISTANIŠÈE, LUKA
+  ME                     MEJNI PREHOD
+  MN                     MENJALNICA
+  MP                     MESTNI PARK
+  MU                     MUZEJ
+  NO                     NOTARSKA ALI ODVETNIŠKA PISARNA
+  NP                     NARODNI PARK
+  OŠ                     OSNOVNA ŠOLA
+  OD                     OBRTNA DELAVNICA, SERVIS ALI SALON
+  OK                     OBJEKT KULTURNE DEDIŠÈINE (GRAD,DVOREC,SPOMINSKA HIŠA IPD.)
+  OL                     ORGAN LOKALNE SKUPNOSTI(KRAJEVNA SKUPNOST,OBÈINA,POKRAJINA)
+  OS                     OSTALI PROSTORI V BLOKU (KLET, KOTLOVNICA, GARAŽNI BOKS..)
+  PÈ                     POÈITNIŠKA HIŠA (VIKEND), BUNGALOV, BIVALNA PRIKOLICA
+  PŠ                     POŠTA
+  PA                     PARKIRIŠÈE
+  PB                     PODJETJE S PODROÈJA OBRTI ALI OSEBNIH STORITEV
+  PD                     PREHODNI DOM ZA TUJCE, BEGUNSKI CENTER
+  PF                     PODJETJE S PODROÈJA FINANC IN DRUGIH POSLOVNIH STORITEV
+  PH                     PARKIRNA HIŠA
+  PI                     POLITIÈNA STRANKA
+  PK                     POKOPALIŠÈE
+  PL                     POKLICNA ALI SREDNJA ŠOLA
+  PM                     PARLAMENT
+  PN                     PLOVILO
+  PO                     POLJE, SADOVJAK, VINOGRAD, ARBORETUM
+  PP                     POÈITNIŠKI ALI PLANINSKI DOM
+  PR                     PRISTANIŠÈE, MARINA (RAZEN UPRAVNIH, GOST.,TRGO.,SKLAD.PROSTOROV)
+  PS                     PRODAJNI KIOSK, STOJNICA
+  PT                     PROTOKOLARNO OBMOÈJE
+  PV                     POSLOVNO ZDRUŽENJE ALI SKLAD
+  PZ                     PODJETJE S PODROÈJA PROMETA ALI ZVEZ
+  RU                     RUDNIK
+  SA                     SAMOSTAN
+  SE                     SVETOVALNA, PROJEKRANTSKA ALI REVIZIJSKA ORGANIZACIJA
+  SG                     SKLADIŠÈE GRADBENEGA MATERIALA
+  SK                     SKLADIŠÈE KMETIJSKIH PRIDELKOV IN KRMIL
+  SM                     SMETIŠÈE
+  SN                     STANOVANJSKO KOMUNALNO PODJETJE
+  SO                     SINDIKALNA ORGANIZ.,DELODAJALSKO ALI STROK.ZDRUŽENJE(ZBORNICA)
+  SP                     SAMOPOSTREŽNA TRGOVINA
+  SR                     SAMOSTOJNI RAZVOJNO RAZISKOVALNI INŠTITUT
+  ST                     STANOVANJSKA HIŠA ZUNAJ NASELJA
+  SV                     STANOVANJSKA HIŠA V NASELJU
+  TG                     TRGOVINSKO SKLADIŠÈE
+  TH                     TOVARNIŠKA HALA
+  TK                     TABOR, KAMP
+  TO                     TOŽILSTVO, SODIŠÈE
+  TP                     TRGOVSKO PODJETJE
+  TR                     TRAVNIK, PAŠNIK, GRMIÈEVJE, NEPORAŠÈEN SVET
+  TS                     TRŽNICA, SEJEMSKI PROSTOR
+  UE                     UPRAVNA ENOTA, IZPOSTAVA UPRAVNE ENOTE
+  UP                     PROSTORI POLICIJE
+  UV                     VOZILO POLICIJE
+  VÈ                     STANOVANJE V BLOKU
+  VA                     VISOKA STROKOVNA ŠOLA, AKADEMIJA, FAKULTETA
+  VE                     VELEBLAGOVNICA
+  VI                     VZGOJNOVARSTVENA,IZOBRAŽEVALNA,KULTURNA ALI TELESNOKULTURNA ORGANIZACI
+  VJ                     VOJAŠKO ALI POLICIJSKO SKLADIŠÈE
+  VL                     VLAK
+  VM                     VLADNA SLUŽBA,MINISTRSTVO,ORGAN V SEST.MINISTRSTVA(TUDI PROST.POLICIJE
+  VO                     VODNA ALI OBVODNA POVRŠINA (OBREŽJE REKE, JEZERA, MORJA)
+  VP                     VOJAŠKO ALI POLICIJSKO OBMOÈJE (VOJAŠNICA, VADBIŠÈE, STRELIŠÈE IPD.)
+  VR                     VRTEC
+  VS                     VISOKA STROKOVNA ŠOLA, AKADEMIJA, FAKULTETA
+  VZ                     VZGOJNO POPRAVNI DOM
+  XX                     OSTALO
+  ZA                     ZAPOR
+  ZD                     ZDRAVSTVENI DOM, SAMOSTOJNA AMBULANTA
+  ZE                     ZASEBNOVARNOSTNA ALI DETEKTIVSKA AGENCIJA
+  ZL                     ZLATARNA
+  ZP                     ZABAVIŠÈNI PARK, CIRKUS, ŽIVALSKI VRT
+  ZS                     ZDRAVSTVENA ALI SOCIALNOVARSTVENA ORGANIZACIJA
+  ZV                     ZAVAROVALNICA
+
+  ŠIFRANT   KDSP         UPORABLJENO SREDSTVO PREDMET KD
+  001                    ALEATORNI PREDMETI
+  002                    ALKOHOLNA PIJAÈA
+  003                    AMFETAMIN
+  004                    ANESTETIKI
+  005                    APARATI
+  006                    AVDIOVIZUALNI APARATI IN OPREMA
+  007                    AVTOBUS
+  008                    AVTOMATSKA PIŠTOLA
+  009                    AVTOMATSKA PUŠKA
+  010                    AVTOMATSKO OROŽJE
+  011                    AVTOMOBILSKA SVEÈKA
+  012                    AVTORADIO
+  013                    BANÈNA GARANCIJA
+  014                    BARVE
+  015                    BELA RIBA
+  016                    BELGIJEC
+  017                    BENCIN
+  018                    BENZODIAZEPINI
+  019                    BETA KLJUÈ
+  020                    BIANCO LISTINE
+  021                    BILANCA
+  022                    BILTEN
+  023                    BIOLOŠKI STRUP
+  024                    BIOLOŠKO OROŽJE
+  025                    BLAGAJNIŠKI ZAPIS
+  026                    BLAGOVNA ZNAMKA
+  027                    BOJNA SREDSTVA IN OPREMA
+  028                    BON
+  029                    BREZALKOHOLNA PIJAÈA
+  030                    BRZOJAVKA
+  031                    CD PLAYER
+  032                    CERTIFIKAT
+  033                    CIGARETNI OGOREK
+  034                    ÈASOPIS
+  035                    ÈEKI
+  036                    ÈISTILNE NAPRAVE
+  037                    ÈLANEK
+  038                    ÈLOVEŠKI ORGANI IN TKIVO
+  039                    ÈLOVEŠKO TELO (SKRIVANJE MAMILA)
+  040                    ÈOLN
+  041                    ÈOLN Z MOTORJEM
+  042                    DARILO
+  043                    DELI OROŽJA
+  044                    DELNICE
+  045                    DELOVNI KOMBINEZON
+  046                    DELOVNI NALOG
+  047                    DELOVNI STROJI
+  048                    DENAR
+  049                    DENAR DOMAÈI
+  050                    DENAR TUJI
+  051                    DIKTAFON
+  052                    DIVJE ŽIVALI
+  053                    DOKUMENTI
+  054                    DOKUMENTI IN JAVNE LISTINE
+  055                    DOMAÈE ŽIVALI
+  056                    DOVOLILNICA ZA PROST IZHOD
+  057                    DRAGI KAMNI
+  058                    DUŠILEC
+  059                    ECSTASY
+  060                    EKSTRAKTI IN TINKTURE KANABISA
+  061                    ELEKTRIÈNI VOD
+  062                    ELEKTRIÈNO ORODJE IN APARATI
+  063                    ELEKTRIKA
+  064                    ELEKTRONSKA POŠTA
+  065                    ELEKTROŠOKER
+  066                    ELEKTROTEHNIÈNI MATERIAL
+  067                    ENERGIJA
+  068                    EROTIÈNI PREDMETI
+  069                    FAKTURE
+  070                    FARMACEVTSKA SREDSTVA OPREMA IN PRIPOMOÈKI
+  071                    FIRMA
+  072                    FORMULARJI
+  073                    FOTOAPARAT
+  074                    FOTOKOPIRNI STROJ
+  075                    FRANCOSKI KLJUÈ
+  076                    GABLJIVE IN KUŽNE SNOVI
+  077                    GARANCIJSKI LIST
+  078                    GLASBENI INŠTRUMENTI
+  079                    GLASBENO DELO
+  080                    GLASOVALNA SKRINJICA
+  081                    GLAVNIK
+  082                    GLISER
+  083                    GOSPODINJSKI APARATI STROJI PREDMETI
+  084                    GRADBENI DNEVNIK
+  085                    GRADBENI MATERIAL
+  086                    GUMIJASTI ÈOLN
+  087                    HELIKOPTER
+  088                    HEROIN
+  089                    HIPNOZA
+  090                    HLAÈNI PAS
+  091                    HLADNO OROŽJE
+  092                    HRANA
+  093                    IGRAÈE
+  094                    IGRALNIŠKI ŽETONI
+  095                    INDUSTRIJSKE RASTLINE
+  096                    INTERNET
+  097                    INTRANET
+  098                    IZKAZNICA
+  099                    IZVIJAÈ
+  100                    JADRALNA DESKA
+  101                    JADRNICA
+  102                    JADRNICA S POMOŽNIM MOTORJEM
+  103                    JAHTA
+  104                    JAVNE LISTINE
+  105                    JEDKE SNOVI
+  106                    JEDRSKO OROŽJE
+  107                    JEKLENI KLJUÈ
+  108                    KANABIS RASTLINA (BILKA)
+  109                    KANABIS RASTLINA (MARIHUANA)
+  110                    KANALIZACIJA
+  111                    KASETOFON
+  112                    KATALOG
+  113                    KATASTRSKI DOHODEK
+  114                    KEMIÈNE SNOVI IN PROIZVODI
+  115                    KEMIÈNO OROŽJE
+  116                    KIPARSKO DELO
+  117                    KISLINE
+  118                    KLADIVO
+  119                    KLASIÈNE LAMELE
+  120                    KLEŠÈE
+  121                    KLJUÈ
+  122                    KLJUÈAVNICE IN BLAGAJNE
+  123                    KMETIJSKI PROIZVODI
+  124                    KMETIJSKO ORODJE STROJI
+  126                    KNJIGA
+  127                    KOCKA
+  128                    KOKAIN
+  129                    KOLO
+  130                    KOLO S POMOŽNIM MOTORJEM
+  131                    KOLO Z MOTORJEM
+  132                    KOMBINIRANO VOZILO
+  133                    KOMERCIALNI ZAPIS
+  134                    KONDOM
+  135                    KOVANCI
+  136                    KOZMETIÈNA SREDSTVA IN PROIZVODI
+  137                    KRAMP
+  138                    KREDIT
+  139                    KREDITNE KARTICE
+  140                    KULTURNI PREDMETI
+  141                    KURILNO OLJE
+  142                    LADJA
+  143                    LAŽNA LISTINA
+  144                    LEDVICE
+  145                    LEPILNI TRAK
+  146                    LETAKI
+  147                    LETALO
+  148                    LISTEK Z NOMINALNO VREDNOSTJO ZA PLAÈILO STORITEV
+  149                    LISTIÈ ZA GLASOVANJE
+  150                    LISTINA O REZULTATIH GLASOVANJA
+  151                    LISTINA O REZULTATIH VOLITEV
+  152                    LISTINE
+  153                    LOK
+  154                    LOVSKA PUŠKA
+  155                    LOVSKO OROŽJE
+  156                    LSD
+  157                    MALOKALIBRSKA PIŠTOLA
+  158                    MALOKALIBRSKA PUŠKA
+  159                    MALOKALIBRSKO OROŽJE
+  160                    MASKA
+  161                    MASKIRNA KAPA
+  162                    MEDICINSKI PRIBOR IN OPREMA
+  163                    MEDNARODNA ZNAMENJA
+  164                    MEHKUŽCI
+  165                    MEJNIK
+  166                    MENICE
+  167                    MERILNI INSTRUMENTI IN NAPRAVE
+  168                    MESEÈNE VOZOVNICE
+  169                    METADON
+  170                    METAMFETAMIN
+  171                    MOBILNI TELEFON
+  172                    MODEM
+  173                    MODRA RIBA
+  174                    MORFIN
+  175                    MORSKE ŽIVALI
+  176                    MORSKI RAK
+  177                    MOTORNA ŽAGA
+  178                    MOTORNI ZMAJ
+  179                    MOTORNO KOLO
+  180                    MREŽA
+  181                    MUZEJSKI PREDMETI
+  182                    NAFTA
+  183                    NAFTNI DERIVATI
+  184                    NAFTOVOD
+  185                    NAKIT
+  186                    NAPENJALA
+  187                    NAPRAVE
+  188                    NAPRAVE IN PRIPRAVE
+  189                    NAPRAVE NAMENJENEMU SISTEMU ZVEZ
+  190                    NARAVNA SNOV IN TVORBA (LED VODA KAMEN)
+  191                    NARAVNI STRUP
+  192                    NATIÈNI KLJUÈ
+  193                    NAVIGACIJSKE NAPRAVE
+  194                    NEKONVENCIONALNO OROŽJE
+  195                    NEPREMIÈNINE
+  196                    NEPREMOŽENJSKA KORIST
+  197                    NEVARNE SNOVI
+  198                    NEVARNI ODPADKI
+  199                    NI PREDMETA
+  200                    NOGAVICE
+  201                    NOŽ
+  202                    NOŽ METULJÈEK
+  203                    NOŽ NA VZMET
+  204                    NUKLEARNI STROJI
+  205                    OBLAÈILA
+  206                    OBRAÈUNSKI LISTI
+  207                    OBUTEV
+  208                    OBVEZNICE
+  209                    OFFSET OPREMA
+  210                    OGOREK
+  211                    OKSIDIRAJOÈE SNOVI
+  212                    OLJE
+  213                    OMAMNA SREDSTVA
+  214                    OPIJ
+  215                    OPOROKA
+  216                    OPTIKA IN FOTOGRAFSKI PRIPOMOÈKI
+  217                    ORGANSKI PEROKSIDI
+  218                    ORIGINAL KLJUÈ
+  219                    ORODJE
+  220                    ORODJE IN PRIBOR
+  221                    OROŽJE
+  222                    OROŽJE S TETIVO
+  223                    OSEBNI AVTOMOBIL
+  224                    OSEBNI DNEVNIK
+  225                    OSNOVNA SREDSTVA
+  226                    OSTALE PREPOVEDANE DROGE   NEUPORABA V MEDICINI
+  227                    OSTALE PREPOVEDANE DROGE   UPORABA V MEDICINI
+  228                    PAS
+  229                    PAST
+  230                    PEÈAT
+  231                    PERUTNINA
+  232                    PETROLEJ
+  233                    PIJAÈA
+  234                    PISEMSKE POŠILJKE
+  235                    PISMO
+  236                    PIŠTOLA
+  237                    PIŠTOLA Z DUŠILCEM
+  238                    PITNA VODA
+  239                    PLAÈILNE KARTICE
+  240                    PLAKAT
+  241                    PLASTIÈNA ZATEGA
+  242                    PLEMENITE KOVINE
+  243                    PLINOVOD
+  244                    PLINSKO OROŽJE IN SREDSTVA
+  245                    PLOVILA
+  246                    PODMORSKI KABEL
+  247                    POGODBE
+  248                    POHIŠTVO
+  249                    POLAVTOMATSKA PUŠKA
+  250                    POLJŠÈINE
+  251                    POLOŽNICA
+  252                    POMIÈNI KLJUÈ
+  253                    PONAREJEN KLJUÈ
+  254                    PONAREJENE LISTINE
+  255                    PONAREJENE LISTINE IN DOKUMENTI
+  256                    PONAREJENI DOKUMENTI
+  257                    PORNOGRAFSKO GRADIVO
+  258                    POSLOVNA BILANCA
+  259                    POSLOVNE LISTINE
+  260                    POŠILJKA
+  261                    POŠTNA VREDNOTNICA (ZNAMKA)
+  262                    POŠTNE POŠILJKE
+  263                    PREDELANO OROŽJE
+  264                    PREDHODNE SESTAVINE   PREKURZORJI
+  265                    PREDMETI DOMAÈE OBRTI
+  266                    PREDMETI IZ GUME
+  267                    PREDMETI IZ KOVINE
+  268                    PREDMETI IZ LESA
+  269                    PREDMETI IZ PAPIRJA
+  270                    PREDMETI IZ PLASTIKE
+  271                    PREDMETI IZ STEKLA
+  272                    PREDMETI POLNJENI Z EKSPLOZIVNIMI SNOVMI
+  273                    PREDMETI ZA DETEKCIJO
+  274                    PREMIÈNINE
+  275                    PREPARAT
+  276                    PREPOVEDANE DROGE
+  277                    PREVOZNA SREDSTVA
+  278                    PRIBOR IN OPREMA
+  279                    PRIKOLICA
+  280                    PRIPOMOÈKI ZA UŽIVANJE DROG
+  281                    PRIREJEN SKRITI PROSTOR
+  282                    PROGRAMSKA OPREMA
+  283                    PROJEKTNI DOKUMENTI
+  284                    PROJEKTOR
+  285                    PROMETNO DOVOLJENJE
+  286                    PROMETNO SREDSTVO
+  287                    PROSPEKT
+  288                    PRTLJAGA
+  289                    PUŠKA
+  290                    PUŠKA Z DUŠILCEM
+  291                    RAÈUNALNIŠKA OPREMA IN SREDSTVA
+  292                    RAÈUNALNIŠKI PROGRAM
+  293                    RAÈUNALNIŠKO OMREŽJE
+  294                    RADIJSKA ODDAJA
+  295                    RADIJSKE ZVEZE
+  296                    RADIO
+  297                    RADIOAKTIVNE SNOVI
+  298                    RADIOKASETOFON
+  299                    RADIOTELEGRAFSKE NAPRAVE
+  300                    RAKI
+  301                    RASTLINE
+  302                    RAZPRŠILCI
+  303                    RAZSTRELILNE SNOVI
+  304                    RECEPT
+  305                    RELIGIOZNI PREDMETI
+  306                    RENTGENSKI APARATI
+  307                    REVIJA
+  308                    RIBJE IKRE
+  309                    RISBA
+  310                    ROÈNA BOMBA
+  311                    ROÈNO ORODJE
+  312                    ROKAVICE
+  313                    ROKOPIS
+  314                    SADNA DREVESA
+  315                    SAKRALNI PREDMETI
+  316                    SAMOSTREL
+  317                    SAMOVNETLJIVE SNOVI
+  318                    SEKIRA
+  319                    SERVER
+  320                    SINTETIÈNI STRUP
+  321                    SLADKOVODNE ŽIVALI
+  322                    SLIKA
+  323                    SLIKARSKO DELO
+  324                    SLUŽBENA IZKAZNICA
+  325                    SMOLA KANABISA (HAŠIŠ)
+  326                    SNEŽNI PLAZ
+  327                    SNOVI KI RAZVIJAJO V STIKU Z VODO VNETLJIVE PLINE
+  328                    SOLZILEC
+  329                    SPECIALNA SREDSTVA ZA ODPIRANJE IN BRANJE
+  330                    SPECIALNA SREDSTVA ZA ODPIRANJE PISEM
+  331                    SPECIALNA SREDSTVA ZA PRISLUŠKOVANJE
+  332                    SPECIALNO SREDSTVO ZA SLIKOVNO SNEMANJE
+  333                    SPECIALNO VLOMILSKO ORODJE
+  334                    SPIS
+  335                    SRCE
+  336                    SREDSTVA JAVNEGA OBVEŠÈANJA
+  337                    SREDSTVA ZA VEZANJE IN VKLEPANJE
+  338                    STAVBNO POHIŠTVO
+  339                    STISNJENI PLINI UTEKOÈINJENI PLINI IN POD TLAKOM RAZTOPLJENI PLINI
+  340                    STRELIVO
+  341                    STRELNO OROŽJE
+  342                    STROJI
+  343                    STRUPENE SNOVI
+  344                    STRUPI
+  345                    SUROVINE
+  346                    SVEÈA
+  347                    SVETLOBNA TELESA IN ZNAMENJA
+  348                    ŠKOLJKE
+  349                    ŠPORTNA OBLAÈILA IN OBUTEV
+  350                    ŠPORTNO OROŽJE
+  351                    ŠTAMPILJKA
+  352                    TAKSNA VREDNOTNICA (KOLEK)
+  353                    TAXI
+  354                    TEKSTILNI PROIZVODI
+  355                    TELEFON
+  356                    TELEKOMUNIKACIJSKA SREDSTVA IN NAPRAVE
+  357                    TELEVIZIJA
+  358                    TELEVIZIJSKA ODDAJA
+  359                    TISKARSKI STROJI IN OPREMA
+  360                    TISKOVINE
+  361                    TOBAÈNI IZDELKI IN PROIZVODI
+  362                    TOP
+  363                    TOPLOVOD
+  364                    TOVORNE PRIKOLICE
+  365                    TOVORNO VOZILO
+  366                    TRAKTOR
+  367                    UMETNIŠKI PREDMETI
+  368                    UMETNIŠKO DELO
+  369                    UNIFORME
+  370                    USNJENI IZDELKI
+  371                    VERIGA
+  372                    VETERINARSKA OPREMA IN PRIPOMOÈKI
+  373                    VIDEOKAMERA
+  374                    VIDEOREKORDER
+  375                    VILIÈASTI KLJUÈ
+  376                    VIRMAN
+  377                    VLAK
+  378                    VLOMILSKA IGLA
+  379                    VLOMILSKO ORODJE
+  380                    VNETLJIVE SNOVI
+  381                    VNETLJIVE TEKOÈINE
+  382                    VNETLJIVE TRDNE SNOVI
+  383                    VODA
+  384                    VODNE ŽIVALI
+  385                    VODOINSTALACIJSKI MATERIAL
+  386                    VODOVOD
+  387                    VOJAŠKA IZKAZNICA
+  388                    VOJAŠKA VOZILA
+  389                    VOJAŠKO OROŽJE
+  390                    VOLILNA SKRINJICA
+  391                    VOLILNI IMENIK
+  392                    VOLILNI LISTIÈ
+  393                    VOZILA
+  394                    VOZILA IN PLOVILA
+  395                    VOZNIŠKO DOVOLJENJE
+  396                    VREDNOSTI PAPIRJI
+  397                    VREDNOTNICE
+  398                    VRV VRVICA
+  399                    VŽIGALICE
+  400                    VŽIGALNA SREDSTVA OGNJEMETNI PREDMETI IN DRUGI PREDMETI
+  401                    VŽIGALNI IN GOREÈI PREDMETI
+  402                    VŽIGALNIK
+  403                    ZALIVKA
+  404                    ZANKA
+  405                    ZAPISNIK
+  406                    ZASEBNA LISTINA
+  407                    ZASEBNA PISANJA
+  408                    ZASTAVA OZN
+  409                    ZASTAVA RDEÈEGA KRIŽA
+  410                    ZAVAROVALNA POLICA
+  411                    ZDRAVILA
+  412                    ZDRAVNIŠKA POTRDILA
+  413                    ZDRAVSTVENA DOKUMENTACIJA
+  414                    ZEMELJSKI PLAZ
+  415                    ZEMLJA
+  416                    ZEMLJEMERSKO ZNAMENJE NA NEPREMIÈNINI
+  417                    ZEMLJEVID
+  418                    ZGIBANKE
+  419                    ZNAMENJE OZN
+  420                    ZNAMENJE RDEÈEGA KRIŽA
+  421                    ZNANSTVENO DELO
+  422                    ŽABE
+  423                    ŽICA
+  424                    ŽIÈNE LAMELE
+  425                    ŽIG
+  426                    ŽIG PEÈAT
+  427                    ŽIGI PEÈATI ŠTAMPILJKA
+  428                    ŽIVALI
+  429                    ŽIVINA
+  430                    STROJNA OPREMA
+  431                    DELI VOZILA
+  433                    POTNI LIST
+  434                    ŠPORTNA OPREMA (PRIPOMOÈKI, REKVIZITI)
+  435                    PODATKOVNE BAZE
+  436                    PORNOGRAFSKI PREDMET
+  437                    KONOPLJA RASTLINA (MARIHUANA)
+  438                    KONOPLJA RASTLINA (BILKA)
+  439                    KONOPLJA EKSTRAKTI
+  440                    KONOPLJA SMOLA (HAŠIŠ)
+  441                    EKSTAZI
+  442                    KONOPLJA TINKTURA
+  443                    KONTEJNER ZABOJNIK
+
+  ŠIFRANTA   KDKO        KRIMINALISTIÈNA OZNAÈBA
+  1271                   DVOJNI
+  1272                   MNOŽIÈNI
+  1273                   SERIJSKI
+  1274                   UMOR IN SAMOMOR
+  1275                   PO NAROÈILU
+  1276                   DOLGOTRAJNI SPOR
+  128A                   ZARADI NAPADA   O
+  128B                   ZARADI HUDE ŽALITVE   O
+  131A                   NAPELJEVANJE K SAMOMORU   O
+  131B                   POMOÈ PRI SAMOMORU   O
+  1311                   BISTVENO ZMANJŠANA PRIŠTEVNOST ŽRTVE
+  1312                   FIZIÈNO NASILJE NAD ŽRTVIJO
+  1313                   PSIHIÈNO NASILJE NAD ŽRTVIJO
+  132A                   PREKINITEV NOSEÈNOSTI   O
+  132B                   NEDOKONÈANA PREKINITEV NOSEÈNOSTI   O
+  132C                   POMOÈ PRI PREKINITVI NOSEÈNOSTI   O
+  1321                   ZDRAVNIK V ZDRAVSTVENI USTANOVI
+  1322                   ZDRAVNIK IZVEN ZDRAVSTVENE USTANOVE
+  1323                   MAZAŠTVO
+  133A                   ZAÈASNA OKVARA/OSLABITEV DELA TELESA/ORGANA   O
+  133B                   ZAÈASNO ZMANJŠANA ZMOŽNOST ZA DELO   O
+  133C                   PRIZADETA ZUNANJOST   O
+  133D                   ZAÈASNA OKVARA ZDRAVJA(BOLEZEN)   O
+  1331                   ZARADI SPORA, PREPIRA
+  1332                   PRI DELU
+  1333                   PO NAROÈILU
+  1334                   PRI IZSILJEVANJU
+  1335                   V SKUPINI
+  134A                   POTENCIALNA NEVARNOST ZA ŽIVLJENJE   O
+  134B                   UNIÈENJE/ZNATNA OSLABITEV DELA TELESA/ORGANA   O
+  134C                   ZAÈASNA ZNATNA OSLABITEV POMEMBNEGA DELA TELESA/ORGANA   O
+  134D                   ZAÈASNA NEZMOŽNOST ZA VSAKRŠNO DELO   O
+  134E                   TRAJNO ZMANJŠANA ZMOŽNOST ZA DELO   O
+  134F                   ZAÈASNO ZNATNO ZMANJŠANA ZMOŽNOST ZA DELO   O
+  134G                   ZAÈASNA SKAŽENOST   O
+  134H                   ZAÈASNO HUDO ALI ZA VSELEJ V MANJŠI MERI OKVARJENO ZDRAVJE   O
+  1341                   ZARADI SPORA, PREPIRA
+  1342                   PRI DELU
+  1343                   PO NAROÈILU
+  1344                   PRI IZSILJEVANJU
+  1345                   V SKUPINI
+  135A                   DEJANSKA NEVARNOST ZA ŽIVLJENJE   O
+  135B                   UNIÈEN/ZA VSELEJ ZNATNO OSLABLJEN POMEMBEN DEL TELESA/ORGANA   O
+  135C                   TRAJNA NEZMOŽNOST ZA VSAKRŠNO DELO   O
+  135D                   TRAJNA SKAŽENOST   O
+  135E                   TRAJNO HUDO OKVARJENO ZDRAVJE   O
+  1351                   ZARADI SPORA, PREPIRA
+  1352                   PRI DELU
+  1353                   PO NAROÈILU
+  1354                   PRI IZSILJEVANJU
+  1355                   V SKUPINI
+  136A                   S HUDIMI TELESNIMI POŠKODBAMI  O
+  136B                   S SMRTNIM IZIDOM   O
+  1361                   NAÈRTOVAN PRETEP
+  137A                   NEVARNOST HUDE TELESNE POŠKODBE   O
+  137B                   NEVARNOST HUDE OKVARE ZDRAVJA   O
+  139A                   OPUSTITEV POMOÈI ZAUPANI OSEBI   O
+  139B                   OPUSTITEV POMOÈI OSEBI, ZA KATERO JE DOLŽAN SKRBETI   O
+  139C                   NEVARNOST ZA ŽIVLJENJE   O
+  139D                   NEVARNOST ZA ZDRAVJE   O
+  140A                   BREZ NEVARNOSTI ZA STORILCA   O
+  140B                   BREZ NEVARNOSTI ZA TRETJO OSEBO   O
+  141A                   OMEJITEV PRAVIC ALI SVOBOŠÈIN   O
+  141B                   DODELITEV POSEBNE PRAVICE ALI UGODNOSTI   O
+  141C                   PROTI POSAMEZNIKU, KI SE ZAVZEMA ZA ENAKOPRAVNOST   O
+  141D                   PROTI ORGANIZACIJI, KI SE ZAVZEMA ZA ENAKOPRAVNOST   O
+  142A                   FIZIÈNA PRISILA   O
+  142B                   PRISILA Z RESNO GROŽNJO   O
+  142C                   K STORITVI   O
+  142D                   K OPUSTITVI   O
+  142E                   K TRPLJENJU   O
+  143A                   ZAPRTJE V PROSTOR   O
+  143B                   PRIKLENITEV, VEZANJE IPD.   O
+  143C                   NA GROZOVIT NAÈIN   O
+  143D                   ZA DALJŠE OBDOBJE(VEÈ KOT TEDEN DNI)   O
+  144A                   PRISILJENJE ŽRTVE V DOLOÈENO RAVNANJE  O
+  144B                   PRISILJENJE TRETJE OSEBE V DOLOÈENO RAVNANJE   O
+  144C                   GROŽNJA Z UMOROM   O
+  144D                   GROŽNJA S HUDO TELESNO POŠKODBO   O
+  1441                   S PRESLEPITVIJO
+  145A                   GROŽNJA Z NAPADOM NA TELO   O
+  145B                   GROŽNJA Z NAPADOM NA ŽIVLJENJE   O
+  146A                   PRIZADETOST TELESNE CELOVITOSTI   O
+  146B                   PRIZADETJE DUŠEVNE CELOVITOSTI   O
+  147A                   PREISKAVA OSEBE   O
+  147B                   PREISKAVA OSEBNIH STVARI   O
+  148A                   PRISLUŠKOVANJE   O
+  148B                   ZVOÈNO SNEMANJE   O
+  148C                   PRENAŠANJE INFORMACIJ TRETJI OSEBI   O
+  1481                   V PROSTORU
+  1482                   IZVEN PROSTOROV
+  149A                   SNEMANJE OSEBE   O
+  149B                   SNEMANJE PROSTOROV   O
+  149C                   PRENAŠANJE POSNETKA TRETJI OSEBI   O
+  150A                   UPORABA TEHNIÈNIH SREDSTEV   O
+  150B                   UPORABA KEMIÈNIH SREDSTEV   O
+  150C                   PREPREÈITEV PRENOSA SPOROÈILA DO OŠKODOVANCA   O
+  150D                   PRENOS SPOROÈILA TRETJI OSEBI   O
+  1501                   PRESTREZANJE RAÈUNALNIŠKIH TELEKOMUNIKACIJ
+  1502                   PRESTREZANJE TELEFONSKIH/TELEFAKS KOMUNIKACIJ
+  1503                   PRESTREZANJE MOBILNIH TELEKOMUNIKACIJ(TELEFON, RADIO)
+  1504                   ODPIRANJE TUJE ELEKTRONSKE POŠTE
+  1505                   PREUSMERITEV ELEKTRONSKE POŠTE
+  1506                   ODPIRANJE KLASIÈNIH PISANJ
+  151A                   NA INTERNETU   O
+  151B                   NA ELEKTRONSKI  OGLASNI DESKI   O
+  151C                   V PISNEM MEDIJU   O
+  151D                   NA RADIU   O
+  151E                   NA TELEVIZIJI   O
+  152A                   NEUPRAVIÈEN PRISTOP   O
+  152B                   NOÈE SE ODSTRANITI   O
+  154A                   ZBIRANJE V NASPROTJU Z ZAKONOM   O
+  154B                   ZBIRANJE BREZ OSEBNE PRIVOLITVE   O
+  154C                   POSREDOVANJE V NASPROTJU Z ZAKONOM   O
+  154D                   POSREDOVANJE BREZ OSEBNE PRIVOLITVE   O
+  1541                   PRI ELEKTRONSKEM TRGOVANJU
+  1542                   PRI ELEKTRONSKEM BANÈNIŠTVU
+  1543                   S POMOÈJO LAŽNE SPLETNE STRANI NA INTERNETU
+  1544                   Z GOVOROM
+  1545                   PISNO
+  1546                   S POMOÈJO SREDSTEV JAVNEGA OBVEŠÈANJA
+  155A                   PREPREÈITEV UPORABE PRAVICE DO PRAVNEGA SREDSTVA O
+  155B                   PREPREÈITEV DAJANJA POBUDE SPLOŠNEGA POMENA   O
+  1551                   Z LAŽNO IZJAVO, S PREVARO
+  1552                   Z GROŽNJO
+  1553                   Z ZAVRŠBO
+  156A                   PREPREÈITEV   O
+  156B                   OVIRANJE   O
+  1561                   S SILO
+  1562                   Z RESNO GROŽNJO
+  1563                   S PRESLEPITVIJO
+  157A                   PREPREÈITEV TISKANJA   O
+  157B                   PREPREÈITEV PRODAJE   O
+  157C                   PREPREÈITEV RAZŠIRJANJA   O
+  157D                   PREPREÈITEV ODDAJANJA   O
+  1571                   V ZVEZI S TISKOVINAMI
+  1572                   V ZVEZI Z RADIJSKIM PROGRAMOM
+  1573                   V ZVEZI Z TELEVIZIJSKIM PROGRAMOM
+  1574                   V ZVEZI Z INTERNETOM
+  158A                   S SVOJIM IMENOM   O
+  158B                   Z IMENOM KOGA DRUGEGA   O
+  158C                   OBJAVA   O
+  158D                   PRIKAZ   O
+  158E                   IZVEDBA   O
+  158F                   PRENOS   O
+  158G                   SKAZITEV   O
+  158H                   OKRNITEV   O
+  158I                   DRUG NEUPRAVIÈEN POSEG   O
+  1581                   NA PODROÈJU LITERATURE
+  1582                   NA PODROÈJU VIDEA
+  1583                   NA PODROÈJU AVDIA
+  1584                   NA PODROÈJU PROGRAMSKE OPREME
+  159A                   REPRODUCIRANJE   O
+  159B                   DISTRIBUCIJA   O
+  159C                   DAJANJE V NAJEM   O
+  159D                   POSREDOVANJE JAVNOSTI NA PODROÈJU LITERATURE   O
+  159E                   NEUPRAVIÈENA UPORABA   O
+  1591                   VIDEO PIRATSTVO
+  1592                   PONAREJANJE PROGRAMSKE OPREME
+  1593                   PREDELAVA PROGRAMA
+  1594                   PRODAJA RAÈUNALNIKA Z NELICENÈNO PROGRAMSKO OPREMO
+  1595                   TRDO RAÈUNALNIŠKO PIRATSTVO
+  1596                   MEHKO RAÈUNALNIŠKO PIRATSTVO
+  1597                   PIRATSTVO ELEKTRONSKIH OGLASNIH DESK
+  1598                   PIRATSTVO NA INTERNETU
+  1599                   AVDIO PIRATSTVO
+  160A                   JAVNO ODDAJANJE(RADIO, TV)   O
+  160B                   RAZMNOŽEVANJE   O
+  160C                   DAJANJE V PROMET   O
+  1601                   NEPOSREDNA IZVEDBA
+  1602                   POSNETEK IZ IZVEDBE
+  1603                   REPRODUCIRANJE   O
+  1604                   OBJAVLJANJE   O
+  1605                   RAZŠIRJANJE   O
+  1606                   DAJANJE V NAJEM   O
+  161A                   Z NEVPISOM V VOLILNI IMENIK O
+  161B                   S ÈRTANJEM IZ VOLILNEGA IMENIKA  O
+  1611                   NA LOKALNIH VOLITVAH
+  1612                   NA DRŽAVNIH VOLITVAH
+  162A                   S SILO  O
+  162B                   Z RESNO GROŽNJO  O
+  162C                   S PODKUPOVANJEM  O
+  162D                   S PRESLEPITVIJO   O
+  162E                   DRUG NEDOVOLJEN NAÈIN   O
+  1621                   PRI GLASOVANJU
+  1622                   NA LOKALNIH VOLITVAH
+  1623                   NA DRŽAVNIH VOLITVAH
+  163A                   NAMESTO DRUGEGA   O
+  163B                   VEÈKRATNO   O
+  1631                   PRI GLASOVANJU
+  1632                   NA LOKALNIH VOLITVAH
+  1633                   NA DRŽAVNIH VOLITVAH
+  164A                   ZAHTEVANJE ODGOVORNOSTI   O
+  164B                   ZAHTEVANJE POJASNILA   O
+  1641                   PRI GLASOVANJU
+  1642                   NA LOKALNIH VOLITVAH
+  1643                   NA DRŽAVNIH VOLITVAH
+  165A                   UNIÈENJE   O
+  165B                   POŠKODOVANJE   O
+  165C                   PRIKRITJE   O
+  165D                   PONAREDITEV   O
+  1651                   PRI GLASOVANJU
+  1652                   NA LOKALNIH VOLITVAH
+  1653                   NA DRŽAVNIH VOLITVAH
+  166A                   DODAJANJE GLASOVNIC/GLASOV   O
+  166B                   ODVZEMANJE GLASOVNIC/GLASOV   O
+  166C                   OBJAVA LAŽNEGA REZULTATA   O
+  1661                   PRI GLASOVANJU
+  1662                   NA LOKALNIH VOLITVAH
+  1663                   NA DRŽAVNIH VOLITVAH
+  167A                   PRI GLASOVANJU  O
+  167B                   NA LOKALNIH VOLITVAH   O
+  167C                   NA DRŽAVNIH VOLITVAH   O
+  168A                   ZAHTEVANJE NAGRADE, DARILA...  O
+  168B                   SPREJETJE NAGRADE, DARILA...  O
+  1681                   PRI GLASOVANJU
+  1682                   NA LOKALNIH VOLITVAH
+  1683                   NA DRŽAVNIH VOLITVAH
+  169U                   OBJAVA NA INTERNETU
+  169V                   OBJAVA NA ELEKTRONSKI OGLASNI DESKI
+  1690                   S TISKOM
+  1691                   PREKO TELEVIZIJE
+  1692                   NA JAVNEM SHODU
+  1693                   Z DRUGIMI SREDSTVI JAVNEGA OBVEŠÈANJA
+  1694                   VRNITEV RAZŽALITVE
+  1695                   ZOPER DRŽAVNI ORGAN
+  1696                   ZOPER URADNO OSEBO
+  1697                   ZOPER VOJAŠKO OSEBO
+  1698                   ZOPER POLICISTA
+  1699                   PREKO RADIA
+  170U                   OBJAVA NA INTERNETU
+  170V                   OBJAVA NA ELEKTRONSKI OGLASNI DESKI
+  1700                   S TISKOM
+  1701                   PREKO RADIA
+  1702                   PREKO TELEVIZIJE
+  1703                   NA JAVNEM SHODU
+  1704                   Z DRUGIMI SREDSTVI JAVNEGA OBVEŠÈANJA
+  1705                   ZOPER DRŽAVNI ORGAN
+  1706                   ZOPER URADNO OSEBO
+  1707                   ZOPER VOJAŠKO OSEBO
+  1708                   ZOPER POLICISTA
+  171U                   OBJAVA NA INTERNETU
+  171V                   OBJAVA NA ELEKTRONSKI OGLASNI DESKI
+  1710                   S TISKOM
+  1711                   PREKO RADIA
+  1712                   PREKO TELEVIZIJE
+  1713                   NA JAVNEM SHODU
+  1714                   Z DRUGIMI SREDSTVI JAVNEGA OBVEŠÈANJA
+  1715                   ZOPER DRŽAVNI ORGAN
+  1716                   ZOPER URADNO OSEBO
+  1717                   ZOPER VOJAŠKO OSEBO
+  1718                   ZOPER POLICISTA
+  172U                   OBJAVA NA INTERNETU
+  172V                   OBJAVA NA ELEKTRONSKI OGLASNI DESKI
+  1720                   S TISKOM
+  1721                   PREKO RADIA
+  1722                   PREKO TELEVIZIJE
+  1723                   NA JAVNEM SHODU
+  1724                   Z DRUGIMI SREDSTVI JAVNEGA OBVEŠÈANJA
+  1725                   ZOPER DRŽAVNI ORGAN
+  1726                   ZOPER URADNO OSEBO
+  1727                   ZOPER VOJAŠKO OSEBO
+  1728                   ZOPER POLICISTA
+  173A                   NEPOSREDNO OÈITANJE   O
+  173B                   OÈITANJE PREKO TRETJE OSEBE   O
+  173U                   OBJAVA NA INTERNETU
+  173V                   OBJAVA NA ELEKTRONSKI OGLASNI DESKI
+  1730                   S TISKOM
+  1731                   PREKO RADIA
+  1732                   PREKO TELEVIZIJE
+  1733                   NA JAVNEM SHODU
+  1734                   Z DRUGIMI SREDSTVI JAVNEGA OBVEŠÈANJA
+  1735                   ZOPER DRŽAVNI ORGAN
+  1736                   ZOPER URADNO OSEBO
+  1737                   ZOPER VOJAŠKO OSEBO
+  1738                   ZOPER POLICISTA
+  174A                   ZOPER REPUBLIKO  O
+  174B                   ZOPER PREDSEDNIKA REPUBLIKE  O
+  174C                   ZOPER SIMBOLE DRŽAVE   O
+  1741                   OBJAVA NA INTERNETU
+  1742                   OBJAVA NA ELEKTRONSKI OGLASNI DESKI
+  1743                   S TISKOM
+  1744                   PREKO RADIA
+  1745                   PREKO TELEVIZIJE
+  1746                   NA JAVNEM SHODU
+  1747                   Z DRUGIMI SREDSTVI JAVNEGA OBVEŠÈANJA
+  175A                   ZOPER DRŽAVO   O
+  175B                   ZOPER ŠEFA DRŽAVE   O
+  175C                   ZOPER DIPLOMATSKEGA PREDSTAVNIKA DRŽAVE   O
+  175D                   ZOPER SIMBOLE DRŽAVE   O
+  175E                   ZOPER MEDNARODNO ORGANIZACIJO   O
+  1751                   OBJAVA NA INTERNETU
+  1752                   OBJAVA NA ELEKTRONSKI OGLASNI DESKI
+  1753                   S TISKOM
+  1754                   PREKO RADIA
+  1755                   PREKO TELEVIZIJE
+  1756                   NA JAVNEM SHODU
+  1757                   Z DRUGIMI SREDSTVI JAVNEGA OBVEŠÈANJA
+  176A                   PROTI SLOVENSKEMU NARODU   O
+  176B                   PROTI ITALIJANSKI NARODNI SKUPNOSTI  O
+  176C                   PROTI MADŽARSKI NARODNI SKUPNOSTI  O
+  1761                   OBJAVA NA INTERNETU
+  1762                   OBJAVA NA ELEKTRONSKI OGLASNI DESKI
+  1763                   S TISKOM
+  1764                   PREKO RADIA
+  1765                   PREKO TELEVIZIJE
+  1766                   NA JAVNEM SHODU
+  1767                   Z DRUGIMI SREDSTVI JAVNEGA OBVEŠÈANJA
+  180A                   UPORABA SILE   O
+  180B                   GROŽNJA Z UPORABO SILE   O
+  180C                   GROŽNJA S ŠKODO NA ÈASTI IN DOBREMU IMENU   O
+  180D                   GROŽNJA Z MATERIALNO ŠKODO   O
+  180E                   GROZOVIT NAÈIN   O
+  180F                   POSEBNO PONIŽEVALEN NAÈIN   O
+  180G                   ZAPORNIKA V ÈASU PRESTAJANJA KAZNI   O
+  180H                   VEÈ STORILCEV/ENA ŽRTEV(SKUPINSKO)   O
+  180I                   VEÈ STORILCEV/VEÈ ŽRTEV(MNOŽIÈNO)   O
+  1801                   EN STORILEC/VEÈ ŽRTEV/RAZLIÈEN ÈAS(SERIJSKO)
+  181A                   UPORABA SILE   O
+  181B                   GROŽNJA Z UPORABO SILE   O
+  181C                   GROŽNJA S ŠKODO NA ÈASTI IN DOBREMU IMENU   O
+  181D                   GROŽNJA Z MATERIALNO ŠKODO   O
+  181E                   GROZOVIT NAÈIN   O
+  181F                   POSEBNO PONIŽEVALEN NAÈIN   O
+  181G                   ZAPORNIKA V ÈASU PRESTAJANJA KAZNI   O
+  181H                   VEÈ STORILCEV/ENA ŽRTEV(SKUPINSKO)   O
+  181I                   VEÈ STORILCEV/VEÈ ŽRTEV(MNOŽIÈNO)   O
+  1811                   EN STORILEC/VEÈ ŽRTEV/RAZLIÈEN ÈAS(SERIJSKO)
+  1812                   ŽRTEV MORA AKTIVNO RAVNATI
+  1813                   ŽRTEV MORA PASIVNO RAVNATI
+  182A                   SPOLNO OBÈEVANJE   O
+  182B                   DRUGO SPOLNO DEJANJE   O
+  182C                   DUŠEVNA BOLEZEN ŽRTVE   O
+  182D                   ZAÈASNO DUŠEVNO MOTENA ŽRTEV   O
+  182E                   HUJŠA DUŠEVNA ZAOSTALOST ŽRTVE   O
+  182F                   DRUGA FIZIÈNA/PSIHIÈNA NEZMOŽNOST OBRAMBE   O
+  1821                   ŽRTEV MORA AKTIVNO RAVNATI
+  1822                   ŽRTEV MORA PASIVNO RAVNATI
+  183A                   SPOLNO OBÈEVANJE   O
+  183B                   DRUGO SPOLNO DEJANJE   O
+  183C                   DUŠEVNA BOLEZEN ŽRTVE   O
+  183D                   ZAÈASNO DUŠEVNO MOTENA ŽRTEV   O
+  183E                   HUJŠA DUŠEVNA ZAOSTALOST ŽRTVE   O
+  183F                   DRUGA FIZIÈNA/PSIHIÈNA NEZMOŽNOST OBRAMBE   O
+  183G                   UPORABA SILE   O
+  183H                   GROŽNJA Z UPORABO SILE   O
+  1831                   ŽRTEV MORA AKTIVNO RAVNATI
+  1832                   ŽRTEV MORA PASIVNO RAVNATI
+  184A                   SPOLNO OBÈEVANJE   O
+  184B                   DRUGO SPOLNO DEJANJE   O
+  184C                   ŽRTEV MORA AKTIVNO RAVNATI   O
+  184D                   ŽRTEV MORA PASIVNO RAVNATI   O
+  185A                   SODELOVANJE   O
+  185B                   PRISILJENJE   O
+  185C                   GROŽNJA   O
+  185D                   PRESLEPITEV   O
+  185E                   V HUDODELSKI ZDRUŽBI   O
+  1850                   PONUDBA PREKO INTERNETA
+  1851                   PONUDBA PREKO ELEKTRONSKIH OGLASNIH DESK
+  1852                   PONUDBA PREKO TISKA
+  1853                   PONUDBA PREKO TELEFONA(VROÈE LINIJE)
+  1854                   POULIÈNA PROSTITUCIJA
+  1855                   PROSTITUCIJA NA DOMU STRANK
+  1856                   PROSTITUCIJA V LOKALIH, HOTELIH...
+  1857                   PROSTITUCIJA V STANOVANJIH
+  1858                   PLAÈILO PROSTITUTKI
+  1859                   PLAÈILO ZVODNIKU
+  186A                   PRIDOBIVANJE OSEB ZA PROSTITUIRANJE   O
+  186B                   SODELOVANJE PRI PRIDOBIVANJU OSEB ZA PROSTITUIRANJE   O
+  186C                   Z UPORABO SILE   O
+  186D                   Z GROŽNJO   O
+  186E                   S PRESLEPITVIJO   O
+  1860                   NOVAÈENJE PREKO INTERNETA
+  1861                   NOVAÈENJE PREKO ELEKTRONSKIH OGLASNIH DESK
+  1862                   NOVAÈENJE PREKO TISKA
+  1863                   NOVAÈENJE PREKO PROSTITUTK
+  1864                   NOVAÈENJE PREKO ZVODNIKOV
+  1865                   NOVAÈENJE PREKO AGENCIJ
+  1866                   ZA POULIÈNO PROSTITUCIJO
+  1867                   ZA PROSTITUCIJO NA DOMU STRANK
+  1868                   ZA PROSTITUCIJO V LOKALIH, HOTELIH...
+  1869                   ZA PROSTITUCIJO V STANOVANJIH
+  187A                   PRODAJA   O
+  187B                   PRIKAZOVANJE   O
+  187C                   JAVNO RAZSTAVLJANJE   O
+  187D                   PORNOGRAFSKA PREDSTAVA   O
+  187E                   ZLORABA ZA IZDELAVO SLIK   O
+  187F                   ZLORABA ZA IZDELAVO AVDIO/VIDEO ZAPISOV   O
+  187G                   ZLORABA ZA PORNOGRAFSKO PREDSTAVO   O
+  1871                   NA INTERNETU
+  1872                   NA ELEKTRONSKI OGLASNI DESKI
+  1873                   PROIZVODNJA   O
+  1874                   RAZŠIRJANJE   O
+  1875                   UVOZ/IZVOZ   O
+  1876                   POSEDOVANJE   O
+  188A                   NEUPOŠTEVANJE PREDPISA/ODREDBE ZA PREGLED   O
+  188B                   NEUPOŠTEVANJE PREDPISA/ODREDBE ZA RAZKUŽENJE   O
+  188C                   NEUPOŠTEVANJE PREDPISA/ODREDBE O KARANTENI   O
+  188D                   NEUPOŠTEVANJE DRUGIH UKREPOV   O
+  189A                   POMOÈ OPUSTIL ZDRAVNIK   O
+  189B                   POMOÈ OPUSTIL DRUG ZDRAVSTVENI DELAVEC   O
+  189C                   POMOÈ OPUŠÈENA PACIENTU   O
+  189D                   POMOÈ OPUŠÈENA DRUGEMU(POŠKODOVANCU...)   O
+  190A                   MALOMARNOST ZDRAVNIKA   O
+  190B                   MALOMARNOST DRUGEGA ZDRAVSTVENEGA DELAVCA   O
+  191A                   ODVZEM DELA TELESA ŽIVI OSEBI   O
+  191B                   ODVZEM DELA TELESA MRTVI OSEBI   O
+  191C                   VSADITEV DELA TELESA   O
+  191D                   TRGOVANJE S ÈLOVEŠKIMI ORGANI   O
+  191E                   SODELOVANJE PRI TRGOVANJU S ÈLOVEŠKIMI ORGANI   O
+  192A                   DEJANJE LEKARNARJA   O
+  192B                   DEJANJE DRUGE OSEBE   O
+  192C                   NAPAKA PRI PRIPRAVI ZDRAVILA   O
+  192D                   IZDAJA NAPAÈNEGA ZDRAVILA   O
+  192E                   DRUGO RAVNANJE V NASPROTJU S PRAVILI ZNANOSTI/STROKE   O
+  193A                   PROIZVODNJA   O
+  193B                   PRODAJA   O
+  193C                   DRUG NAÈIN DAJANJA V PROMET   O
+  1931                   ŠKODLJIVA ZDRAVILA
+  1932                   DRUGA ŠKODLJIVA SREDSTVA ZA ZDRAVLJENJE
+  1933                   OKUŽENA KRI
+  1934                   OKUŽENO TKIVO
+  194A                   PRI PROIZVODNJI BLAGA   O
+  194B                   PRI PROMETU BLAGA   O
+  194C                   PRI OPRAVLJANJU STORITEV   O
+  194D                   NEVARNOST ZA ŽIVLJENJE   O
+  194E                   NEVARNOST ZA ZDRAVJE   O
+  1941                   ŽIVILA
+  1942                   SREDSTVA ZA OSEBNO NEGO
+  1943                   OTROŠKE IGRAÈE
+  1944                   DRUGI IZDELKI MNOŽIÈNE POTROŠNJE
+  195A                   OPUSTITEV PREGLEDA   O
+  195B                   NEVESTEN PREGLED   O
+  195C                   ŽIVINE   O
+  195D                   MESA   O
+  196A                   PROIZVODNJA MAMIL   O
+  196B                   PREDELAVA MAMIL   O
+  196C                   PRODAJA MAMIL   O
+  196D                   PONUJANJE MAMIL NAPRODAJ   O
+  196E                   NAKUP MAMIL ZARADI PRODAJE   O
+  196F                   HRAMBA MAMIL   O
+  196G                   PRENOS MAMIL   O
+  196H                   POSREDOVANJE PRI NAKUPU ALI PRODAJI MAMIL   O
+  196I                   ZDRUŽBA VEÈ OSEB   O
+  196J                   ORGANIZIRANJE MREŽE PREKUPÈEVALCEV   O
+  196K                   IZDELAVA OPREME ZA PROIZVODNJO MAMIL   O
+  196L                   IZDELAVA SUBSTANC ZA PROIZVODNJO MAMIL   O
+  196M                   NABAVLJANJE OPREME ZA PROIZVODNJO MAMIL   O
+  196N                   NABAVLJANJE SUBSTANC ZA IZDELAVO MAMIL   O
+  196O                   POSEST OPREME ZA PROIZVODNJO MAMIL   O
+  196P                   POSEST SUBSTANC ZA PROIZVODNJO MAMIL   O
+  196R                   DAJANJE V UPORABO OPREME ZA PROIZVODNJO MAMIL   O
+  196S                   DAJANJE V UPORABO SUBSTANC ZA PROIZVODNJO MAMIL   O
+  197A                   NAPELJEVANJE K UŽITKU   O
+  197B                   DAJANJE MAMILA ZA UŽIVANJE   O
+  197C                   DAJANJE PROSTOROV ZA UŽIVANJE NA RAZPOLAGO   O
+  197D                   MLADOLETNIKU   O
+  197E                   VEÈ OSEBAM   O
+  199A                   PODTAKNITEV OTROKA   O
+  199B                   ZAMENJAVA OTROKA   O
+  200A                   ODVZEM RODITELJU   O
+  200B                   ODVZEM SKRBNIKU   O
+  200C                   ODVZEM POSVOJITELJU   O
+  200D                   ODVZEM IZ ZAVODA   O
+  200E                   ODVZEM OSEBI, KATERI JE ZAUPANA   O
+  200F                   ONEMOGOÈANJE ODLOÈBE O DODELITVI   O
+  2001                   ODVZEM PO RAZVEZI ZAKONA
+  2002                   ODVZEM PRED RAZVEZO ZAKONA
+  2003                   ODVZEM V ÈASU IZVENZAKONSKE SKUPNOSTI
+  201A                   FIZIÈNO ZANEMARJANJE(LAKOTA, NEHIGIENA...)   O
+  201B                   VZGOJNO ZANEMARJANJE   O
+  201C                   ZDRAVSTVENO ZANEMARJANJE   O
+  201D                   FIZIÈNO NASILJE(SUROVO RAVNANJE)   O
+  201E                   PSIHIÈNO NASILJE(TRPINÈENJE)   O
+  201F                   SILJENJE K PRETIRANEMU DELU   O
+  201G                   SILJENJE K DELU, KI NI PRIMERNO ZA STAROSTI   O
+  201H                   NAVAJANJE K ŠKODLJIVIM RAVNANJEM   O
+  203A                   OGROŽANJE PREŽIVLJANJA   O
+  203B                   IZMIKANJE PLAÈEVANJU   O
+  205A                   ODREKANJE PRAVICE   O
+  205B                   OMEJITEV PRAVICE  O
+  205C                   GLEDE SKLENITVE DELOVNEGA RAZMERJA   O
+  205D                   GLEDE PRENEHANJA DELOVNEGA RAZMERJA   O
+  205E                   GLEDE OSEBNEGA DOHODKA/NADOMESTILA   O
+  205F                   GLEDE DELOVNEGA ÈASA   O
+  205G                   GLEDE ODMORA/POÈITKA   O
+  205H                   GLEDE DOPUSTA   O
+  205I                   GLEDE DRUGE ODSOTNOSTI Z DELA   O
+  205J                   GLEDE VARSTVA ŽENSK   O
+  205K                   GLEDE VARSTVA MLADINE   O
+  205L                   GLEDE VARSTVA INVALIDOV   O
+  205M                   GLEDE NADURNEGA IN NOÈNEGA DELA   O
+  206A                   ODREKANJE PRAVICE   O
+  206B                   OMEJITEV PRAVICE   O
+  207A                   PREPREÈEVANJE/ONEMOGOÈANJE IZVRŠEVANJA PRAVIC   O
+  207B                   ZLORABLJANJE PRAVIC   O
+  207C                   OVIRANJE URESNIÈEVANJA PRAVIC   O
+  2071                   KRŠITEV PRAVIC DO SODELOVANJA PRI UPRAVLJANJU
+  2072                   KRŠITEV SINDIKALNIH PRAVIC
+  208A                   UNIÈENJE VARNOSTNE NAPRAVE   O
+  208B                   POŠKODOVANJE VARNOSTNE NAPRAVE   O
+  208C                   ODSTRANITEV VARNOSTNE NAPRAVE   O
+  208D                   VARNOSTNA NAPRAVA NI POSTAVLJENA   O
+  208E                   VARNOSTNA NAPRAVA NI BREZHIBNA   O
+  208F                   VARNOSTNA NAPRAVA NE DELUJE   O
+  208G                   NESPOŠTOVANJE PREDPISOV/PRAVIL O VARNOSTNIH UKREPIH   O
+  209A                   ODREKANJE PRAVICE   O
+  209B                   OMEJITEV PRAVICE   O
+  209C                   V ZASEBNEM SEKTORJU   O
+  209D                   V JAVNEM SEKTORJU   O
+  2091                   NEPLAÈEVANJE PRISPEVKOV
+  2092                   PLAÈEVANJE ZMANJŠANIH PRISPEVKOV
+  2093                   NEIZPLAÈEVANJE SREDSTEV UPRAVIÈENCU
+  210A                   SIMULIRANJE BOLEZNI/NEZMOŽNOSTI ZA DELO   O
+  210B                   POVZROÈITEV BOLEZNI/NEZMOŽNOSTI ZA DELO   O
+  210C                   V ZASEBNEM SEKTORJU   O
+  210D                   V JAVNEM SEKTORJU   O
+  211X                   NARAVNE DOBRINE   SUROVINE
+  2111                   ŽEPARSTVO   IZ OBLAÈIL
+  2112                   ŽEPARSTVO   IZ ROÈNE TORBICE, AKTOVKE, KOVÈKA
+  2113                   IZ PRTLJAGE
+  2114                   Z VLOMOM
+  2115                   Z VDOROM
+  2116                   Z DRUGAÈNIM PREMAGOVANJEM OVIR
+  212A                   Z VLOMOM  O
+  212B                   Z VDOROM   O
+  212C                   Z DRUGAÈNIM PREMAGOVANJEM OVIR   O
+  212D                   OSUMLJENI JE IMEL NEVARNO ORODJE ZA NAPAD   O
+  212E                   OSUMLJENI JE IMEL OROŽJE ZA NAPAD   O
+  212F                   OB POŽARU   O
+  212G                   OB POVODNJI   O
+  212H                   OB DRUGI NARAVNI NESREÈI   O
+  212I                   Z IZRABO NESREÈE/NEZGODE DRUGEGA   O
+  212J                   Z IZRABO NEMOÈI DRUGEGA   O
+  212K                   STVAR POSEBNEGA KULTURNEGA POMENA   O
+  212L                   STVAR POSEBNEGA ZGODOVINSKEGA POMENA   O
+  212M                   STVAR VELIKE VREDNOSTI   O
+  212N                   ŽEPARSTVO   IZ OBLAÈIL
+  212O                   ŽEPARSTVO   IZ ROÈNE TORBICE, AKTOVKE, KOVÈKA
+  212P                   IZ PRTLJAGE
+  212R                   SKOZI VRATA
+  212S                   SKOZI OKNO
+  212T                   SKOZI STREHO
+  212U                   KLJUB AKTIVIRANJU ALARMNE NAPRAVE
+  212V                   Z ONESPOSOBITVIJO ALARMNE NAPRAVE
+  212X                   NARAVNE DOBRINE   SUROVINE
+  212Z                   S SILO TELESA(BREZ PRIPOMOÈKOV)
+  2120                   Z LOMLJENJEM KLJUÈAVNICE
+  2121                   Z LOMLJENJEM KLJUÈAVNICE S POSEBNIMI PRIPOMOÈKI
+  2122                   Z ODKLEPANJEM KLJUÈAVNICE S POSEBNIMI PRIPOMOÈKI
+  2123                   V PROSTOSTOJEÈO BLAGAJNO
+  2124                   V ZIDNO BLAGAJNO/TREZOR
+  2125                   V OGNJEVARNO KOVINSKO OMARO
+  2126                   V MIZNI PREDAL
+  2127                   V OMARO
+  2128                   V BANÈNI AVTOMAT
+  2129                   V AVTOMOBIL
+  213A                   UPORABA SILE   O
+  213B                   GROŽNJA Z UPORABO SILE ZOPER TELO   O
+  213C                   GROŽNJA Z UPORABO SILE ZOPER ŽIVLJENJE  O
+  2131                   ROP PRI PREVOZU GOTOVINE
+  2132                   ROP PRI PRENOSU GOTOVINE
+  214A                   UPORABA SILE   O
+  214B                   GROŽNJA Z UPORABO SILE ZOPER TELO   O
+  214C                   GROŽNJA Z UPORABO SILE ZOPER ŽIVLJENJE   O
+  215A                   ZAUPANA STVAR   O
+  215B                   NAJDENA STVAR   O
+  215C                   NAKLJUÈNO PRIDOBLJENA STVAR   O
+  215D                   STVAR POSEBNEGA KULTURNEGA/ZGODOVINSKEGA POMENA   O
+  215E                   STVAR VELIKE VREDNOSTI   O
+  217A                   KLASIÈNA   O
+  217B                   POSLOVNA   O
+  217C                   Z VREDNOSTNIMI PAPIRJI   O
+  217D                   ZAVAROVALNIŠKA   O
+  217E                   KREDITNA   O
+  217F                   PRI IGRAH NA SREÈO   O
+  217G                   NEPLAÈILO(BLAGA, STORITVE, DOLGA...)   O
+  217H                   PRI IZPOSOJI VOZILA   O
+  217I                   HOTELSKA   O
+  217J                   VERIŽNA(PIRAMIDALNA)   O
+  217K                   ZLORABA PLAÈILNE/KREDITNE KARTICE   O
+  217L                   ZLORABA PLAÈILNE/KREDITNE KARTICE NA INTERNETU   O
+  217M                   LAŽNO TRGOVANJE NA INTERNETU(SPOOFING)   O
+  217N                   S PREDELAVO RAÈ. PROGRAMSKE OPREME   O
+  217O                   S PREDELAVO RAÈ. STROJNE OPREME   O
+  217P                   Z LAŽNIMI OSEBNIMI PODATKI   O
+  217R                   ZLORABA PLAÈILNE/KREDITNE KARTICE NA BANÈNEM AVTOMATU   O
+  217S                   ZLORABA PLAÈILNE/KREDITNE KARTICE NA PRODAJNEM MESTU   O
+  218A                   UPORABA SILE(FIZIÈNO, OROŽJE, EKSPL. SREDSTVA...)   O
+  218B                   GROŽNJA Z UBOJEM   O
+  218C                   GROŽNJA S TELESNIMI POŠKODBAMI   O
+  218D                   GROŽNJA Z OŠKODOVANJEM PREMOŽENJA   O
+  218E                   GROŽNJA S PRIZADETJEM DRUGIH(ŽENE, OTROK...)   O
+  218F                   GROŽNJA S KONTAMINACIJO(HRANE, IZDELKOV...)   O
+  2181                   PRI IZTERJAVI DEJANSKEGA DOLGA
+  2182                   PRI IZTERJAVI NAMIŠLJENEGA DOLGA
+  2183                   POBIRANJE VARŠÈINE(MAFIJSKI TIP)
+  219A                   IZRABA SLABEGA PREMOŽENJSKEGA STANJA   O
+  219B                   IZRABA HUDIH STANOVANJSKIH RAZMER   O
+  219C                   IZRABA STISKE   O
+  219D                   IZRABA NEIZKUŠENOSTI ALI LAHKOMISELNOSTI   O
+  2191                   ODERUŠKA POSOJILA
+  220A                   V PODJETNIŠTVU   O
+  220B                   V JAVNEM SEKTORJU  O
+  220C                   PRI OSEBNIH POSLIH/POGODBAH  O
+  220D                   V ODVETNIŠKI DEJAVNOSTI  O
+  220E                   V NOTARSKI DEJAVNOSTI  O
+  220F                   PRI SKRBNIŠTVU(NA PODLAGI ODLOÈBE)  O
+  220G                   PRI ZASTOPANJU PREMOŽENJSKE KORISTI   O
+  220H                   PRI OSKRBOVANJU PREMOŽENJA   O
+  221A                   PRIDOBITEV Z NAKUPOM   O
+  221B                   DRUGAÈNA PRIDOBITEV(DARILO)   O
+  221C                   S SPREJEMOM V ZASTAVO   O
+  221D                   S SKRIVANJEM   O
+  221E                   Z RAZPEÈEVANJEM   O
+  221F                   STVAR VELIKE VREDNOSTI   O
+  221G                   STVARI POSEBNEGA KULTURNEGA/ZGODOVINSKEGA POMENA  O
+  221H                   NARAVNA ZNAMENITOST  O
+  222A                   UVOZ/VNOS  O
+  222B                   IZVOZ/IZNOS   O
+  222C                   STVAR POSEBNEGA KULTURNEGA/ZGODOVINSKEGA POMENA   O
+  222D                   NARAVNA ZNAMENITOST   O
+  222E                   OGROŽENA RASTLINSKA VRSTA   O
+  222F                   OGROŽENA ŽIVALSKA VRSTA   O
+  223A                   POŠKODOVANJE STVARI   O
+  223B                   UNIÈENJE STVARI   O
+  223C                   STVAR POSEBNEGA KULTURNEGA/ZGODOVINSKEGA POMENA   O
+  223D                   NARAVNA ZNAMENITOST   O
+  223E                   ZAVAROVANO NARAVNO BOGASTVO   O
+  223F                   ZAVAROVANA STVAR, KI JE JAVNA DOBRINA   O
+  224A                   POŠKODOVANJE STVARI   O
+  224B                   UNIÈENJE STVARI   O
+  2241                   S POŽIGOM
+  2242                   S FIZIÈNO SILO
+  2243                   GRAFITI
+  2244                   HULIGANSTVO ULIÈNIH TOLP
+  2245                   HULIGANSTVO NAVIJAÈEV
+  225A                   SPREMEMBA   O
+  225B                   IZBRIS   O
+  225C                   POŠKODOVANJE   O
+  225D                   UNIÈENJE   O
+  225E                   KOPIRANJE   O
+  225F                   UPORABA   O
+  225G                   NEUPRAVIÈEN VSTOP   O
+  225H                   NEUPRAVIÈENO PRESTREZANJE   O
+  225I                   V INFORMACIJSKI SISTEM   O
+  225J                   IZ INFORMACIJSKEGA SISTEMA   O
+  225K                   PRESLIKANJE
+  225L                   PRENAŠANJE
+  225M                   VNOS PODATKA
+  225N                   OVIRANJE PRENOSA PODATKOV
+  225O                   OVIRANJE DELOVANJA INFORMACIJSKEGA SISTEMA
+  225R                   ŠIFRIRANJE PODATKOV ALI PROGRAMOV
+  225S                   VDOR BREZ POSEBNIH POSLEDIC
+  225T                   IZRABA PROCESORSKE MOÈI
+  225U                   ZLORABA TELEKOMUNIKACIJ
+  225V                   INSTALACIJA VOHUNSKEGA PROGRAMA (SNIFFER)
+  225Z                   OMOGOÈANJE DALJINSKEGA PREVZEMA KONTROLE
+  2250                   VDOR PREKO INTERNETA
+  2251                   ŠIFRIRANJE
+  2252                   OKUŽBA Z VIRUSOM
+  2253                   OKUŽBA Z OMREŽNIM VIRUSOM
+  2254                   BLOKADA PROCESORJA, PODATKOVNIH MEDIJEV(SPAMMING)
+  2255                   KRAJA UPORABNIŠKIH IMEN,GESEL
+  2256                   OMOGOÈANJE NEDOVOLJENEGA PRISTOPA DRUGIM
+  2257                   VDOR SKOZI 'STRANSKA VRATA' (BIVŠI PROGRAMERJI,...)
+  2258                   VDOR V OMREŽJE/STREŽNIK
+  2259                   VDOR V DELOVNO POSTAJO
+  226A                   OBJEKT V ZASEBNI LASTI   O
+  226B                   OBJEKT V JAVNI LASTI   O
+  2261                   SERIJSKI POŽIG
+  227A                   POŠKODOVANJE NAPRAV, INSTALACIJ...  O
+  227B                   ODSTRANITEV NAPRAV, INSTALACIJ...   O
+  228A                   V TUJE STANOVANJE  O
+  228B                   V DRUGE TUJE PROSTORE   O
+  229A                   ZASTAVNA PRAVICA   O
+  229B                   PRAVICA DO UŽITKA   O
+  229C                   MED PRISILNO IZVRŠBO   O
+  229D                   Z ODTUJITVIJO(PRENOS V POSEST TRETJEGA)   O
+  229E                   Z VZETJEM(VRNITEV V SVOJO POSEST)   O
+  229F                   Z UNIÈENJEM   O
+  229G                   S POŠKODOVANJEM   O
+  229H                   S SKRIVANJEM   O
+  23AA                   S PRIKRIVANJEM, DA BODO OBVEZNOSTI IZPOLNJENE
+  23AB                   S PRIKRIVANJEM, DA OBVEZNOSTI NE BODO IZPOLNJENE
+  23AC                   Z DELNO NEIZPOLNITVIJO OBVEZNOSTI
+  23AD                   S CELOTNO NEIZPOLNITVIJO OBVEZNOSTI
+  23BA                   Z ORGANIZIRANJEM
+  23BB                   Z SODELOVANJEM PRI ORGANIZIRANJU
+  23BC                   S POMOÈJO PRI ORGANIZIRANJU
+  23BD                   ZARADI LASTNE KORISTI
+  23BE                   ZARADI KORISTI DRUGE OSEBE
+  231A                   PRI PROIZVODNJI BLAGA   O
+  231B                   PRI PROMETU BLAGA   O
+  231C                   PRI OPRAVLJANJU STORITEV   O
+  231D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  231E                   PRI DRUGEM  FINANÈNEM POSLOVANJU   O
+  231F                   OMEJEVANJE V SVOBODNEM PROMETU BLAGA   O
+  231G                   OMEJEVANJE V SVOBODNEM PROMETU STORITEV   O
+  231H                   USTVARJENA VELIKA PREMOŽENJSKA KORIST ZASE   O
+  231I                   USTVARJENA VELIKA PREMOŽENJSKA ŠKODA DRUGEMU   O
+  232A                   PRI PROIZVODNJI BLAGA   O
+  232B                   PRI PROMETU BLAGA   O
+  232C                   PRI OPRAVLJANJU STORITEV   O
+  232D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  232E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  232F                   V ŠKODO ZASEBNEGA SEKTORJA   O
+  232G                   V ŠKODO JAVNEGA SEKTORJA   O
+  232H                   NAVIDEZNO POSLABŠANJE PREMOŽENJSKEGA STANJA   O
+  232I                   DEJANSKO POSLABŠANJE PREMOŽENJSKEGA STANJA   O
+  232J                   Z NAVIDEZNO PRODAJO   O
+  232K                   Z BREZPLAÈNIM ODSTOPOM(PODARITVIJO)   O
+  232L                   Z ODSTOPOM ZA IZREDNO NIZKO CENO   O
+  232M                   Z UNIÈENJEM   O
+  232N                   S SKLENITVIJO LAŽNE POGODBE O DELU   O
+  232O                   S PRIZNANJEM NERESNIÈNE TERJATVE   O
+  233A                   PRI PROIZVODNJI BLAGA   O
+  233B                   PRI PROMETU BLAGA   O
+  233C                   PRI OPRAVLJANJU STORITEV   O
+  233D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  233E                   PRI DRUGEM  FINANÈNEM POSLOVANJU   O
+  233F                   V ŠKODO ZASEBNEGA SEKTORJA   O
+  233G                   V ŠKODO JAVNEGA SEKTORJA   O
+  233H                   Z NESMOTRNIM TROŠENJEM SREDSTEV   O
+  233I                   Z ODTUJITVIJO ZA IZREDNO NIZKO CENO  O
+  233J                   S ÈEZMERNIM ZADOLŽEVANJEM  O
+  233K                   S PREVZEMANJEM NESORAZMERNIH OBVEZNOSTI   O
+  233L                   Z OPUŠÈANJEM PRAVOÈASNIH TERJATEV   O
+  234A                   PRI PROIZVODNJI BLAGA   O
+  234B                   PRI PROMETU BLAGA   O
+  234C                   PRI OPRAVLJANJU STORITEV   O
+  234D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  234E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  234F                   V ŠKODO ZASEBNEGA SEKTORJA   O
+  234G                   V ŠKODO JAVNEGA SEKTORJA   O
+  234H                   Z IZPLAÈILOM DOLGA   O
+  234I                   S PRIZNANJEM NERESNIÈNE TERJATVE  O
+  234J                   S SESTAVO LAŽNE POGODBE  O
+  235A                   PRI PROIZVODNJI BLAGA  O
+  235B                   PRI PROMETU BLAGA  O
+  235C                   PRI OPRAVLJANJU STORITEV   O
+  235D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  235E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  235F                   V ŠKODO ZASEBNEGA SEKTORJA   O
+  235G                   V ŠKODO JAVNEGA SEKTORJA   O
+  235H                   ZA PRIDOBITEV POSOJILA   O
+  235I                   ZA PRIDOBITEV INVESTICIJSKIH SREDSTEV   O
+  235J                   ZA PRIDOBITEV SUBVENCIJE   O
+  235K                   ZA PRIDOBITEV DRUGE UGODNOSTI   O
+  235L                   S PREDLOŽITVIJO NERESNIÈNIH PODATKOV   O
+  235M                   S PREDLOŽITVIJO NEPOPOLNIH PODATKOV   O
+  236A                   PRI PROIZVODNJI BLAGA   O
+  236B                   PRI PROMETU BLAGA   O
+  236C                   PRI OPRAVLJANJU STORITEV   O
+  236D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  236E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  236F                   OŠKODOVANEC KUPUJE   O
+  236G                   OŠKODOVANEC PRODAJA   O
+  236H                   LAŽEN PRIKAZ PREMOŽENJSKEGA STANJA   O
+  236I                   LAŽNI PODATKI O DOBIÈKU   O
+  236J                   LAŽNI PODATKI O IZGUBI   O
+  237A                   PRI PROIZVODNJI BLAGA   O
+  237B                   PRI PROMETU BLAGA   O
+  237C                   PRI OPRAVLJANJU STORITEV   O
+  237D                   NEUSTREZNA(LAŽNA) DEKLARACIJA NA IZDELKU O
+  237E                   BREZ DEKLARACIJE NA IZDELKU  O
+  237F                   MANJŠA TEŽA   O
+  237G                   SLABŠA KAKOVOST   O
+  237H                   LAŽNA NAVEDBA DOBAVNEGA ROKA   O
+  237I                   LAŽNA NAVEDBA O NAÈINU IZPOLNITVE OBVEZNOSTI  O
+  237J                   LAŽNO ZNIŽANJE CENE BLAGA   O
+  237K                   LAŽNA OBJAVA O RAZPRODAJI   O
+  237L                   LAŽNA OBJAVA O ZVIŠANJU CEN   O
+  238A                   PRI PROIZVODNJI BLAGA   O
+  238B                   PRI PROMETU BLAGA   O
+  238C                   PRI OPRAVLJANJU STORITEV   O
+  238D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  238E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  238F                   UPORABA FIRME   O
+  238G                   UPORABA ŽIGA   O
+  238H                   UPORABA VARSTVENE ZNAMKE   O
+  238I                   UPORABA POSEBNE OZNAÈBE BLAGA  O
+  238J                   IZKORIŠÈANJE VZORCA   O
+  238K                   IZKORIŠÈANJE MODELA   O
+  238L                   UPORABA ZNAMKE   O
+  238M                   IZKORIŠÈANJE OZNAKE   O
+  238N                   UPORABA GEOGRAFSKEGA POREKLA   O
+  239A                   PRI PROIZVODNJI BLAGA   O
+  239B                   PRI PROMETU BLAGA   O
+  239C                   PRI OPRAVLJANJU STORITEV   O
+  239D                   PRIJAVLJEN IZUM   O
+  239E                   ZAVAROVAN IZUM(PATENT)   O
+  239F                   PATENTIRANI IZUM
+  239G                   CERTIFICIRANI IZUM
+  239H                   TOPOGRAFIJA POLPREVODNIŠKEGA VEZJA
+  240A                   PRI PROIZVODNJI BLAGA   O
+  240B                   PRI PROMETU BLAGA   O
+  240C                   PRI OPRAVLJANJU STORITEV   O
+  240D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  240E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  240F                   VPIS LAŽNIH PODATKOV   O
+  240G                   NEVPIS POMEMBNIH PODATKOV   O
+  240H                   POTRDITEV LAŽNE VSEBINE S PODPISOM   O
+  240I                   OMOGOÈANJE SESTAVE LISTINE Z LAŽNO VSEBINO   O
+  240J                   UPORABA LISTINE Z LAŽNO VSEBINO   O
+  240K                   UNIÈENJE/SKRITJE/POŠKODOVANJE PRAVE LISTINE   O
+  241A                   PRI PROIZVODNJI BLAGA   O
+  241B                   PRI PROMETU BLAGA   O
+  241C                   PRI OPRAVLJANJU STORITEV   O
+  241D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  241E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  241F                   SPOROÈANJE PODATKOV   O
+  241G                   IZROÈANJE PODATKOV   O
+  241H                   ZBIRANJE PODATKOV Z NAMENOM IZROÈITVE   O
+  241I                   POSEBNO POMEMBNI PODATKI   O
+  241J                   IZROÈANJE PODATKOV ZA IZNOS V TUJINO   O
+  242A                   PRI PROIZVODNJI BLAGA   O
+  242B                   PRI PROMETU BLAGA   O
+  242C                   PRI OPRAVLJANJU STORITEV   O
+  242D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  242E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  242F                   VNOS PODATKOV ALI PROGRAMOV   O
+  242G                   SPREMEMBA PODATKOV ALI PROGRAMOV   O
+  242H                   SKRITJE/IZBRIS PODATKOV ALI PROGRAMOV   O
+  242I                   UNIÈENJE PODATKOV ALI PROGRAMOV   O
+  242J                   NEUPRAVIÈENA UPORABA   O
+  242K                   SPREMEMBA   O
+  242L                   PRESLIKANJE   O
+  242M                   PRENAŠANJE   O
+  242N                   UNIÈENJE   O
+  242O                   VNOS PODATKA   O
+  242P                   OVIRANJE PRENOSA PODATKOV   O
+  242R                   OVIRANJE DELOVANJA INFORMACIJSKEGA SISTEMA   O
+  242S                   DRUG NAÈIN VDORA   O
+  242U                   ŠIFRIRANJE PODATKOV ALI PROGRAMOV
+  242V                   VDOR BREZ POSEBNIH POSLEDIC
+  2420                   IZRABA PROCESORSKE MOÈI
+  2421                   ZLORABA TELEKOMUNIKACIJ
+  2422                   INSTALACIJA VOHUNSKEGA PROGRAMA(SNIFFER)
+  2423                   OMOGOÈANJE DALJINSKEGA PREVZEMA KONTROLE
+  2424                   KRAJA UPORABNIŠKIH IMEN, GESEL
+  2425                   OMOGOÈANJE NEDOVOLJENEGA PRISTOPA DRUGIM
+  2426                   VDOR SKOZI "STRANSKA VRATA"(BIVŠI PROGRAMERJI...)
+  2427                   VDOR V OMREŽJE/STREŽNIK
+  2428                   VDOR V DELOVNO POSTAJO
+  2429                   VDOR PREKO INTERNETA
+  243A                   PRI PROIZVODNJI BLAGA   O
+  243B                   PRI PROMETU BLAGA   O
+  243C                   PRI OPRAVLJANJU STORITEV   O
+  243D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  243E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  243F                   DOSTOP DO INFORMACIJ OMOGOÈEN Z DELOM   O
+  243G                   DOSTOP DO INFORMACIJ OMOGOÈEN S POLOŽAJEM   O
+  243H                   SPOROÈANJE NEPOKLICANIM OSEBAM   O
+  243I                   UPORABA ZA LASTNO KORIST   O
+  243J                   DOSTOP DO INFORMACIJ OMOGOÈEN Z LASTNIŠKIM DELEŽEM   O
+  243K                   DOSTOP DO INFORMACIJ OMOGOÈEN Z OPRAVLJANJEM DEJAVNOSTI   O
+  243L                   IZKORIŠÈANJE ZA NAKUP   O
+  243M                   IZKORIŠÈANJE ZA PRODAJO   O
+  243N                   VPLIV NA KOTACIJO V SLOVENIJI   O
+  243O                   VPLIV NA KOTACIJO V DRUGI DRŽAVI EU   O
+  244A                   PRI PROIZVODNJI BLAGA   O
+  244B                   PRI PROMETU BLAGA   O
+  244C                   PRI OPRAVLJANJU STORITEV   O
+  244D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  244E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  244F                   PRIDOBITEV PREMOŽENJSKE KORISTI   O
+  244G                   POVZROÈITEV PREMOŽENJSKE ŠKODE   O
+  244H                   AKTIVNO RAVNANJE(IZRABA POLOŽAJA, PRAVIC...)   O
+  244I                   PASIVNO RAVNANJE(NE OPRAVI SVOJE DOLŽNOSTI)   O
+  245A                   PRI PROIZVODNJI BLAGA   O
+  245B                   PRI PROMETU BLAGA   O
+  245C                   PRI OPRAVLJANJU STORITEV   O
+  245D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  245E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  246A                   PRI PROIZVODNJI BLAGA   O
+  246B                   PRI PROMETU BLAGA   O
+  246C                   PRI OPRAVLJANJU STORITEV   O
+  246D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  246E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  247A                   PRI PROIZVODNJI BLAGA   O
+  247B                   PRI PROMETU BLAGA   O
+  247C                   PRI OPRAVLJANJU STORITEV   O
+  247D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  247E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  247F                   ZAHTEVA NAGRADO, DARILO...   O
+  247G                   SPREJME NAGRADO, DARILO...   O
+  247H                   OŠKODOVANEC NE PRIDOBI MOŽNEGA DOBIÈKA   O
+  247I                   OŠKODOVANEC PLAÈA VEÈ KOT BI SICER   O
+  2471                   PASIVNO VNAPREJŠNJE PRAVO PODKUPOVANJE
+  2472                   PASIVNO POZNEJŠE PRAVO PODKUPOVANJE
+  2473                   PASIVNO VNAPREJŠNJE NEPRAVO PODKUPOVANJE
+  2474                   PASIVNO POZNEJŠE NEPRAVO PODKUPOVANJE
+  2475                   AKTIVNO VNAPREJŠNJE PRAVO PODKUPOVANJE
+  2476                   AKTIVNO VNAPREJŠNJE NEPRAVO PODKUPOVANJE
+  248A                   PRI PROIZVODNJI BLAGA   O
+  248B                   PRI PROMETU BLAGA   O
+  248C                   PRI OPRAVLJANJU STORITEV   O
+  248D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  248E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  248F                   DAJANJE NAGRADE, DARILA...   O
+  248G                   POSKUS DAJANJA NAGRADE, DARILA...   O
+  248H                   OBLJUBA NAGRADE, DARILA...   O
+  248I                   OŠKODOVANEC NE PRIDOBI MOŽNEGA DOBIÈKA   O
+  248J                   OŠKODOVANEC PLAÈA VEÈ KOT BI SICER   O
+  248K                   PASIVNO VNAPREJŠNJE PRAVO PODKUPOVANJE
+  248L                   PASIVNO POZNEJŠE PRAVO PODKUPOVANJE
+  248M                   PASIVNO VNAPREJŠNJE NEPRAVO PODKUPOVANJE
+  248N                   PASIVNO POZNEJŠE NEPRAVO PODKUPOVANJE
+  248O                   AKTIVNO VNAPREJŠNJE PRAVO PODKUPOVANJE
+  248P                   AKTIVNO VNAPREJŠNJE NEPRAVO PODKUPOVANJE
+  249A                   IZDELAVA PONAREJENEGA DENARJA   O
+  249B                   PREDRUGAÈENJE PRAVEGA DENARJA   O
+  249C                   SPRAVLJANJE V OBTOK, UPORABA   O
+  249D                   PRIDOBIVANJE Z NAMENOM DAJANJA V OBTOK, UPORABE   O
+  2491                   TISKANJE
+  2492                   KOVANJE, VLIVANJE
+  2493                   FOTOKOPIRANJE
+  2494                   SKENIRANJE, RAÈUNALNIŠKA OBDELAVA
+  2495                   SPREMEMBA NOMINALNE VREDNOSTI(DODAJANJE ŠTEVILK)
+  250A                   IZDELAVA PONAREDKOV  O
+  250B                   PREDRUGAÈENJE PRAVIH VREDNOTIC   O
+  250C                   SPRAVLJANJE V OBTOK, UPORABA   O
+  250D                   PRIDOBIVANJE Z NAMENOM DAJANJA V OBTOK, UPORABE   O
+  250E                   ODSTRANITEV OZNAKE O ŽE IZVEDENI UPORABI   O
+  250F                   PONOVNA UPORABA ŽE UPORABLJENE VREDNOTICE   O
+  250G                   TISKANJE   O
+  250H                   FOTOKOPIRANJE  O
+  250I                   SKENIRANJE, RAÈUNALNIŠKA OBDELAVA   O
+  250J                   SPREMEMBA NOMINALNE VREDNOSTI(DODAJANJE ŠTEVILK)   O
+  251A                   IZDELAVA   O
+  251B                   PRODAJA   O
+  251C                   PRIDOBIVANJE   O
+  251D                   DAJANJE V UPORABO   O
+  251E                   PRIPOMOÈKI ZA PONAREJANJE DENARJA   O
+  251F                   PRIPOMOÈKI ZA PONAREJANJE VREDNOTIC, VRED. PAPIRJEV   O
+  252A                   PRI PROIZVODNJI BLAGA   O
+  252B                   PRI PROMETU BLAGA   O
+  252C                   PRI OPRAVLJANJU STORITEV   O
+  252D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  252E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  252F                   DENARNI ZNESKI   O
+  252G                   PREMOŽENJE VELIKE VREDNOSTI   O
+  252H                   IZ TRGOVINE Z MAMILI   O
+  252I                   IZ IZSILJEVANJ   O
+  252J                   IZ TRGOVINE Z OROŽJEM   O
+  252K                   IZ GOSPODARSKIH DELIKTOV   O
+  252L                   IZ DRUGIH DELIKTOV   O
+  2521                   IZVOR IZ KRIMINALNE DEJAVNOSTI V SLOVENIJI
+  2522                   IZVOR IZ KRIMINALNE DEJAVNOSTI V TUJINI
+  253A                   IZDAJA ÈEKOV KOMITENTU, ÈEPRAV NIMA KRITJA   O
+  253B                   UPORABA ÈEKA   O
+  253C                   UPORABA PLAÈILNE(BANÈNE) KARTICE   O
+  253D                   DVIG GOTOVINE NA BANÈNEM AVTOMATU   O
+  253E                   UPORABA KREDITNE KARTICE   O
+  254A                   PRI PROIZVODNJI BLAGA   O
+  254B                   PRI PROMETU BLAGA   O
+  254C                   PRI OPRAVLJANJU STORITEV   O
+  254D                   PRI BANÈNEM FINANÈNEM POSLOVANJU   O
+  254E                   PRI DRUGEM FINANÈNEM POSLOVANJU   O
+  254F                   OBVEZNOSTI PRAVNIH OSEB   O
+  254G                   OBVEZNOSTI FIZIÈNIH OSEB   O
+  254H                   PROMETNEGA DAVKA   O
+  254I                   TROŠARINE   O
+  254J                   DAVKA NA DODANO VREDNOST   O
+  254K                   DAVKA IZ DOBIÈKA   O
+  254L                   DOHODNINE   O
+  2541                   CARINSKIH DAJATEV
+  2542                   DRUGE DAVŠÈINE IN TAKSE
+  255A                   ÈEZ CARINSKO KONTROLO(MEJNA ALI NOTRANJA CARINA)   O
+  255B                   MIMO CARINSKE KONTROLE(MEJNE ALI NOTRANJE CARINE)   O
+  255C                   UKVARJANJE S TIHOTAPSTVOM(TRAJNA DEJAVNOST)   O
+  255D                   ENKRATNO TIHOTAPSTVO(ENKRATEN PRENOS)   O
+  255E                   PRIKRITJE BLAGA ZA DRUGIM BLAGOM   O
+  255F                   NE PRIJAVI BLAGA(NI POSEBNEGA PRIKRIVANJA)   O
+  255G                   Z LAŽNO DEKLARACIJO BLAGA   O
+  255H                   Z NAVIDEZNIM TRANZITOM   O
+  255I                   V SKUPINI   O
+  255J                   OBOROŽEN   O
+  255K                   Z UPORABO SILE   O
+  255L                   Z UPORABO GROŽNJE   O
+  2551                   S POMOÈJO URADNE OSEBE
+  256A                   IZDELAVA PONAREJENE LISTINE   O
+  256B                   PREDRUGAÈENJE PRAVE LISTINE   O
+  256C                   UPORABA PONAREJENE LISTINE   O
+  256D                   UPORABA PREDRUGAÈENE PRAVE LISTINE   O
+  2561                   V ZVEZI S POSLOVNO GOLJUFIJO
+  2562                   TISKANJE
+  2563                   FOTOKOPIRANJE
+  2564                   SKENIRANJE, RAÈUNALNIŠKA OBDELAVA
+  259A                   IZDAJA LAŽNEGA ZDRAVNIŠKEGA SPRIÈEVALA   O
+  259B                   IZDAJA LAŽNEGA VETERINARSKEGA SPRIÈEVALA   O
+  259C                   UPORABA LAŽNEGA ZDRAVNIŠKEGA SPRIÈEVALA   O
+  259D                   UPORABA LAŽNEGA VETERINARSKEGA SPRIÈEVALA   O
+  260A                   IZDELAVA PONAREJENEGA ZNAMENJA   O
+  260B                   PREDRUGAÈENJE PRAVEGA ZNAMENJA   O
+  260C                   UPORABA PONAREJENEGA ZNAMENJA   O
+  260D                   UPORABA PREDRUGAÈENEGA PRAVEGA ZNAMENJA   O
+  260E                   PONAREDITEV MER   O
+  260F                   PONAREDITEV UTEŽI   O
+  260G                   UPORABA PONAREJENE MERE   O
+  260H                   UPORABA PONAREJENE UTEŽI   O
+  260I                   IZDELAVA PRIPOMOÈKOV ZA PONAREJANJE   O
+  260J                   PRIDOBITEV PRIPOMOÈKOV ZA PONAREJANJE   O
+  260K                   PRODAJA PRIPOMOÈKOV ZA PONAREJANJE   O
+  260L                   DAJANJE V UPORABO PRIPOMOÈKOV ZA PONAREJANJE   O
+  260M                   ODSTRANITEV PRAVEGA ZNAMENJA   O
+  261A                   PRIDOBITEV NEMATERIALNE KORISTI ZASE   O
+  261B                   PRIDOBITEV NEMATERIALNE KORISTI ZA DRUGEGA   O
+  261C                   PRIZADEJANJE ŠKODE DRUGEMU   O
+  261D                   PRIDOBITEV MATERIALNE KORISTI ZASE   O
+  261E                   PRIDOBITEV MATERIALNE KORISTI ZA DRUGEGA   O
+  261F                   Z IZRABO URADNEGA POLOŽAJA   O
+  261G                   S PRESTOPITVIJO MEJE URADNIH PRAVIC   O
+  261H                   Z NEOPRAVO DOLŽNOSTI   O
+  261I                   POVZROÈENA VEÈJA ŠKODA   O
+  261J                   HUDO PREKRŠENE PRAVICE DRUGEGA   O
+  262A                   S KRŠITVIJO ZAKONOV/PREDPISOV   O
+  262B                   Z OPUSTITVIJO NADZORSTVA   O
+  262C                   Z OÈITNO NEVESTNIM RAVNANJEM   O
+  262D                   HUJŠE KRŠENE PRAVICE DRUGEGA   O
+  262E                   ŠKODA NA JAVNI DOBRINI   O
+  262F                   PREMOŽENJSKA ŠKODA   O
+  265A                   VPIS LAŽNEGA PODATKA   O
+  265B                   NEVPIS POMEMBNEGA PODATKA   O
+  265C                   POTRDITEV LAŽNE VSEBINE   O
+  265D                   OMOGOÈITEV SESTAVE LAŽNE VSEBINE   O
+  265E                   UPORABA LISTINE... Z LAŽNO VSEBINO   O
+  265F                   UNIÈENJE URADNE LISTINE...   O
+  265G                   SKRITJE URADNE LISTINE...   O
+  265H                   POŠKODOVANJE URADNE LISTINE...   O
+  265I                   DRUGAÈNA POVZROÈITEV NERABNOSTI LISTINE...   O
+  266A                   SPOROÈITEV PODATKOV   O
+  266B                   IZROÈITEV PODATKOV   O
+  266C                   DRUGAÈNO OMOGOÈANJE DOSTOPA DO PODATKOV   O
+  266D                   ZBIRANJE PODATKOV Z NAMENOM IZROÈITVE   O
+  266E                   PRIDOBITEV PODATKOV   O
+  266F                   JAVNA OBJAVA PODATKOV   O
+  266G                   IZ KORISTOLJUBJA   O
+  266H                   Z NAMENOM OBJAVE   O
+  266I                   ZA UPORABO V TUJINI   O
+  266J                   POSLEDICE SO DEJANSKO NASTALE   O
+  266K                   POSLEDICE BI LAHKO NASTALE   O
+  267A                   TERJANJE DARILA/KORISTI   O
+  267B                   SPREJETJE DARILA/KORISTI   O
+  267C                   SPREJETJE OBLJUBE DARILA/KORISTI   O
+  267D                   ZA IZVEDBO NEDOVOLJENEGA DEJANJA   O
+  267E                   ZA NEIZVEDBO PREDPISANEGA DEJANJA   O
+  267F                   ZA IZVEDBO DEJANJA, KI GA SICER MORA OPRAVITI   O
+  267G                   ZA NEIZVEDBO DEJANJA, KI GA SICER NE SME OPRAVITI   O
+  267H                   PRED IZVEDBO/NEIZVEDBO DEJANJA   O
+  267I                   PO IZVEDBI/NEIZVEDBI DEJANJA   O
+  2670                   SPREJETJE DARILA/KORISTI ZA DRUGEGA
+  2677                   TERJANJE DARILA/KORISTI ZASE   O
+  2678                   TERJANJE DARILA/KORISTI ZA DRUGEGA   O
+  2679                   SPREJETJE DARILA/KORISTI ZASE   O
+  268A                   DAJANJE DARILA/KORISTI   O
+  268B                   POSKUS DAJANJA DARILA/KORISTI   O
+  268C                   OBLJUBA DARILA/KORISTI   O
+  268D                   POSREDOVANJE PRI PODKUPOVANJU   O
+  268E                   ZA IZVEDBO NEDOVOLJENEGA DEJANJA   O
+  268F                   ZA NEIZVEDBO PREDPISANEGA DEJANJA   O
+  268G                   ZA IZVEDBO DEJANJA, KI GA SICER MORA OPRAVITI   O
+  268H                   ZA NEIZVEDBO DEJANJA, KI GA SICER NE SME OPRAVITI   O
+  268I                   DAJANJE DARILA/KORISTI ZA URADNO OSEBO   O
+  268J                   DAJANJE DARILA/KORISTI ZA DRUGEGA   O
+  269A                   IZKORIŠÈANJE URADNEGA POLOŽAJA   O
+  269B                   IZKORIŠÈANJE DRUŽABNEGA POLOŽAJA/VPLIVA   O
+  269C                   ZA IZVEDBO NEDOVOLJENEGA DEJANJA   O
+  269D                   ZA NEIZVEDBO PREDPISANEGA DEJANJA   O
+  269E                   TERJANJE DARILA/KORISTI ZASE
+  269F                   TERJANJE DARILA/KORISTI ZA DRUGEGA
+  269G                   SPREJETJE DARILA/KORISTI ZASE
+  269H                   SPREJETJE DARILA/KORISTI ZA DRUGEGA
+  269I                   OBLJUBA DARILA/KORISTI   O
+  269J                   PONUDBA DARILA/KORISTI   O
+  269K                   DAJANJE DARILA/KORISTI   O
+  269L                   IZVRŠITEV URADNEGA DEJANJA ZA SVOJO KORIST   O
+  269M                   IZVRŠITEV URADNEGA DEJANJA ZA KORIST DRUGEGA   O
+  269N                   OPUSTITEV URADNEGA DEJANJA ZA SVOJO KORIST   O
+  269O                   OPUSTITEV URADNEGA DEJANJA ZA KORIST DRUGEGA   O
+  269P                   IZVRŠITEV URAD. DEJANJA, KI SE SICER NE SME OPRAV. ZA SVOJO KORIST   O
+  269R                   IZVRŠITEV URAD. DEJ., KI SE SICER NE SME OPRAV. ZA KORIST DRUGEGA   O
+  269S                   OPUSTITEV URAD. DEJ., KI SE SICER MORA OPRAVLJATI ZA SVOJO KORIST   O
+  269T                   OPUSTITEV URAD. DEJ., KI SE SICER MORA OPRAV. ZA KORIST DRUGEGA   O
+  2691                   PASIVNO VNAPREJŠNJE PRAVO PODKUPOVANJE
+  2692                   PASIVNO POZNEJŠE PRAVO PODKUPOVANJE
+  2693                   PASIVNO VNAPREJŠNJE NEPRAVO PODKUPOVANJE
+  2694                   PASIVNO POZNEJŠE NEPRAVO PODKUPOVANJE
+  2695                   AKTIVNO VNAPREJŠNJE PRAVO PODKUPOVANJE
+  2696                   AKTIVNO VNAPREJŠNJE NEPRAVO PODKUPOVANJE
+  270A                   GRDO RAVNANJE   O
+  270B                   ŽALITEV   O
+  270C                   POVZROÈITEV LAHKE TELESNE POŠKODBE   O
+  270D                   PRIZADETJE ÈLOVEŠKEGA DOSTOJANSTVA   O
+  271A                   UPORABA SILE   O
+  271B                   UPORABA GROŽNJE   O
+  271C                   UPORABA DRUGEGA NEDOVOLJENEGA SREDSTVA/NAÈINA   O
+  271D                   UPORABA HUDEGA NASILJA   O
+  271E                   HUDE POSLEDICE ZA OBDOLŽENCA   O
+  2711                   PRETEPANJE
+  2712                   PSIHIÈNA SILA
+  2713                   ZAPRTJE V PROSTOR
+  2714                   VKLENITEV
+  2715                   VEZANJE
+  272A                   PRI HIŠNI PREISKAVI   O
+  272B                   PRI OSEBNI PREISKAVI   O
+  272C                   OB IZVRŠBI V SODNEM/UPRAVNEM POSTOPKU   O
+  282A                   SPOROÈITEV PODATKOV   O
+  282B                   IZROÈITEV PODATKOV   O
+  282C                   DRUGAÈNO OMOGOÈANJE DOSTOPA DO PODATKOV   O
+  282D                   ZBIRANJE PODATKOV Z NAMENOM IZROÈITVE   O
+  282E                   PRIDOBITEV PODATKOV   O
+  282F                   JAVNA OBJAVA PODATKOV   O
+  282G                   IZ KORISTOLJUBJA   O
+  282H                   Z NAMENOM OBJAVE   O
+  282I                   ZA UPORABO V TUJINI   O
+  282J                   POSLEDICE SO DEJANSKO NASTALE   O
+  282K                   POSLEDICE BI LAHKO NASTALE   O
+  285A                   NENAZNANJENO DEJANJE JE OSTALO PRI POSKUSU   O
+  285B                   NENAZNANJENO DEJANJE JE BILO DOKONÈANO   O
+  286A                   VE ZA STORILCA   O
+  286B                   VE ZA DEJANJE   O
+  287A                   SKRIVANJE STORILCA   O
+  287B                   SKRIVANJE ORODJA, PREDMETOV...   O
+  287C                   SKRIVANJE SLEDOV   O
+  287D                   DRUGAÈNO PREPREÈEVANJE ODKRITJA STORILCA   O
+  287E                   SKRIVANJE OBSOJENCA   O
+  289A                   PRED SODIŠÈEM   O
+  289B                   V KAZENSKEM POSTOPKU   O
+  289C                   V POSTOPKU O PREKRŠKU   O
+  289D                   V PARLAMENTARNI PREISKAVI   O
+  289E                   V DISCIPLINSKEM POSTOPKU   O
+  289F                   V UPRAVNEM POSTOPKU   O
+  289G                   V PRAVDNEM POSTOPKU   O
+  289H                   V NEPRAVDNEM POSTOPKU   O
+  289I                   V IZVRŠILNEM POSTOPKU   O
+  289J                   KRIVA IZPOVEDBA   O
+  289K                   KRIVO PISNO MNENJE   O
+  289L                   LAŽNI PISNI PREVOD   O
+  290A                   PREPREÈITEV DOKAZOVANJA   O
+  290B                   OTEŽITEV DOKAZOVANJA   O
+  290C                   SKRITJE   O
+  290D                   UNIÈENJE   O
+  290E                   ODSTRANITEV   O
+  290F                   POŠKODOVANJE   O
+  290G                   PREMIK, PRESTAVITEV   O
+  290H                   DRUGAÈNA POVZROÈITEV NERABNOSTI   O
+  291A                   V POSTOPKU PRED OBRAVNAVO   O
+  291B                   V OBRAVNAVI   O
+  291C                   V SODNEM POSTOPKU   O
+  291D                   V POSTOPKU O PREKRŠKU   O
+  291E                   V UPRAVNEM POSTOPKU   O
+  291F                   V PARLAMENTARNI PREISKAVI   O
+  291G                   POTEK POSTOPKA PROTI MLADOLETNIKU   O
+  291H                   OBJAVA MLADOLETNIKOVIH PODATKOV   O
+  291I                   TAJNOST DOLOÈENA Z ZAKONOM   O
+  291J                   TAJNOST DOLOÈENA Z ODLOÈBO   O
+  293A                   PRILASTITEV OSEBNEGA VOZILA
+  293B                   PRILASTITEV TOVORNEGA VOZILA
+  293C                   PRILASTITEV AVTOBUSA
+  293D                   PRILASTITEV KOMBINIRANEGA VOZILA
+  293E                   PRILASTITEV MOTORNEGA KOLESA
+  293F                   ZATAJITEV OSEBNEGA VOZILA
+  293G                   ZATAJITEV TOVORNEGA VOZILA
+  293H                   ZATAJITEV AVTOBUSA
+  293I                   ZATAJITEV KOMBINIRANEGA VOZILA
+  293J                   ZATAJITEV MOTORNEGA KOLESA
+  294A                   UPORABA SILE   O
+  294B                   UPORABA GROŽNJE   O
+  294C                   ZOPER ŽIVLJENJE   O
+  294D                   ZOPER TELO   O
+  294E                   BEG IZ ZAPORA   O
+  294F                   BEG IZ PRIPORA   O
+  295A                   NAMEN OSVOBODITVE   O
+  295B                   NAMEN NAPADA   O
+  295C                   S SILO   O
+  295D                   Z GROŽNJO O UPORABI SILE   O
+  295E                   PAZNIKI MORAJO KAJ STORITI   O
+  295F                   PAZNIKI MORAJO KAJ OPUSTITI   O
+  295G                   SILA JE BILA DEJANSKO UPORABLJENA   O
+  295H                   GROŽNJA JE BILA DEJANSKO UPORABLJENA   O
+  296A                   Z UPORABO SILE   O
+  296B                   Z UPORABO GROŽNJE   O
+  296C                   S PRESLEPITVIJO   O
+  296D                   DRUGAÈE OMOGOÈEN BEG   O
+  296E                   ZAPORNIKU   O
+  296F                   PRIPORNIKU   O
+  296G                   OBSOJENCU IZ PSIHIATRIÈNEGA ZDRAVLJENJA   O
+  296H                   OBSOJENCU IZ ZDRAVSTVENEGA ZAVODA   O
+  296I                   MLADOLETNIKU IZ PREVZGOJNEGA DOMA   O
+  2971                   ZDRUŽBA Z NOTRANJO ORGANIZACIJO
+  2972                   ZDRUŽBA POVEZANA Z DRUGIMI ZDRUŽBAMI ZNOTRAJ RS
+  2973                   MEDNARODNA ZDRUŽBA
+  2981                   BREZ POSEBNEGA NAÈRTOVANJA
+  2982                   S PODROBNIM NAÈRTOVANJEM
+  299A                   Z ŽALITVIJO   O
+  299B                   Z GRDIM RAVNANJEM   O
+  299C                   Z NASILJEM   O
+  299D                   Z OGROŽANJEM VARNOSTI   O
+  299E                   POVZROÈITEV LAHKE TELESNE POŠKODBE   O
+  299F                   POVZROÈENO ZGRAŽANJE JAVNOSTI   O
+  299G                   POVZROÈEN STRAH V JAVNOSTI   O
+  299H                   DVA ALI VEÈ STORILCEV   O
+  299I                   VEÈ ŽRTEV   O
+  300A                   NARODNOSTNO   O
+  300B                   RASNO   O
+  300C                   VERSKO   O
+  300D                   "ARIJSKEGA" TIPA   O
+  300E                   S PRISILO   O
+  300F                   Z GRDIM RAVNANJEM   O
+  300G                   Z OGROŽANJEM VARNOSTI   O
+  300H                   S SRAMOTITVIJO SIMBOLOV   O
+  300I                   S POŠKODOVANJEM TUJIH STVARI   O
+  300J                   Z OSKRUNITVIJO SPOMENIKOV, ZNAMENJ, GROBOV   O
+  300K                   ODOBRAVANJE GENOCIDA   O
+  301A                   NASILJE PROTI LJUDEM   O
+  301B                   UNIÈENJE/POŠKODOVANJE PREMOŽENJA   O
+  301C                   POSKUS DEJANJA   O
+  301D                   ŽRTEV JE BILA UBITA   O
+  301E                   ŽRTEV JE BILA HUDO TELESNO POŠKODOVANA   O
+  302A                   S SILO   O
+  302B                   Z GROŽNJO O UPORABI SILE   O
+  302C                   Z GROŽNJO O UPORABI OROŽJA   O
+  302D                   Z RAZŽALITVIJO   O
+  302E                   Z GRDIM RAVNANJEM   O
+  302F                   S PRIZADEJANJEM LAHKE TELESNE POŠKODBE   O
+  302G                   URADNA OSEBA MORA OPRAVITI DEJANJE   O
+  302H                   URADNA OSEBA NE MORE OPRAVITI DEJANJA   O
+  302I                   PREPREÈITEV NALOGE JAVNE VARNOSTI   O
+  302J                   PREPREÈITEV NALOGE DRŽAVNE VARNOSTI   O
+  302K                   PREPREÈITEV ZASLEDOVANJA STORILCA   O
+  302L                   PREPREÈITEV VAROVANJA OSEBE, KI JI JE ODVZETA PROSTOST   O
+  302M                   MAŠÈEVANJE Z OGROŽANJEM ŽIVLJENJA ALI TELESA URADNE OSEBE   O
+  302N                   MAŠÈEVANJE Z OGROŽANJEM ŽIVLJENJA ALI TELESA BLIŽNJIH SORODNIKOV   O
+  302O                   MAŠÈEVANJE Z OGROŽANJEM PREMOŽENJA URADNE OSEBE   O
+  302P                   MAŠÈEVANJE Z OGROŽANJEM PREMOŽENJA BLIŽNJIH SORODNIKOV   O
+  303A                   Z NAPADOM   O
+  303B                   Z RESNO GROŽNJO O NAPADU   O
+  303C                   Z GROŽNJO O UPORABI OROŽJA   O
+  303D                   Z GRDIM RAVNANJEM   O
+  303E                   S PRIZADEJANJEM LAHKE TELESNE POŠKODBE   O
+  303F                   ZOPER OSEBO, KI POMAGA URADNI OSEBI   O
+  303G                   ZOPER VEÈ OSEB HKRATI   O
+  303H                   PRI IZVAJANJU NALOG JAVNE VARNOSTI   O
+  303I                   PRI IZVAJANJU NALOG DRŽAVNE VARNOSTI   O
+  304A                   DOKONÈANO DEJANJE   O
+  304B                   POSKUS DEJANJA   O
+  304C                   URADNA OSEBA MORA OPRAVITI DEJANJE   O
+  304D                   URADNA OSEBA NE MORE OPRAVITI DEJANJA   O
+  305A                   PROTI DRŽAVNEMU ORGANU   O
+  305B                   PROTI URADNI OSEBI   O
+  305C                   UKREP/ODLOÈBA NI BIL IZVRŠEN   O
+  305D                   ZNATNA OTEŽITEV IZVEDBE UKREPA/ODLOÈBE   O
+  305E                   DEJANJE JE STORIL VODJA SKUPINE   O
+  3051                   NA JAVNEM ZBOROVANJU
+  3052                   S SREDSTVI JAVNEGA OBVEŠÈANJA
+  3053                   Z GRAFITI
+  306A                   ODSTRANITEV PEÈATA/ZNAMENJA   O
+  306B                   POŠKODOVANJE PEÈATA/ZNAMENJA   O
+  306C                   VSTOP V PROSTOR BREZ ODSTRANITVE/POŠKODOVANJA   O
+  306D                   ZAVAROVAN PREDMET   O
+  306E                   ZAVAROVAN PROSTOR   O
+  3061                   PEÈAT/ZNAMENJE POLICIJE
+  3062                   PEÈAT/ZNAMENJE DRUGIH ORGANOV
+  307A                   ODVZEM   O
+  307B                   SKRITJE   O
+  307C                   UNIÈENJE   O
+  307D                   POŠKODOVANJE   O
+  307E                   DRUGAÈE POVZROÈENA NERABNOST   O
+  307F                   NA ŠKODO DRŽAVNEGA ORGANA   O
+  307G                   NA ŠKODO GOSPODARSKE DRUŽBE   O
+  307H                   NA ŠKODO PRAVNE OSEBE Z JAVNIMI POOBLASTILI   O
+  307I                   NA ŠKODO POSAMEZNIKA Z JAVNIMI POOBLASTILI   O
+  308A                   ZARADI PRIDOBITVE KORISTI   O
+  308B                   ZARADI POVZROÈITVE ŠKODE   O
+  308C                   ZA POLICISTA   O
+  308D                   ZA CARINIKA   O
+  308E                   ZA VOJAŠKO OSEBO   O
+  308F                   ZA DRUGO URADNO OSEBO   O
+  308G                   NOŠNJA ZNAMENJ POLICISTA   O
+  308H                   NOŠNJA ZNAMENJ CARINIKA   O
+  308I                   NOŠNJA ZNAMENJ VOJAŠKE OSEBE   O
+  308J                   NOŠNJA ZNAMENJ DRUGE URADNE OSEBE   O
+  308K                   OPRAVA URADNEGA DEJANJA POLICISTA   O
+  308L                   OPRAVA URADNEGA DEJANJA CARINIKA   O
+  308M                   OPRAVA URADNEGA DEJANJA VOJAŠKE OSEBE   O
+  308N                   OPRAVA URADNEGA DEJANJA DRUGE URADNE OSEBE   O
+  309A                   IZDELAVA   O
+  309B                   PRIDOBIVANJE   O
+  309C                   PRODAJA   O
+  309D                   DRUGAÈNO OMOGOÈANJE PRIDOBITVE DRUGIM   O
+  309E                   HRANJENJE   O
+  309F                   OMOGOÈANJE PRIDOBITVE DRUGIM   O
+  309G                   POSEDOVANJE   O
+  309H                   DAJANJE V UPORABO   O
+  309I                   UVOZ   O
+  309J                   IZVOZ   J
+  309K                   DRUG NAÈIN ZAGOTAVLJANJA PRIPOMOÈKOV ZA VDOR V INFOR. SISTEM   O
+  309L                   DRUG NAÈIN ZAGOTAVLJANJA PRIPOMOÈKOV ZA NEUPR. VSTOP V INF. SIST.   O
+  310A                   IZDELAVA   O
+  310B                   PRODAJA   O
+  310C                   PRIDOBIVANJE   O
+  310D                   MENJAVA ZA DRUGO OROŽJE   O
+  310E                   MENJAVA ZA DRUGO STVAR   O
+  310F                   VNOS V DRŽAVO   O
+  310G                   NEDOVOLJENIH BOJNIH SREDSTEV   O
+  310H                   BOJNIH SREDSTEV Z OMEJITVAMI   O
+  310I                   V VELIKI KOLIÈINI   O
+  310J                   V VELIKI VREDNOSTI   O
+  310K                   VELIKA NEVARNOST   O
+  310L                   HRAMBA   O
+  3101                   IZDELAVA DOMA   O
+  3102                   IZDELAVA V PODJETJU   O
+  3103                   PRODAJA V RS   O
+  3104                   PRODAJA V TUJINO   O
+  3105                   PONUJANJE   O
+  311A                   PRESTOP   O
+  311B                   POSKUS PRESTOPA   O
+  311C                   OBOROŽEN   O
+  311D                   S SILO   O
+  311E                   TRAJNO TIHOTAPLJENJE LJUDI   O
+  311F                   ENKRATNO TIHOTAPLJENJE LJUDI IZ KORISTOLJUBJA   O
+  311G                   TIHOTAPLJENJE LJUDI V ORGANIZIRANI SKUPINI   O
+  311H                   PRIDOBITEV PREMOŽENJSKE KORISTI SEBI   O
+  311I                   ZAGOTAVLJANJE DELOVNE SILE   O
+  311J                   POVZROÈITEV NEVARNOSTI   O
+  311K                   PODPIRANJE TERORISTIÈNE DEJAVNOSTI   O
+  311L                   V HUDODELSKI ZDRUŽBI   O
+  3110                   PRIDOBITEV PREMOŽENJSKE KORISTI DRUGIM   O
+  3111                   S SODELOVANJEM URADNE OSEBE   O
+  3112                   ORGANIZATOR
+  3113                   VODNIK
+  3114                   PREVOZNIK
+  3115                   IZ HUMANITARNIH NAMENOV
+  3116                   UPIRANJE ZAKONITI ODSTRANITVI   O
+  3117                   SPRAVLJANJE TUJCEV V RS   O
+  3118                   PREVAŽANJE TUJCEV PREKO RS   O
+  3119                   POMOÈ PRI SKRIVANJU TUJCEV   O
+  312A                   ZNAMENJA ZA POMOÈ   O
+  312B                   ZNAMENJA ZA NEVARNOST   O
+  312C                   UKREPANJE PRISTOJNIH BREZ POTREBE   O
+  313A                   VZETJE PRAVICE   O
+  313B                   VZETJE NAMIŠLJENE PRAVICE   O
+  313C                   S SILO   O
+  313D                   Z RESNO GROŽNJO Z NAPADOM NA ŽIVLJENJE   O
+  313E                   Z RESNO GROŽNJO Z NAPADOM NA TELO   O
+  314A                   OVIRANJE   O
+  314B                   PREPREÈITEV   O
+  315A                   UNIÈENJE GROBA (PREKOPANJE, RAZDIRANJE...)   O
+  315B                   UNIÈENJE VEÈ GROBOV HKRATI   O
+  315C                   DVA ALI VEÈ STORILCEV   O
+  316A                   SKRITJE   O
+  316B                   PRISVOJITEV   O
+  316C                   POŠKODOVANJE   O
+  316D                   UNIÈENJE   O
+  316E                   DRUGAÈNA OSKRUNITEV   O
+  317A                   S POŽAROM   O
+  317B                   S POVODNIJO   O
+  317C                   Z EKSPLOZIJO   O
+  317D                   S STRUPOM   O
+  317E                   S STRUPENIM PLINOM   O
+  317F                   Z IONIZIRAJOÈIM SEVANJEM   O
+  317G                   Z MOTORNO SILO   O
+  317H                   Z ELEKTRIÈNO ENERGIJO   O
+  317I                   Z DRUGO ENERGIJO   O
+  317J                   Z DRUGIM SPLOŠNO NEVARNIM DEJANJEM/SREDSTVOM   O
+  317K                   Z OPUSTITVIJO DOLŽNEGA RAVNANJA   O
+  317L                   POVZROÈENA NEVARNOST ZA ŽIVLJENJE   O
+  317M                   POVZROÈENA NEVARNOST ZA PREMOŽENJE   O
+  317N                   POVZROÈENA SMRT   O
+  317O                   POVZROÈENA HUDA TELESNA POŠKODBA   O
+  317P                   POVZROÈENA VELIKA PREMOŽENJSKA ŠKODA   O
+  3171                   PRI POSKUSU SAMOMORA
+  3172                   Z NEZGODO PRI DELU
+  318A                   RAVNANJE V NASPROTJU S PREDPISI   O
+  318B                   RAVNANJE V NASPROTJU S TEHNIÈNIMI PRAVILI   O
+  318C                   POVZROÈENA NEVARNOST ZA ŽIVLJENJE   O
+  318D                   POVZROÈENA NEVARNOST ZA PREMOŽENJE   O
+  318E                   POVZROÈENA SMRT   O
+  318F                   POVZROÈENA HUDA TELESNA POŠKODBA   O
+  318G                   POVZROÈENA VELIKA PREMOŽENJSKA ŠKODA   O
+  319A                   RAVNANJE V NASPROTJU S PREDPISI   O
+  319B                   RAVNANJE V NASPROTJU S TEHNIÈNIMI PRAVILI   O
+  319C                   PRI POSESTI   O
+  319D                   PRI UPORABI   O
+  319E                   Z ODLOŽITVIJO   O
+  319F                   PRI PREVOZU   O
+  319G                   PRI DRUGAÈNEM RAZPOLAGANJU   O
+  319H                   PROTIPRAVNA PRIDOBITEV   O
+  319I                   PROTIPRAVNA POSEST   O
+  319J                   PROTIPRAVNA ODLOŽITEV   O
+  319K                   PROTIPRAVNA UPORABA   O
+  319L                   PROTIPRAVEN PREVOZ   O
+  319M                   PROTIPRAVNO IZROÈANJE DRUGEMU   O
+  319N                   POVZROÈENA SMRT   O
+  319O                   POVZROÈENA HUDA TELESNA POŠKODBA   O
+  319P                   POVZROÈENA VELIKA PREMOŽENJSKA ŠKODA   O
+  320A                   UNIÈENJE   O
+  320B                   POŠKODOVANJE   O
+  320C                   ODSTRANITEV   O
+  320D                   MOTNJE V PRESKRBI PREBIVALSTVA   O
+  320E                   MOTNJE V PRESKRBI GOSPODARSTVA   O
+  321A                   PREVOZ   O
+  321B                   ODDAJA ZA PREVOZ Z JAVNIM PROM. SREDSTVOM   O
+  321C                   OSEBNI PRENOS PRI PREVOZU Z JAVNIM PROM. SREDSTVOM   O
+  322A                   KLIC NA POMOÈ   O
+  322B                   ZNAMENJE ZA NEVARNOST   O
+  322C                   PRESLEPITEV O PODANI VARNOSTI   O
+  322D                   DRUGE ZLORABE   O
+  323A                   NE NAZNANI   O
+  323B                   NE ODVRNE   O
+  323C                   NE BI OGROZIL SEBE   O
+  323D                   NE BI OGROZIL KOGA DRUGEGA   O
+  323E                   OB POŽARU   O
+  323F                   OB POVODNJI   O
+  323G                   OB EKSPLOZIJI   O
+  323H                   OB PROMETNI NESREÈI   O
+  323I                   OB EKOLOŠKI NESREÈI   O
+  323J                   NEVARNOST ZA ŽIVLJENJE LJUDI   O
+  323K                   NEVARNOST ZA PREMOŽENJE VEÈJE VREDNOSTI   O
+  323L                   NEVARNOST ZA ÈEZMERNO OBREMENITEV OKOLJA   O
+  323M                   PREPREÈITEV DEJANJA S SILO   O
+  323N                   PREPREÈITEV DEJANJA Z GROŽNJO   O
+  323O                   PREPREÈITEV S PRESLEPITVIJO   O
+  324A                   PRI ODVRAÈANJU   O
+  324B                   PRI ODPRAVLJANJU POSLEDIC   O
+  326A                   ŽELEZNIŠKI PROMET   O
+  326B                   LADIJSKI PROMET   O
+  326C                   ZRAÈNI PROMET   O
+  326D                   PROMET NA ŽIÈNICAH   O
+  326E                   AVTOBUSNI PROMET   O
+  327A                   UNIÈENJE NAPRAV...   O
+  327B                   POŠKODOVANJE NAPRAV...   O
+  327C                   DAJANJE NAPAÈNIH SIGNALOV/ZNAMENJ   O
+  327D                   POSTAVLJANJE OVIR   O
+  327E                   DRUGE OBLIKE OGROŽANJA   O
+  327F                   POVZROÈENA NEVARNOST ZA ŽIVLJENJE   O
+  327G                   POVZROÈENA NEVARNOST ZA PREMOŽENJE   O
+  327H                   POVZROÈENA SMRT   O
+  327I                   POVZROÈENA HUDA TELESNA POŠKODBA   O
+  327J                   POVZROÈENA VELIKA PREMOŽENJSKA ŠKODA   O
+  328A                   PRI NADZORU VZDRŽEVANJA CESTNIH OBJEKTOV   O
+  328B                   PRI NADZORU PROMETNIH SREDSTEV   O
+  328C                   PRI NADZORU JAVNEGA PROMETA   O
+  328D                   PRI VODENJU/USMERJANJU VOŽNJE   O
+  328E                   POVZROÈENA NEVARNOST ZA ŽIVLJENJE   O
+  328F                   POVZROÈENA NEVARNOST ZA PREMOŽENJE   O
+  328G                   IZDAJA NALOGA NEZMOŽNEMU VOZNIKU   O
+  328H                   IZDAJA NALOGA ZA VOZILO S HIBAMI   O
+  328I                   POVZROÈENA SMRT   O
+  328J                   POVZROÈENA HUDA TELESNA POŠKODBA   O
+  328K                   POVZROÈENA VELIKA PREMOŽENJSKA ŠKODA   O
+  329A                   POŠKODBA S PROMETNIM SREDSTVOM   O
+  329B                   POŠKODBA ZARADI PROMETNEGA SREDSTVA   O
+  329C                   POVZROÈENA SMRT   O
+  329D                   POVZROÈENA HUDA TELESNA POŠKODBA   O
+  330A                   S SILO   O
+  330B                   Z RESNO GROŽNJO O UPORABI SILE   O
+  330C                   LETALO   O
+  330D                   LADJA   O
+  331A                   OGROŽANJE VARNOSTI LETA LETALA   O
+  331B                   PODTAKNITEV V LETALO, KI LETI   O
+  331C                   POSEDOVANJE PRI SEBI V LETALU, KO LETI   O
+  331D                   UNIÈENJE NAVIGACIJSKIH NAPRAV OB LETU   O
+  331E                   POŠKODOVANJE NAVIGACIJSKIH NAPRAV OB LETU   O
+  331F                   POVZROÈITEV DRUGE ŠKODE OB LETU   O
+  331G                   DAJANJE KRIVIH OBVESTIL V ZVEZI Z LETOM   O
+  331H                   OGROŽANJE VARNOSTI NA LETALIŠÈU   O
+  331I                   S SILO NA LETALIŠÈU   O
+  331J                   Z GROŽNJO O UPORABI SILE NA LETALIŠÈU   O
+  331K                   UNIÈENJE LETALA NA LETALIŠÈU   O
+  331L                   POŠKODOVANJE LETALA NA LETALIŠÈU   O
+  331M                   POŠKODOVANJE VARNOSTNIH NAPRAV NA LETALIŠÈU   O
+  331N                   UNIÈENJE VARNOSTNIH NAPRAV NA LETALIŠÈU   O
+  331O                   UNIÈENJE LETALIŠÈA   O
+  331P                   POVZROÈENA SMRT   O
+  332A                   UNIÈENJE   O
+  332B                   POŠKODOVANJE   O
+  332C                   ODSTRANITEV   O
+  333A                   ÈEZMERNO ONESNAŽENJE OKOLJA   O
+  333B                   RAZVREDNOTENJE OKOLJA   O
+  333C                   ÈEZMERNA RABA NARAVNIH DOBRIN   O
+  333D                   ÈEZMERNO IZKORIŠÈANJE NARAVNIH DOBRIN   O
+  333E                   POVZROÈENA NEVARNOST ZA ŽIVLJENJE   O
+  333F                   POVZROÈENA NEVARNOST ZA ZDRAVJE   O
+  333G                   POVZROÈENA NEVARNOST ZA DELNO POŠKODBO OKOLJA   O
+  333H                   POVZROÈENA NEVARNOST ZA POPOLNO POŠKODBO OKOLJA   O
+  333I                   POVZROÈENA NEVARNOST ZA UNIÈENJE OKOLJA   O
+  333J                   POSLABŠANJE ZDRAVJA   O
+  333K                   DELNO UNIÈENJE ŽIVALSKEGA SVETA   O
+  333L                   POPOLNO UNIÈENJE ŽIVALSKEGA SVETA   O
+  333M                   DELNO UNIÈENJE RASTLINSKEGA SVETA   O
+  333N                   POPOLNO UNIÈENJE RASTLINSKEGA SVETA   O
+  333O                   DELNO UNIÈENJE ZAJEMALIŠÈ PITNE VODE   O
+  333P                   POPOLNO UNIÈENJE ZAJEMALIŠÈ PITNE VODE   O
+  333R                   DRUGA HUDA POŠKODBA OKOLJA   O
+  333S                   PONAVLJAJOÈA KRITIÈNA ONESNAŽENOST   O
+  333T                   PONAVLJAJOÈE KRITIÈNO RAZVREDNOTENJE OKOLJA   O
+  334A                   VOŽNJA   O
+  334B                   PRIREJANJE TRENINGA   O
+  334C                   PRIREJANJE TEKMOVANJA   O
+  335A                   Z ZLORABO POLOŽAJA   O
+  335B                   Z ZLORABO POOBLASTILA   O
+  335C                   VNOS   O
+  335D                   OMOGOÈANJE VNOSA   O
+  3351                   S PRESLEPITVIJO URADNE OSEBE
+  3352                   Z LAŽNIM DEKLARIRANJEM
+  3353                   S SODELOVANJEM URADNE OSEBE
+  3354                   IZVEN MEJNE KONTROLE
+  3355                   LAŽNI TRANZIT
+  336A                   ODLAGANJE   O
+  336B                   SKLADIŠÈENJE   O
+  336C                   ZAVRŽENJE   O
+  336D                   NEVARNOST ZA ZDRAVJE   O
+  336E                   NEVARNOST ZA ŽIVLJENJE   O
+  336F                   NEVARNOST ZA OKOLJE   O
+  337A                   POVZROÈENA NEVARNOST ZA ZDRAVJE LJUDI   O
+  337B                   POVZROÈENA NEVARNOST ZA ŽIVLJENJE LJUDI   O
+  337C                   POVZROÈENA SMRT LJUDI   O
+  337D                   POVZROÈENA HUDA TELESNA POŠKODBA   O
+  337E                   POVZROÈENA NEVARNOST ZA ZDRAVJE ŽIVINE   O
+  337F                   POVZROÈENA NEVARNOST ZA ŽIVLJENJE ŽIVINE   O
+  337G                   POVZROÈEN POGIN ŽIVALI VEÈJE VREDNOSTI   O
+  337H                   POVZROÈEN POGIN VEÈJEGA ŠTEVILA ŽIVALI   O
+  338A                   POVZROÈEN POGIN VEÈJEGA ŠTEVILA ŽIVALI   O
+  3381                   ONESNAŽENJE ŽIVIL   O
+  3382                   ONESNAŽENJE KRME   O
+  3383                   POVZROÈENA NEVARNOST ZA ZDRAVJE LJUDI   O
+  3384                   POVZROÈENA NEVARNOST ZA ŽIVLJENJE LJUDI   O
+  3385                   POVZROÈENA SMRT LJUDI   O
+  3386                   POVZROÈENA HUDA TELESNA POŠKODBA LJUDI   O
+  3387                   POVZROÈENA NEVARNOST ZA ZDRAVJE ŽIVINE   O
+  3388                   POVZROÈENA NEVARNOST ZA ŽIVLJENJE ŽIVINE   O
+  3389                   POVZROÈEN POGIN ŽIVALI VEÈJE VREDNOSTI   O
+  339A                   ZA IZKORIŠÈANJE   O
+  339B                   ZA GRADNJO   O
+  339C                   ZAVZETJE ZAVAROVANEGA ZEMLJIŠÈA   O
+  339D                   ZAVZETJE NARAVNE VREDNOTE   O
+  339E                   ZAVZETJE JAVNEGA DOBRA   O
+  341A                   KRÈENJE V VEÈJEM OBSEGU   O
+  341B                   SEKANJE NA GOLO   O
+  341C                   DRUGAÈNO UNIÈENJE   O
+  341D                   V VAROVALNEM GOZDU   O
+  341E                   V GOZDU S POSEBNIM POMENOM   O
+  341F                   DRŽAVNI GOZD   O
+  341G                   ZASEBNI GOZD   O
+  342A                   SUROVO RAVNANJE   O
+  342B                   POVZROÈANJE NEPOTREBNEGA TRPLJENJA   O
+  343A                   UBITJE   O
+  343B                   RANITEV   O
+  343C                   UJETJE   O
+  343D                   DIVJAD VEÈJE VREDNOSTI   O
+  343E                   DIVJAD POMEMBNA PO PREDPISIH O LOVSTVU   O
+  343F                   PREPOVEDANA DIVJAD (OGROŽENE VRSTE)   O
+  343G                   BREZ POSEBNEGA DOVOLJENJA ZA DOLOÈENO DIVJAD   O
+  343H                   S SREDSTVOM/NAÈINOM ZA MNOŽIÈNO POKONÈEVANJE   O
+  343I                   S POMOÈJO MOTORNEGA VOZILA   O
+  343J                   S POMOÈJO ŽAROMETA   O
+  343K                   V ÈASU OMEJITVE LOVA   O
+  343L                   V SKUPINI   O
+  344A                   POVZROÈITEV POGINA   O
+  344B                   ŠKODLJIVOST ZA RAZMNOŽEVANJE   O
+  345A                   NEVARNOST ZA REJO ŽIVALI   O
+  345B                   NEVARNOST ZA RASTLINSKI SVET   O
+  345C                   RAZŠIRITEV KUŽNE BOLEZNI ŽIVALI   O
+  345D                   RAZŠIRITEV RASTLINSKIH ŠKODLJIVCEV   O
+  346A                   IZDELAVA ZA PRODAJO   O
+  346B                   RAZPEÈEVANJE   O
+  346C                   POGIN ŽIVALI VEÈJE VREDNOSTI   O
+  346D                   POGIN VEÈJEGA ŠTEVILA ŽIVALI   O
+  346E                   RAZŠIRITEV KUŽNE BOLEZNI   O
+  348A                   S SILO   O
+  348B                   Z GROŽNJO O UPORABI SILE   O
+  348C                   OGROŽANJE OBSTOJA RS   O
+  348D                   POSKUS SPREMEMBE USTAVNE UREDITVE RS   O
+  348E                   POSKUS STRMOGLAVLJENJA NAJVIŠJIH DRŽAVNIH ORGANOV RS   O
+  349A                   S SILO   O
+  349B                   Z GROŽNJO O UPORABI SILE   O
+  349C                   ODCEPITEV DELA OZEMLJA RS   O
+  349D                   PRIPOJITEV DELA OZEMLJA RS DRUGI DRŽAVI   O
+  350A                   SPRAVLJANJE V PODREJENOST   O
+  350B                   SPRAVLJANJE V ODVISNOST   O
+  351A                   OZEMLJE   O
+  351B                   MORJE   O
+  351C                   ZRAÈNI PROSTOR   O
+  352A                   OGROŽANJE USTAVNE UREDITVE RS   O
+  352B                   OGROŽANJE VARNOSTI RS   O
+  352C                   PREDSEDNIKA RS   O
+  352D                   PREDSEDNIKA DRŽAVNEGA ZBORA RS   O
+  352E                   PREDSEDNIKA DRŽAVNEGA SVETA RS   O
+  352F                   PREDSEDNIKA VLADE RS   O
+  352G                   PREDSEDNIKA USTAVNEGA SODIŠÈA RS   O
+  352H                   PREDSEDNIKA VRHOVNEGA SODIŠÈA RS   O
+  352I                   POSLANCA   O
+  352J                   DRŽAVNEGA SVETNIKA   O
+  352K                   ÈLANA VLADE   O
+  352L                   SODNIKA USTAVNEGA SODIŠÈA   O
+  352M                   SODNIKA VRHOVNEGA SODIŠÈA   O
+  352N                   PREISKOVALNEGA SODNIKA   O
+  352O                   RAZSOJAJOÈEGA SODNIKA   O
+  352P                   DRŽAVNEGA TOŽILCA   O
+  352R                   ZASTOPNIKA DRŽAVNEGA TOŽILCA   O
+  353A                   OGROŽANJE USTAVNE UREDITVE RS   O
+  353B                   OGROŽANJE VARNOSTI RS   O
+  353C                   Z UGRABITVIJO   O
+  353D                   NASILJE ZOPER NJEGA   O
+  353E                   NASILJE ZOPER NJEGOVE BLIŽNJE   O
+  353F                   NAPAD NJEGOVIH URADNIH PROSTOROV   O
+  353G                   NAPAD NJEGOVEGA ZASEBNEGA STANOVANJA   O
+  353H                   NAPAD NJEGOVEGA PREVOZNEGA SREDSTVA   O
+  353I                   PREDSEDNIKA RS   O
+  353J                   PREDSEDNIKA DRŽAVNEGA ZBORA RS   O
+  353K                   PREDSEDNIKA DRŽAVNEGA SVETA RS   O
+  353L                   PREDSEDNIKA VLADE RS   O
+  353M                   PREDSEDNIKA USTAVNEGA SODIŠÈA RS   O
+  353N                   PREDSEDNIKA VRHOVNEGA SODIŠÈA RS   O
+  353O                   POSLANCA   O
+  353P                   DRŽAVNEGA SVETNIKA   O
+  353R                   ÈLANA VLADE   O
+  353S                   SODNIKA USTAVNEGA SODIŠÈA   O
+  353T                   SODNIKA VRHOVNEGA SODIŠÈA   O
+  353U                   PREISKOVALNEGA SODNIKA   O
+  353V                   RAZSOJAJOÈEGA SODNIKA   O
+  353X                   ZASTOPNIKA DRŽAVNEGA TOŽILCA   O
+  353Z                   DRŽAVNEGA TOŽILCA   O
+  354A                   ORGANIZIRANJE UPORA   O
+  354B                   VODENJE UPORA   O
+  354C                   SODELOVANJE V UPORU   O
+  354D                   OGROŽANJE OBSTOJA RS   O
+  354E                   SPREMEMBA USTAVNE UREDITVE RS   O
+  354F                   STRMOGLAVLJENJE NAJVIŠJIH DRŽ. ORGANOV RS   O
+  355A                   OGROŽANJE USTAVNE UREDITVE RS   O
+  355B                   OGROŽANJE VARNOSTI RS   O
+  355C                   Z EKSPLOZIJO   O
+  355D                   S POŽAROM   O
+  355E                   Z DRUGIM NEVARNIM DEJANJEM, NASILJEM   O
+  355F                   GROŽNJA Z UPORABO JEDRSKE SNOVI   O
+  355G                   GROŽNJA Z UPORABO DRUGIH SREDSTEV   O
+  356A                   OGROŽANJE USTAVNE UREDITVE RS   O
+  356B                   OGROŽANJE VARNOSTI RS   O
+  356C                   EKSPLOZIJA   O
+  356D                   POŽIG   O
+  356E                   DRUGAÈNO UNIÈENJE   O
+  356F                   DRUGAÈNO POŠKODOVANJE   O
+  356G                   NA ŠKODO VARNOSTI LJUDI   O
+  356H                   NA ŠKODO PRESKRBE PREBIVALSTVA   O
+  356I                   NA ŠKODO GOSPODARSTVA   O
+  357A                   OGROŽANJE USTAVNE UREDITVE RS   O
+  357B                   OGROŽANJE VARNOSTI RS   O
+  357C                   V ŠKODO DELODAJALCA   O
+  357D                   V ŠKODO DRUGEGA   O
+  357E                   V JAVNO ŠKODO   O
+  357F                   V ZASEBNO ŠKODO   O
+  358A                   SLUŽENJE TUJI DRŽAVI/NJENI ORGANIZACIJI   O
+  358B                   SLUŽENJE AGENTU TUJE DRŽAVE   O
+  358C                   ZBIRANJE PODATKOV   O
+  358D                   SPOROÈANJE PODATKOV   O
+  358E                   IZROÈANJE PODATKOV   O
+  358F                   OMOGOÈANJE DOSTOPA DO PODATKOV   O
+  358G                   ORGANIZIRANJE VOHUNSKE MREŽE   O
+  358H                   VODENJE VOHUNSKE MREŽE   O
+  358I                   VSTOP V TUJO OBVEŠÈEVALNO SLUŽBO   O
+  358J                   PODPIRANJE DELA TUJE OBVEŠÈEVALNE SLUŽBE   O
+  359A                   ZBIRANJE PODATKOV   O
+  359B                   SPOROÈANJE PODATKOV   O
+  359C                   IZROÈANJE PODATKOV   O
+  359D                   OMOGOÈANJE DOSTOPA DO PODATKOV   O
+  359E                   TAJNOST NA PODLAGI PREDPISA   O
+  359F                   TAJNOST NA PODLAGI ODLOÈBE ORGANA   O
+  359G                   POSLEDICE SO NASTALE   O
+  359H                   POSLEDICE BI LAHKO NASTALE   O
+  359I                   OGROŽENA VARNOST DRŽAVE   O
+  359J                   OGROŽENE POLITIÈNE KORISTI DRŽAVE   O
+  359K                   OGROŽENE GOSPODARSKE KORISTI DRŽAVE   O
+  360A                   OGROŽANJE OBSTOJA RS   O
+  360B                   OGROŽANJE USTAVNE UREDITVE RS   O
+  360C                   OGROŽANJE VARNOSTI RS   O
+  360D                   S FINANÈNO POMOÈJO IZ TUJINE   O
+  360E                   Z MATERIALNO POMOÈJO IZ TUJINE   O
+  360F                   Z DRUGO POMOÈJO IZ TUJINE   O
+  360G                   IZDELAVA/RAZMNOŽEVANJE PROPAGANDNEGA MATERIALA   O
+  360H                   HRANJENJE PROPAGANDNEGA MATERIALA   O
+  360I                   RAZŠIRJANJE PROPAGANDNEGA MATERIALA   O
+  362A                   SMRT OSEBE   O
+  362B                   HUDO NASILJE   O
+  362C                   VELIKO RAZDEJANJE   O
+  363A                   NA PODLAGI OSEBNEGA POZIVA   O
+  363B                   NA PODLAGI SPLOŠNEGA POZIVA   O
+  363C                   IZOGIBANJE NABORU   O
+  363D                   IZOGIBANJE SLUŽENJU VOJAŠKEGA ROKA   O
+  363E                   IZOGIBANJE VOJAŠKI VAJI   O
+  363F                   IZOGIBANJE DRUGI OBRAMBNI OBVEZNOSTI   O
+  363G                   ODHOD V TUJINO   O
+  363H                   NEVRNITEV V RS   O
+  364A                   IZOGIBANJE SLUŽENJU VOJAŠKEGA ROKA   O
+  364B                   IZOGIBANJE VOJAŠKI VAJI   O
+  364C                   IZOGIBANJE DRUGI OBRAMBNI OBVEZNOSTI   O
+  364D                   HLINJENJE BOLEZNI   O
+  364E                   PRESLEPITEV S PONAREJENO LISTINO   O
+  364F                   DRUGAÈNA PRESLEPITEV   O
+  364G                   SAMOPOŠKODOVANJE   O
+  364H                   Z DOVOLJENJEM GA POŠKODUJE KDO DRUG   O
+  364I                   BREZ DOVOLJENJA GA POŠKODUJE KDO DRUG   O
+  365A                   S SILO   O
+  365B                   Z GROŽNJO O UPORABI SILE   O
+  365C                   PREPREÈITEV OPRAVLJANJA VOJAŠKE DOLŽNOSTI   O
+  365D                   PRISILA K OPRAVLJANJU VOJAŠKE DOLŽNOSTI   O
+  365E                   RAZŽALITEV   O
+  365F                   GRDO RAVNANJE   O
+  365G                   PRIZADEJANJE LAHKE TELESNE POŠKODBE   O
+  365H                   GROŽNJA Z UPORABO OROŽJA   O
+  365I                   STORILEC IZZVAN Z NEZAKONITIM RAVNANJEM   O
+  365J                   STORILEC IZZVAN S SUROVIM RAVNANJEM   O
+  366A                   Z NAPADOM   O
+  366B                   Z RESNO GROŽNJO O NAPADU   O
+  366C                   GROŽNJA Z UPORABO OROŽJA   O
+  366D                   GRDO RAVNANJE   O
+  366E                   PRIZADEJANJE LAHKE TELESNE POŠKODBE   O
+  367A                   PRI HRAMBI   O
+  367B                   PRI POPRAVILU   O
+  367C                   PRI OSKRBI   O
+  367D                   PRI UPORABI   O
+  367E                   IZGUBA   O
+  367F                   UNIÈENJE   O
+  367G                   POŠKODOVANJE   O
+  368A                   UNIÈENJE SREDSTEV   O
+  368B                   POVZROÈITEV NERABNOSTI SREDSTEV   O
+  368C                   OPUŠÈANJE OBRAMBNIH UKREPOV   O
+  368D                   OVIRANJE OBRAMBNIH UKREPOV   O
+  369A                   MED VOJNO   O
+  369B                   MED OBOROŽENIM SPOPADOM   O
+  369C                   DRŽAVLJANOM RS   O
+  369D                   DRŽAVLJANOM DRŽAV ZAVEZNIC RS   O
+  370A                   MED VOJNO   O
+  370B                   MED OBOROŽENIM SPOPADOM   O
+  370C                   V SOVRAŽNIKOVI VOJSKI   O
+  370D                   V DRUGIH SOVRAŽNIKOVIH OBOROŽENIH FORMACIJAH   O
+  370E                   BOJ PROTI RS   O
+  370F                   BOJ PROTI ZAVEZNICAM RS   O
+  371A                   ZA SLUŽBO   O
+  371B                   ZA BOJ   O
+  371C                   ZA TUJO VOJSKO   O
+  371D                   ZA DRUGE TUJE OBOROŽENE FORMACIJE   O
+  371E                   ZA SOVRAŽNIKOVO VOJSKO   O
+  371F                   ZA DRUGE SOVRAŽNIKOVE OBOROŽENE FORMACIJE   O
+  371G                   BOJ PROTI RS   O
+  371H                   BOJ PROTI ZAVEZNICAM RS   O
+  372A                   PRI REKVIZICIJI   O
+  372B                   PRI JEMANJU ŽIVEŽA   O
+  372C                   PRI JEMANJU DRUGIH DOBRIN   O
+  372D                   PRI DRUGIH UKREPIH PROTI PREBIVALSTVU   O
+  372E                   POLITIÈNO SODELOVANJE S SOVRAŽNIKOM   O
+  372F                   GOSPODARSKO SODELOVANJE S SOVRAŽNIKOM   O
+  373A                   DELNO UNIÈENJE   O
+  373B                   POPOLNO UNIÈENJE   O
+  373C                   IZDAJA UKAZA   O
+  373D                   OSEBNA IZVRŠITEV   O
+  373E                   POBOJ   O
+  373F                   HUDO TELESNO POŠKODOVANJE   O
+  373G                   ŠKODOVANJE TELESNEMU ZDRAVJU   O
+  373H                   ŠKODOVANJE DUŠEVNEMU ZDRAVJU   O
+  373I                   PRISILNO IZSELJEVANJE   O
+  373J                   INTERNIRANJE   O
+  373K                   PREPREÈEVANJE ROJSTEV   O
+  373L                   LOÈITEV OTROK OD STARŠEV   O
+  373M                   PROTI NARODNOSTNI SKUPINI   O
+  373N                   PROTI ETNIÈNI SKUPINI   O
+  373O                   PROTI RASNI SKUPINI   O
+  373P                   PROTI VERSKI SKUPINI   O
+  373R                   PROTI SOCIALNI SKUPINI   O
+  373S                   PROTI POLITIÈNI SKUPINI   O
+  373T                   ŠÈUVANJE H GENOCIDU   O
+  373U                   POZIVANJE K IZVRŠITVI   O
+  387A                   SUŽENJSKO RAZMERJE   O
+  387B                   DRUGO PODOBNO RAZMERJE   O
+  387C                   SPRAVLJANJE V RAZMERJE   O
+  387D                   IZKORIŠÈANJE RAZMERJA   O
+  387E                   NAKUP   O
+  387F                   PRODAJA   O
+  387G                   IZROÈITEV DRUGI OSEBI   O
+  387H                   POSREDOVANJE   O
+  387I                   ŠÈUVANJE ŽRTVE K PRODAJI SVOBODE   O
+  387J                   ŠÈUVANJE K PRODAJI SVOBODE KOGA DRUGEGA   O
+  387K                   TIHOTAPSTVO OSEB IZ RS   O
+  387L                   TIHOTAPSTVO OSEB V RS   O
+  387M                   TIHOTAPSTVO OSEB PREKO RS   O
+  387N                   ZARADI PROSTITUCIJE   O
+  387O                   ZARADI DRUGIH OBLIK SPOLNIH ZLORAB   O
+  387P                   ZARADI PRISILNEGA DELA   O
+  387R                   ZARADI SUŽENJSTVA ALI SLUŽABNIŠTVA   O
+  387S                   ZARADI TRGOVINE Z ORGANI, TKIVI, KRVJO   O
+  387T                   NAKUP/PRODAJA OSEBE   O
+  387U                   PREVZEM/IZROÈITEV OSEBE   O
+  387V                   TRANSPORT OSEBE   O
+  387Z                   NASTANITEV OSEBE   O
+  3870                   ZARADI VELIKE PREMOŽENJSKE KORISTI   O
+  3871                   POSREDOVANJE PRI TRGOVINI Z LJUDMI   O
+  3872                   TRGOVINA Z MLADOLETNIKI   O
+  3873                   S SILO   O
+  3874                   Z GROŽNJO   O
+  3875                   S PRESLEPITVIJO   O
+  3876                   Z UGRABITVIJO   O
+  3877                   Z ZLORABO POLOŽAJA   O
+  3878                   ZARADI PRISILJEVANJA K OPLODITVI   O
+  3879                   V HUDODELSKI ZDRUŽBI   O
+  388A                   ŠKODOVANJE TUJI DRŽAVI   O
+  388B                   ŠKODOVANJE TUJI PRAVNI OSEBI   O
+  388C                   ŠKODOVANJE MEDNARODNI ORGANIZACIJI   O
+  388D                   UGRABITEV OSEBE   O
+  388E                   NASILJE NAD OSEBAMI   O
+  388F                   EKSPLOZIJA   O
+  388G                   POŽAR   O
+  388H                   DRUGO NEVARNO DEJANJE/SREDSTVO   O
+  388I                   GROŽNJA Z JEDRSKO SNOVJO   O
+  388J                   GROŽNJA Z DRUGIMI SREDSTVI MNOŽIÈNEGA UNIÈENJA   O
+  388K                   NEVARNOST ZA ŽIVLJENJE LJUDI   O
+  388L                   NEVARNOST ZA PREMOŽENJE   O
+  388M                   SMRT ENE OSEBE   O
+  388N                   SMRT VEÈ OSEB   O
+  388O                   ZAGOTAVLJANJE DENARJA   O
+  388P                   ZAGOTAVLJANJE PREMOŽENJA   O
+  388R                   RUŠENJE USTAVNE UREDITVE   O
+  388S                   HUJŠE MOTNJE V GOSPODARSTVU   O
+  388T                   HUJŠE MOTNJE V JAVNEM ŽIVLJENJU   O
+  388U                   POVZROÈITEV SMRTI/HUDE TELESNE POŠKODBE   O
+  388V                   USTRAHOVANJE LJUDI   O
+  388Z                   PRISILJENJE DRŽAVE   O
+  3881                   PRISILJENJE MEDNARODNE ORGANIZACIJE   O
+  389A                   RESNA GROŽNJA Z NAPADOM   O
+  389B                   NAPAD   O
+  389C                   NANJO   O
+  389D                   URADNIH PROSTOROV   O
+  389E                   ZASEBNEGA STANOVANJA   O
+  389F                   PREVOZNEGA SREDSTVA   O
+  389G                   UGRABITEV   O
+  389H                   DRUGO NASILJE   O
+  389I                   SMRT ENE OSEBE   O
+  389J                   SMRT VEÈ OSEB   O
+  390A                   PRISILJENJE DRŽAVE   O
+  390B                   PRISILJENJE MEDNARODNE ORGANIZACIJE   O
+  390C                   Z GROŽNJO UBOJA   O
+  390D                   Z GROŽNJO POŠKODOVANJA   O
+  390E                   Z ZADRŽANJEM KOT TALCA   O
+  390F                   SMRT ENE OSEBE   O
+  390G                   SMRT VEÈ OSEB   O
+  391A                   ÈLAN POSADKE   O
+  391B                   ÈLAN VOJAŠKE POSADKE   O
+  391C                   ÈLAN POSADKE JAVNEGA PLOVILA   O
+  391D                   POTNIK   O
+  391E                   NA LADJI   O
+  391F                   NA LETALU   O
+  391G                   NA ODPRTEM MORJU   O
+  391H                   NA KRAJU BREZ JURISDIKCIJE   O
+  391I                   UPOR IN PREVZEM OBLASTI   O
+  392F                   TATVINA OSEBNEGA VOZILA
+  392G                   TATVINA TOVORNEGA VOZILA
+  392H                   TATVINA AVTOBUSA
+  392I                   TATVINA KOMBINIRANEGA VOZILA
+  392J                   TATVINA MOTORNEGA KOLESA
+  392K                   VLOM V OSEBNO VOZILO
+  392L                   VLOM V DRUGA MOTORNA VOZILA
+  9998                   PREGON NA PREDLOG   O
+  9999                   NI OZNAKE

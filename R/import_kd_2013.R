@@ -1,13 +1,22 @@
 #' Ta funkcija uvozi podatke o kriminaliteti iz leta 2013
-#' @param infiles Character. Vektor poti do datotek DOGODKI.TXT, OSEBE.TXT in SIFRANTI.TXT
+#' @param kd.file Character. Vektor poti do datoteke o dogodkih kaznivih dejanj.
+#' @param kdo.file Character. Vektor poti do datoteke o osebah udeleženih v kaznivih dejanjih.
+#' @param sifranti Character. Pot do sifranti.RData.
 #' @author Roman Luštrik
 
-importKD2013 <- function(infiles) {
+importKD2013 <- function(kd.file, kdo.file, sifranti) {
+   require(zoo) # za handlanje month-year datumov
+   require(stringr) # trimming whitespace
+   
    ###################
 # Kazniva dejanja #
    ###################
-   kd <- read.table(infiles[grepl("DOGODKI", infiles)], header = FALSE, sep = "$", 
+   kd <- read.table(kd.file, header = FALSE, sep = "$", 
       fileEncoding = "windows-1250", encoding = "UTF8", dec = ",")
+   
+   # import sifranti into new environment to keep things tidy
+   ne <- new.env()
+   load(sifranti, envir = ne)
    
 # struktura baze, glej navodila_kriminaliteta.pdf
    names(kd) <- c(
@@ -39,23 +48,25 @@ importKD2013 <- function(infiles) {
    kd$datum <- as.yearmon(kd$datum, format = "%m.%Y")
    
 # spucaj šifrant
-   sif.in <- readLines(infiles[grepl("SIFRANTI", infiles)], encoding = "WINDOWS-1250")
-   sif.lopm <- sif.in[grep("LOPM", sif.in):length(sif.in)]
-   sif.lopm <- strsplit(sif.lopm, split = "      ")
-# sestavi razrezan list character vektorjev
-   sif.lopm <- do.call("rbind", lapply(sif.lopm[-1], FUN = function(x) data.frame(koda = x[1], lopm = x[3])))
+#   sif.in <- readLines(infiles[grepl("SIFRANTI", infiles)], encoding = "WINDOWS-1250")
+#   sif.lopm <- sif.in[grep("LOPM", sif.in):length(sif.in)]
+#   sif.lopm <- strsplit(sif.lopm, split = "      ")
+## sestavi razrezan list character vektorjev
+#   sif.lopm <- do.call("rbind", lapply(sif.lopm[-1], FUN = function(x) data.frame(koda = x[1], lopm = x[3])))
+   sif.lopm <- ne$LOPM
    
-# upravne enote in stare občine
-   sif.loob <- sif.in[grep("LOOB", sif.in):grep("LOPM", sif.in)]
-   sif.loob <- sif.loob[-c(1, length(sif.loob))]
-   sif.loob <- strsplit(sif.loob, split = "       ")
-   sif.loob <- do.call("rbind", lapply(sif.loob, FUN = function(x) {
-            x <- str_trim(x)
-            data.frame(koda = x[1], loob = x[2])
-         }))
+   # upravne enote in stare občine
+#   sif.loob <- sif.in[grep("LOOB", sif.in):grep("LOPM", sif.in)]
+#   sif.loob <- sif.loob[-c(1, length(sif.loob))]
+#   sif.loob <- strsplit(sif.loob, split = "       ")
+#   sif.loob <- do.call("rbind", lapply(sif.loob, FUN = function(x) {
+#            x <- str_trim(x)
+#            data.frame(koda = x[1], loob = x[2])
+#         }))
+   sif.loob <- ne$LOOB
    
-   kd <- merge(x = kd, y = sif.lopm, by.x = "policijskaUpravaKoda", by.y = "koda", all.x = TRUE)
-   kd <- merge(x = kd, y = sif.loob, by.x = "upravnaEnotaKoda", by.y = "koda", all.x = TRUE)
+   kd <- merge(x = kd, y = sif.lopm, by.x = "policijskaUpravaKoda", by.y = "LOPMSifra", all.x = TRUE)
+   kd <- merge(x = kd, y = sif.loob, by.x = "upravnaEnotaKoda", by.y = "LOOBSifra", all.x = TRUE)
    
    
 # spucaj uporabljenoSredstvo
@@ -75,7 +86,7 @@ importKD2013 <- function(infiles) {
    ###########################
 # Kazniva dejanja - osebe #
    ###########################
-   kdo <- read.table(infiles[grepl("OSEBE", infiles)], header = FALSE, sep = "$", fileEncoding = "windows-1250", encoding = "UTF8")
+   kdo <- read.table(kdo.file, header = FALSE, sep = "$", fileEncoding = "windows-1250", encoding = "UTF8")
    names(kdo) <- c(
       "stevilkaZadeve",  #1
       "vloga",           #2
@@ -96,21 +107,20 @@ importKD2013 <- function(infiles) {
 }
 
 #' @examples
-setwd("./stribog/rawdata")
-require(zoo) # za handlanje month-year datumov
-require(stringr) # trimming whitespace
+setwd("./stribog")
 
 # podatki so dostopni tule:
 # http://policija.si/baza/kd2013.zip
 # sicer pa so bili downloadani s strani policije 31.7.2014
 
 #unzip(paste("./", fn, ".zip", sep = ""), exdir = paste("./kd", leto, sep = ""),)
-dir.create("kd2013")
-download.file("http://policija.si/baza/kd2013.zip", "kd2013.zip")
-unzip("kd2013.zip", exdir = "./kd2013")
-infiles <- list.files("./kd2013", full.names = TRUE)
+dir.create("./rawdata/kd2013")
+download.file("http://policija.si/baza/kd2013.zip", "./rawdata/kd2013.zip")
+unzip("kd2013.zip", exdir = "./rawdata/kd2013")
 
-imp <- importKD2013(infiles = infiles)
+imp <- importKD2013(kd.file = "./rawdata/kd2013/DOGODKI.TXT",
+   kdo.file = "./rawdata/kd2013/OSEBE.TXT",
+   sifranti = "./data/sifranti.RData")
 
 #save(imp$kd, file = "../data/kd2013.RData")
 #save(imp$kdo, file = "../data/kdo2013.RData")

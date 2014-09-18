@@ -1,0 +1,50 @@
+---
+title: "Nezakonit lov v letih 2012 in 2013"
+author: "Roman Lustrik (roman.lustrik@biolitika.si)"
+date: "Thursday, September 18, 2014"
+output: html_document
+---
+
+Podatki iz baze Policije, ki je klasificiran kot kaznivo dejanje`NEZAKONIT LOV`.
+
+```{r priprava podatkov}
+# uvoz podatkov za 2013
+load("../data/kd2013.RData")
+
+nl2013 <- kd[grepl("NEZAKONIT LOV", kd$klasifikacijaKaznivegaDejanja), ]
+nl2013 <- nl2013[, c("datum", "uporabljenoSredstvo1", "uporabljenoSredstvo2", 
+                     "uporabljenoSredstvo3", "prizorisce", "ovadba", "loob")]
+names(nl2013)[grepl("loob", names(nl2013))] <- "SifrantUpravnihEnotinStarihObcin"
+
+rm(kd)
+
+# uvoz podatkov za 2012
+load("q:/workspace/stribog/data/kd2012.RData")
+
+nl2012 <- kd[grepl("NEZAKONIT LOV", kd$klasifikacijaKaznivegaDejanja), ]
+nl2012 <- nl2012[, c("datum", "uporabljenoSredstvo1", "uporabljenoSredstvo2", 
+                     "uporabljenoSredstvo3", "prizorisce", "ovadba", "SifrantUpravnihEnotinStarihObcin")]
+
+# združi podatke
+nl <- rbind(nl2012, nl2013)
+```
+
+Uporabljena so bila naslednja sredstva. V enem kaznivem dejanju je lahko uporabljenih več predmetov. Beleženi so do trije.
+
+```{r}
+as.data.frame(table(droplevels(nl$uporabljenoSredstvo1)))
+as.data.frame(table(droplevels(nl$uporabljenoSredstvo2)))
+as.data.frame(table(droplevels(nl$uporabljenoSredstvo3)))
+```
+
+Pregled pogostnosti kaznivih dejanj glede na prizorišče.
+```{r}
+as.data.frame(table(droplevels(nl$prizorisce)))
+```
+
+Pregled kaznivih dejanj glede na občino. Velja pomniti, da gre za staro razporeditev občin.
+```{r}
+x <- as.data.frame(table(droplevels(nl$SifrantUpravnihEnotinStarihObcin)))
+x[order(x$Freq, decreasing = TRUE), , drop = FALSE]
+```
+

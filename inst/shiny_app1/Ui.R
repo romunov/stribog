@@ -8,18 +8,25 @@ shinyUI(
     headerPanel("stribog"),
     
     # define content of left side of the page ####
-    sidebarPanel(),
+    sidebarPanel(
+      uiOutput("menuUra")
+    ),
     
     # define content of the main part of the page ####   
     mainPanel(
       tabsetPanel(
-        tabPanel(title = "KD Data",
+        tabPanel(title = "KD graf po dnevih v tednu",
+                 plotOutput("kdBarGraph", height = "600px")
+        ),
+        
+        tabPanel(title = "KD podatki",
                  dataTableOutput("kdTable")
         ),
-        tabPanel(title = "KDO Data",
+        
+        tabPanel(title = "KDO podatki",
                  dataTableOutput("kdoTable")
-                 )
         )
       )
+    )
   )
 )
